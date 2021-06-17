@@ -24,7 +24,7 @@ def httpx_get(url):
 
 
 if __name__ == "__main__":
-    readme = root / "README.md"
+    readme = root / "readme.md"
     readme_contents = readme.open().read()
 
     early_brid_text = f"\n```text\n{httpx_get(early_brid_url).text}\n```\n"
