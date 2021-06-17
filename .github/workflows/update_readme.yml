@@ -31,7 +31,7 @@ jobs:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |-
         python update_readme.py
-        cat README.md
+        cat readme.md
     - name: Commit and push if changed
       run: |-
         git diff
