@@ -37,6 +37,6 @@ if __name__ == "__main__":
     readme_contents = replace_chunk(readme_contents, "code_diff", code_diff_text)
 
     codestats_text = f"\n```text\n{httpx_get(codestats_url).text}\n```\n"
-    readme_contents = replace_chunk(readme_contents, "codestats", code_diff_text)
+    readme_contents = replace_chunk(readme_contents, "codestats", codestats_text)
     
     readme.open("w", encoding="utf8").write(readme_contents)
