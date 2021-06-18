@@ -23,7 +23,17 @@
 🌙 Night      43 commits  ███░░░░░░░░░░░░░░░░░░  14.5%
 ```
 
+### 📊 Weekly development breakdown
+
 <!-- early_bird end -->
+
+<!-- code_time start -->
+
+```text
+
+```
+
+<!-- code_time end -->
 
 ### 💻 Recent coding in languages
 
