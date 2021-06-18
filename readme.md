@@ -52,8 +52,10 @@ CSS           +230/     -6 █░░░░░░░░░░░░░░░░�
 <!-- codestats start -->
 
 ```text
-Total XP :::::::::::: lvl   0 (       12 XP) (+    12)
-JSON :::::::::::::::: lvl   0 (       12 XP) (+    12)
+Total XP :::::::::::: lvl   0 (       84 XP) (+    72)
+Markdown :::::::::::: lvl   0 (       54 XP) (+    54)
+Shell Script :::::::: lvl   0 (       17 XP) (+    17)
+.gitignore (GitIgnore)  lvl   0 (        1 XP) (+     1)
 ```
 
 <!-- codestats end -->
