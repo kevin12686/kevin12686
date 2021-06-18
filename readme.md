@@ -23,14 +23,12 @@
 🌙 Night      43 commits  ███░░░░░░░░░░░░░░░░░░  14.5%
 ```
 
-### 📊 Weekly development breakdown
-
 <!-- early_bird end -->
 
 <!-- code_time start -->
 
 ```text
-
+Still Gathering Statistics...
 ```
 
 <!-- code_time end -->
