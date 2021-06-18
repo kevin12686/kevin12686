@@ -9,7 +9,7 @@
 ## Tech Stack
 
 * 💻 C | C++ | Java | Python | Html | Css | Django | Bootstrap | Javascript
-* 🛢️ mySQL | SQL Lite | PosgreSQL
+* 🛢️ MySQL | SQL Lite | PosgreSQL
 * ☁ Information Security | Web Penetration Test
 
 ### I'm an early 🐤
