@@ -3,8 +3,8 @@
 - 🌱 I’m currently studying computer sicence at NCKU.
 - ⚡ I'm currently a full stack web developer.
 
-<a href="https://www.instagram.com/kevin12686/"><img src="https://img.shields.io/badge/instagram-3f729b?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 <a href="https://www.linkedin.com/in/kevin12686/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://www.instagram.com/kevin12686/"><img src="https://img.shields.io/badge/instagram-3f729b?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 
 ## Tech Stack
 
@@ -47,7 +47,7 @@ CSS           +230/     -6 █░░░░░░░░░░░░░░░░�
 
 <!-- code_diff end -->
 
-### 💻 My Code::Stats XP (Recent Languages)
+### 🧰 My Code::Stats XP (Recent Languages)
 
 <!-- codestats start -->
 
