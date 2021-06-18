@@ -30,7 +30,11 @@
 <!-- code_time start -->
 
 ```text
-Still Gathering Statistics...
+Python     38 mins        ███████████▊░░░░░░░░░  56.0%
+Bash       14 mins        ████▍░░░░░░░░░░░░░░░░  21.0%
+C++        10 mins        ███▎░░░░░░░░░░░░░░░░░  15.7%
+HTML       2 mins         ▊░░░░░░░░░░░░░░░░░░░░   3.9%
+Markdown   1 min          ▌░░░░░░░░░░░░░░░░░░░░   2.5%
 ```
 
 <!-- code_time end -->
