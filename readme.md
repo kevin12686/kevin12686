@@ -25,6 +25,8 @@
 
 <!-- early_bird end -->
 
+### 📊 Weekly development breakdown
+
 <!-- code_time start -->
 
 ```text
