@@ -36,16 +36,6 @@ HTML       6 mins         ██▌░░░░░░░░░░░░░░░
 
 <!-- code_time end -->
 
-### 💻 Recent coding in languages
-
-<!-- code_diff start -->
-
-```text
-404: Not Found
-```
-
-<!-- code_diff end -->
-
 ### 🧰 My Code::Stats XP (Recent Languages)
 
 <!-- codestats start -->
