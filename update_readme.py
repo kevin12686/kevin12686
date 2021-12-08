@@ -8,7 +8,6 @@ TOKEN = os.environ.get("GH_TOKEN", "")
 
 early_brid_url = "https://gist.githubusercontent.com/kevin12686/e81c734140d5e860feb3aec007be3177/raw"
 code_time_url = "https://gist.githubusercontent.com/kevin12686/0b22d1886d3af2e8e235b3c46e768064/raw/"
-code_diff_url = "https://gist.githubusercontent.com/kevin12686/6a87c1d1afda559d3eb404ba325b3dc7/raw/"
 codestats_url = "https://gist.githubusercontent.com/kevin12686/98d3939c7c75faeaceec1881dc77c16d/raw/"
 
 
@@ -36,9 +35,6 @@ if __name__ == "__main__":
     
     code_time_text = f"\n```text\n{httpx_get(code_time_url).text}\n```\n"
     readme_contents = replace_chunk(readme_contents, "code_time", code_time_text)
-    
-    code_diff_text = f"\n```text\n{httpx_get(code_diff_url).text}\n```\n"
-    readme_contents = replace_chunk(readme_contents, "code_diff", code_diff_text)
 
     codestats_text = f"\n```text\n{httpx_get(codestats_url).text}\n```\n"
     readme_contents = replace_chunk(readme_contents, "codestats", codestats_text)
