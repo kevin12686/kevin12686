@@ -41,11 +41,9 @@ HTML       1 hr           ██████░░░░░░░░░░░░
 <!-- codestats start -->
 
 ```text
-Total XP :::::::::::: lvl   6 (   76,896 XP) (+   412)
-Python :::::::::::::: lvl   5 (   49,445 XP) (+   233)
-HTML :::::::::::::::: lvl   2 (    7,226 XP) (+   141)
-DjangoTemplate :::::: lvl   1 (    2,060 XP) (+    35)
-XML ::::::::::::::::: lvl   0 (      281 XP) (+     3)
+Total XP :::::::::::: lvl   6 (   77,254 XP) (+   358)
+Python :::::::::::::: lvl   5 (   49,794 XP) (+   349)
+CommandLine ::::::::: lvl   0 (    1,025 XP) (+     9)
 ```
 
 <!-- codestats end -->
