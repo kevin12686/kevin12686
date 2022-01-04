@@ -30,8 +30,7 @@
 <!-- code_time start -->
 
 ```text
-Python     55 mins        ███████████████████▋░  93.8%
-HTML       3 mins         █▎░░░░░░░░░░░░░░░░░░░   6.2%
+Python     14 mins        █████████████████████ 100.0%
 ```
 
 <!-- code_time end -->
