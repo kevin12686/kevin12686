@@ -41,11 +41,9 @@ Text       13 mins        ███████░░░░░░░░░░░
 <!-- codestats start -->
 
 ```text
-Total XP ::::::::::::::::::::: lvl   7 (   89,985 XP) 
-Not been coding recently ::::::::::::::::::::::::::: 🙈
-Probably busy with something else :::::::::::::::::: 🗓
-Or just taking a break ::::::::::::::::::::::::::::: 🌴
-But would be back to it soon! :::::::::::::::::::::: 🤓
+Total XP :::::::::::: lvl   7 (   90,003 XP) (+    18)
+JSON :::::::::::::::: lvl   0 (      597 XP) (+    17)
+Bash :::::::::::::::: lvl   0 (        1 XP) (+     1)
 ```
 
 <!-- codestats end -->
