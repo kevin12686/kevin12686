@@ -43,9 +43,11 @@ Text       10 mins        ██▌░░░░░░░░░░░░░░░
 <!-- codestats start -->
 
 ```text
-Total XP :::::::::::: lvl   7 (   90,690 XP) (+     3)
-Plain text :::::::::: lvl   0 (    1,416 XP) (+     2)
-JavaScript :::::::::: lvl   2 (    7,282 XP) (+     1)
+Total XP ::::::::::::::::::::: lvl   7 (   90,690 XP) 
+Not been coding recently ::::::::::::::::::::::::::: 🙈
+Probably busy with something else :::::::::::::::::: 🗓
+Or just taking a break ::::::::::::::::::::::::::::: 🌴
+But would be back to it soon! :::::::::::::::::::::: 🤓
 ```
 
 <!-- codestats end -->
