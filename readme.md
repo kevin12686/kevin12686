@@ -43,11 +43,8 @@ Text       11 mins        ██▋░░░░░░░░░░░░░░░
 <!-- codestats start -->
 
 ```text
-Total XP ::::::::::::::::::::: lvl   7 (   90,703 XP) 
-Not been coding recently ::::::::::::::::::::::::::: 🙈
-Probably busy with something else :::::::::::::::::: 🗓
-Or just taking a break ::::::::::::::::::::::::::::: 🌴
-But would be back to it soon! :::::::::::::::::::::: 🤓
+Total XP :::::::::::: lvl   7 (   90,705 XP) (+     2)
+Plain text :::::::::: lvl   0 (    1,431 XP) (+     2)
 ```
 
 <!-- codestats end -->
