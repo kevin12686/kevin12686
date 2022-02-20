@@ -42,8 +42,11 @@ PythonStub 0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- codestats start -->
 
 ```text
-Total XP :::::::::::: lvl   7 (   90,707 XP) (+     1)
-Plain text :::::::::: lvl   0 (    1,433 XP) (+     1)
+Total XP ::::::::::::::::::::: lvl   7 (   90,707 XP) 
+Not been coding recently ::::::::::::::::::::::::::: 🙈
+Probably busy with something else :::::::::::::::::: 🗓
+Or just taking a break ::::::::::::::::::::::::::::: 🌴
+But would be back to it soon! :::::::::::::::::::::: 🤓
 ```
 
 <!-- codestats end -->
