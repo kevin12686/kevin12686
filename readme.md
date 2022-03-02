@@ -44,11 +44,10 @@ Bash       0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- codestats start -->
 
 ```text
-Total XP :::::::::::: lvl   7 (   95,820 XP) (+ 2,026)
-Python :::::::::::::: lvl   6 (   61,674 XP) (+ 1,758)
-DjangoTemplate :::::: lvl   1 (    4,092 XP) (+   150)
-HTML :::::::::::::::: lvl   2 (    9,226 XP) (+   117)
-XML ::::::::::::::::: lvl   0 (      324 XP) (+     1)
+Total XP :::::::::::: lvl   7 (   95,820 XP) (+   159)
+Python :::::::::::::: lvl   6 (   61,674 XP) (+   148)
+HTML :::::::::::::::: lvl   2 (    9,226 XP) (+    10)
+DjangoTemplate :::::: lvl   1 (    4,092 XP) (+     1)
 ```
 
 <!-- codestats end -->
