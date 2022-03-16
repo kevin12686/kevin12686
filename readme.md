@@ -40,8 +40,11 @@ Python     18 mins        ██████████████████
 <!-- codestats start -->
 
 ```text
-Total XP :::::::::::: lvl   7 (   98,867 XP) (+     1)
-Python :::::::::::::: lvl   6 (   63,924 XP) (+     1)
+Total XP ::::::::::::::::::::: lvl   7 (   98,867 XP) 
+Not been coding recently ::::::::::::::::::::::::::: 🙈
+Probably busy with something else :::::::::::::::::: 🗓
+Or just taking a break ::::::::::::::::::::::::::::: 🌴
+But would be back to it soon! :::::::::::::::::::::: 🤓
 ```
 
 <!-- codestats end -->
