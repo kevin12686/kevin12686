@@ -30,7 +30,7 @@
 <!-- code_time start -->
 
 ```text
-Python     18 mins        █████████████████████ 100.0%
+Python     15 mins        █████████████████████ 100.0%
 ```
 
 <!-- code_time end -->
