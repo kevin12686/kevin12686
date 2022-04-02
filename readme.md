@@ -42,8 +42,8 @@ Bash       1 min          ▎░░░░░░░░░░░░░░░░░
 <!-- codestats start -->
 
 ```text
-Total XP :::::::::::: lvl   7 (  102,322 XP) (+ 1,111)
-Bash :::::::::::::::: lvl   0 (    1,173 XP) (+ 1,111)
+Total XP :::::::::::: lvl   7 (  102,339 XP) (+    17)
+Plain text :::::::::: lvl   1 (    1,882 XP) (+    17)
 ```
 
 <!-- codestats end -->
