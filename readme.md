@@ -44,11 +44,8 @@ Text       0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- codestats start -->
 
 ```text
-Total XP ::::::::::::::::::::: lvl   8 (  103,104 XP) 
-Not been coding recently ::::::::::::::::::::::::::: 🙈
-Probably busy with something else :::::::::::::::::: 🗓
-Or just taking a break ::::::::::::::::::::::::::::: 🌴
-But would be back to it soon! :::::::::::::::::::::: 🤓
+Total XP :::::::::::: lvl   8 (  103,255 XP) (+   151)
+Python :::::::::::::: lvl   6 (   67,078 XP) (+   151)
 ```
 
 <!-- codestats end -->
