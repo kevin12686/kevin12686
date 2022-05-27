@@ -40,11 +40,8 @@ Python     0 secs         ██████████████████
 <!-- codestats start -->
 
 ```text
-Total XP ::::::::::::::::::::: lvl   8 (  106,964 XP) 
-Not been coding recently ::::::::::::::::::::::::::: 🙈
-Probably busy with something else :::::::::::::::::: 🗓
-Or just taking a break ::::::::::::::::::::::::::::: 🌴
-But would be back to it soon! :::::::::::::::::::::: 🤓
+Total XP :::::::::::: lvl   8 (  106,980 XP) (+    16)
+Bash :::::::::::::::: lvl   0 (    1,189 XP) (+    16)
 ```
 
 <!-- codestats end -->
