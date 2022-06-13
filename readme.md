@@ -43,11 +43,8 @@ GitIgno... 0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- codestats start -->
 
 ```text
-Total XP ::::::::::::::::::::: lvl   8 (  107,882 XP) 
-Not been coding recently ::::::::::::::::::::::::::: 🙈
-Probably busy with something else :::::::::::::::::: 🗓
-Or just taking a break ::::::::::::::::::::::::::::: 🌴
-But would be back to it soon! :::::::::::::::::::::: 🤓
+Total XP :::::::::::: lvl   8 (  107,885 XP) (+     3)
+Plain text :::::::::: lvl   1 (    4,536 XP) (+     3)
 ```
 
 <!-- codestats end -->
