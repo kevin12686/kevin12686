@@ -34,6 +34,7 @@ Jupyter    3 mins         ███████████▋░░░░░░
 Python     2 mins         █████████▎░░░░░░░░░░░  44.1%
 HTML       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 GitIgno... 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Text       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
 <!-- code_time end -->
@@ -43,8 +44,8 @@ GitIgno... 0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- codestats start -->
 
 ```text
-Total XP :::::::::::: lvl   8 (  107,885 XP) (+     3)
-Plain text :::::::::: lvl   1 (    4,536 XP) (+     3)
+Total XP :::::::::::: lvl   8 (  108,066 XP) (+   181)
+HTML :::::::::::::::: lvl   2 (    9,834 XP) (+   181)
 ```
 
 <!-- codestats end -->
