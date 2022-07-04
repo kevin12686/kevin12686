@@ -44,8 +44,8 @@ TeX        0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- codestats start -->
 
 ```text
-Total XP :::::::::::: lvl   8 (  108,747 XP) (+    69)
-Plain text :::::::::: lvl   1 (    4,645 XP) (+    69)
+Total XP :::::::::::: lvl   8 (  108,747 XP) (+    60)
+Plain text :::::::::: lvl   1 (    4,645 XP) (+    60)
 ```
 
 <!-- codestats end -->
