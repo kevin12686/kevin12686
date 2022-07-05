@@ -44,11 +44,8 @@ TypeScript 0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- codestats start -->
 
 ```text
-Total XP ::::::::::::::::::::: lvl   8 (  108,747 XP) 
-Not been coding recently ::::::::::::::::::::::::::: 🙈
-Probably busy with something else :::::::::::::::::: 🗓
-Or just taking a break ::::::::::::::::::::::::::::: 🌴
-But would be back to it soon! :::::::::::::::::::::: 🤓
+Total XP :::::::::::: lvl   8 (  108,789 XP) (+    42)
+Plain text :::::::::: lvl   1 (    4,687 XP) (+    42)
 ```
 
 <!-- codestats end -->
