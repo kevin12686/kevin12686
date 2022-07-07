@@ -30,11 +30,11 @@
 <!-- code_time start -->
 
 ```text
-Python     48 mins        ████████▊░░░░░░░░░░░░  42.2%
-HTML       47 mins        ████████▋░░░░░░░░░░░░  41.4%
-TeX        16 mins        ██▉░░░░░░░░░░░░░░░░░░  14.2%
-Bash       2 mins         ▍░░░░░░░░░░░░░░░░░░░░   1.9%
-TypeScript 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+Python     1 hr           ██████████████▊░░░░░░  70.6%
+TeX        16 mins        ███▉░░░░░░░░░░░░░░░░░  18.9%
+Other      5 mins         █▎░░░░░░░░░░░░░░░░░░░   6.4%
+Bash       2 mins         ▌░░░░░░░░░░░░░░░░░░░░   2.5%
+Text       0 secs         ▏░░░░░░░░░░░░░░░░░░░░   1.0%
 ```
 
 <!-- code_time end -->
@@ -44,8 +44,8 @@ TypeScript 0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- codestats start -->
 
 ```text
-Total XP :::::::::::: lvl   8 (  108,790 XP) (+     1)
-Plain text :::::::::: lvl   1 (    4,688 XP) (+     1)
+Total XP :::::::::::: lvl   8 (  108,791 XP) (+     1)
+Plain text :::::::::: lvl   1 (    4,689 XP) (+     1)
 ```
 
 <!-- codestats end -->
