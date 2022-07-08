@@ -44,8 +44,8 @@ HTML       0 secs         ▏░░░░░░░░░░░░░░░░░
 <!-- codestats start -->
 
 ```text
-Total XP :::::::::::: lvl   8 (  108,883 XP) (+    92)
-Plain text :::::::::: lvl   1 (    4,781 XP) (+    92)
+Total XP :::::::::::: lvl   8 (  108,889 XP) (+    13)
+Plain text :::::::::: lvl   1 (    4,787 XP) (+    13)
 ```
 
 <!-- codestats end -->
