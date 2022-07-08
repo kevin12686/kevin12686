@@ -30,11 +30,11 @@
 <!-- code_time start -->
 
 ```text
-Python     1 hr           ██████████████▊░░░░░░  70.6%
-TeX        16 mins        ███▉░░░░░░░░░░░░░░░░░  18.9%
-Other      5 mins         █▎░░░░░░░░░░░░░░░░░░░   6.4%
-Bash       2 mins         ▌░░░░░░░░░░░░░░░░░░░░   2.5%
+Python     1 hr 1 min     ███████████████▏░░░░░  72.5%
+TeX        16 mins        ████░░░░░░░░░░░░░░░░░  19.3%
+Other      5 mins         █▎░░░░░░░░░░░░░░░░░░░   6.5%
 Text       0 secs         ▏░░░░░░░░░░░░░░░░░░░░   1.0%
+HTML       0 secs         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
 ```
 
 <!-- code_time end -->
@@ -44,8 +44,8 @@ Text       0 secs         ▏░░░░░░░░░░░░░░░░░
 <!-- codestats start -->
 
 ```text
-Total XP :::::::::::: lvl   8 (  108,791 XP) (+     1)
-Plain text :::::::::: lvl   1 (    4,689 XP) (+     1)
+Total XP :::::::::::: lvl   8 (  108,883 XP) (+    92)
+Plain text :::::::::: lvl   1 (    4,781 XP) (+    92)
 ```
 
 <!-- codestats end -->
