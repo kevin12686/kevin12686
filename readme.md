@@ -44,8 +44,9 @@ HTML       0 secs         ▏░░░░░░░░░░░░░░░░░
 <!-- codestats start -->
 
 ```text
-Total XP :::::::::::: lvl   8 (  108,889 XP) (+    13)
-Plain text :::::::::: lvl   1 (    4,787 XP) (+    13)
+Total XP :::::::::::: lvl   8 (  108,902 XP) (+    13)
+Bash :::::::::::::::: lvl   0 (    1,314 XP) (+    12)
+Plain text :::::::::: lvl   1 (    4,788 XP) (+     1)
 ```
 
 <!-- codestats end -->
