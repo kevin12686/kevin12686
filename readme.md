@@ -14,6 +14,15 @@
 
 ### I'm an early 🐤
 
+<!-- spotify start -->
+
+```text
+```
+
+<!-- spotify end -->
+
+### I'm an early 🐤
+
 <!-- early_bird start -->
 
 ```text
