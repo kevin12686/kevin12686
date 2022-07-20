@@ -1,6 +1,6 @@
 ## Hi, there 👋, I'm Kevin. Nice to meet you.
 
-- 🌱 I’m currently studying computer sicence at NCKU.
+- 🌱 I’m currently studying computer sicence at UTD.
 - ⚡ I'm currently a full stack web developer.
 
 <a href="https://www.linkedin.com/in/kevin12686/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
