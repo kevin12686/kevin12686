@@ -12,7 +12,7 @@
 * 🛢️ MySQL | SQL Lite | PosgreSQL
 * ☁ Information Security | Web Penetration Test
 
-### I'm an early 🐤
+### 🎵 My Spotify Top Tracks
 
 <!-- spotify start -->
 
