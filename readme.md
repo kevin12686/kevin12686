@@ -20,13 +20,13 @@
 給未來的自己                                Fish Leong
 嘉宾                                              张远
 谢谢你离开我                                    王铥铥
-傘下 - 電視劇《歡喜來逗陣                   Phil Chang
 門沒鎖                                       呂薔Amuyi
 你聽聽就好                                      李芷婷
 Be Me - 電視劇《都挺好》                        李玉璽
 董小姐                                          宋冬野
 握不住的他                                        萧萧
 轉身以後                                    小男孩樂團
+傘下 - 電視劇《歡喜來逗陣                   Phil Chang
 ```
 
 <!-- spotify end -->
@@ -49,7 +49,11 @@ Be Me - 電視劇《都挺好》                        李玉璽
 <!-- code_time start -->
 
 ```text
-PHP        2 mins         █████████████████████ 100.0%
+Python     1 hr 12 mins   ███████████████▏░░░░░  72.2%
+GitIgno... 16 mins        ███▍░░░░░░░░░░░░░░░░░  16.5%
+Text       5 mins         █▏░░░░░░░░░░░░░░░░░░░   5.7%
+Other      2 mins         ▌░░░░░░░░░░░░░░░░░░░░   2.6%
+PHP        2 mins         ▍░░░░░░░░░░░░░░░░░░░░   2.1%
 ```
 
 <!-- code_time end -->
@@ -59,9 +63,8 @@ PHP        2 mins         ██████████████████
 <!-- codestats start -->
 
 ```text
-Total XP :::::::::::: lvl   8 (  109,003 XP) (+    19)
-Python :::::::::::::: lvl   6 (   68,673 XP) (+    14)
-Plain text :::::::::: lvl   1 (    4,865 XP) (+     5)
+Total XP :::::::::::: lvl   8 (  109,013 XP) (+    10)
+Python :::::::::::::: lvl   6 (   68,683 XP) (+    10)
 ```
 
 <!-- codestats end -->
