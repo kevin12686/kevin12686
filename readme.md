@@ -20,13 +20,13 @@
 給未來的自己                                Fish Leong
 嘉宾                                              张远
 與海無關 (《比悲傷更悲傷                        告五人
+月亮惹的禍                                  Phil Chang
 握不住的他                                        萧萧
 陪我看日出                                    Joi Chua
 毒藥                                            蕭秉治
 我就想你                                      理想混蛋
 500天                                      Sophie Chen
 与我无关                                          阿冗
-轉身以後                                    小男孩樂團
 ```
 
 <!-- spotify end -->
@@ -63,9 +63,9 @@ Bash       2 mins         ░░░░░░░░░░░░░░░░░░
 <!-- codestats start -->
 
 ```text
-Total XP :::::::::::: lvl   8 (  117,218 XP) (+ 1,005)
-Python :::::::::::::: lvl   6 (   76,494 XP) (+   973)
-Plain text :::::::::: lvl   1 (    5,173 XP) (+    32)
+Total XP :::::::::::: lvl   8 (  117,218 XP) (+   635)
+Python :::::::::::::: lvl   6 (   76,494 XP) (+   621)
+Plain text :::::::::: lvl   1 (    5,173 XP) (+    14)
 ```
 
 <!-- codestats end -->
