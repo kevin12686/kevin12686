@@ -22,11 +22,11 @@
 與海無關 (《比悲傷更悲傷                        告五人
 月亮惹的禍                                  Phil Chang
 陪我看日出                                    Joi Chua
+像我這樣的人                                  Mao Buyi
 我就想你                                      理想混蛋
+叮嚀 - 《都挺好》電視劇片                     Mao Buyi
 毒藥                                            蕭秉治
 500天                                      Sophie Chen
-与我无关                                          阿冗
-轉身以後                                    小男孩樂團
 ```
 
 <!-- spotify end -->
