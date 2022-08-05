@@ -21,12 +21,12 @@
 嘉宾                                              张远
 與海無關 (《比悲傷更悲傷                        告五人
 月亮惹的禍                                  Phil Chang
+不遺憾                                       Moon Chew
 陪我看日出                                    Joi Chua
+毒藥                                            蕭秉治
 會呼吸的痛                                  Fish Leong
 我就想你                                      理想混蛋
 傘下 - 電視劇《歡喜來逗陣                   Phil Chang
-叮嚀 - 《都挺好》電視劇片                     Mao Buyi
-毒藥                                            蕭秉治
 ```
 
 <!-- spotify end -->
@@ -59,9 +59,8 @@ Python     2 hrs 47 mins  ██████████████████
 <!-- codestats start -->
 
 ```text
-Total XP :::::::::::: lvl   8 (  118,422 XP) (+   961)
-Python :::::::::::::: lvl   6 (   77,697 XP) (+   960)
-Plain text :::::::::: lvl   1 (    5,174 XP) (+     1)
+Total XP :::::::::::: lvl   8 (  118,426 XP) (+    26)
+Python :::::::::::::: lvl   6 (   77,701 XP) (+    26)
 ```
 
 <!-- codestats end -->
