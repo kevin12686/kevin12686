@@ -20,13 +20,13 @@
 給未來的自己                                Fish Leong
 與海無關 (《比悲傷更悲傷                        告五人
 月亮惹的禍                                  Phil Chang
-嘉宾                                              张远
-不遺憾                                       Moon Chew
 陪我看日出                                    Joi Chua
-會呼吸的痛                                  Fish Leong
-毒藥                                            蕭秉治
+嘉宾                                              张远
 失戀陣線聯盟                               Grasshopper
+會呼吸的痛                                  Fish Leong
 情歌                                        Fish Leong
+不遺憾                                       Moon Chew
+經典                                          Jan Lamb
 ```
 
 <!-- spotify end -->
@@ -63,8 +63,11 @@ CSV        0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- codestats start -->
 
 ```text
-Total XP :::::::::::: lvl   8 (  118,427 XP) (+     1)
-Plain text :::::::::: lvl   1 (    5,175 XP) (+     1)
+Total XP ::::::::::::::::::::: lvl   8 (  118,427 XP) 
+Not been coding recently ::::::::::::::::::::::::::: 🙈
+Probably busy with something else :::::::::::::::::: 🗓
+Or just taking a break ::::::::::::::::::::::::::::: 🌴
+But would be back to it soon! :::::::::::::::::::::: 🤓
 ```
 
 <!-- codestats end -->
