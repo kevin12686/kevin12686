@@ -18,15 +18,15 @@
 
 ```text
 給未來的自己                                Fish Leong
-嘉宾                                              张远
 與海無關 (《比悲傷更悲傷                        告五人
 月亮惹的禍                                  Phil Chang
+嘉宾                                              张远
 不遺憾                                       Moon Chew
 陪我看日出                                    Joi Chua
-毒藥                                            蕭秉治
 會呼吸的痛                                  Fish Leong
-我就想你                                      理想混蛋
-傘下 - 電視劇《歡喜來逗陣                   Phil Chang
+毒藥                                            蕭秉治
+失戀陣線聯盟                               Grasshopper
+情歌                                        Fish Leong
 ```
 
 <!-- spotify end -->
@@ -49,7 +49,11 @@
 <!-- code_time start -->
 
 ```text
-Python     2 hrs 47 mins  █████████████████████ 100.0%
+Python     3 hrs 31 mins  ███████████████████▋░  93.6%
+PHP        9 mins         ▊░░░░░░░░░░░░░░░░░░░░   4.0%
+Text       3 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.7%
+JavaScript 1 min          ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+CSV        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
 <!-- code_time end -->
@@ -59,8 +63,8 @@ Python     2 hrs 47 mins  ██████████████████
 <!-- codestats start -->
 
 ```text
-Total XP :::::::::::: lvl   8 (  118,426 XP) (+    26)
-Python :::::::::::::: lvl   6 (   77,701 XP) (+    26)
+Total XP :::::::::::: lvl   8 (  118,427 XP) (+     1)
+Plain text :::::::::: lvl   1 (    5,175 XP) (+     1)
 ```
 
 <!-- codestats end -->
