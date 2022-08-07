@@ -21,10 +21,10 @@
 與海無關 (《比悲傷更悲傷                        告五人
 月亮惹的禍                                  Phil Chang
 陪我看日出                                    Joi Chua
-嘉宾                                              张远
 失戀陣線聯盟                               Grasshopper
 會呼吸的痛                                  Fish Leong
 情歌                                        Fish Leong
+嘉宾                                              张远
 不遺憾                                       Moon Chew
 經典                                          Jan Lamb
 ```
@@ -49,10 +49,10 @@
 <!-- code_time start -->
 
 ```text
-Python     3 hrs 31 mins  ███████████████████▋░  93.6%
-PHP        9 mins         ▊░░░░░░░░░░░░░░░░░░░░   4.0%
-Text       3 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.7%
-JavaScript 1 min          ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+Python     49 mins        ████████████████▏░░░░  76.9%
+PHP        9 mins         ███░░░░░░░░░░░░░░░░░░  14.8%
+Text       3 mins         █▏░░░░░░░░░░░░░░░░░░░   5.8%
+JavaScript 1 min          ▌░░░░░░░░░░░░░░░░░░░░   2.5%
 CSV        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
