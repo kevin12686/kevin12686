@@ -19,14 +19,14 @@
 ```text
 給未來的自己                                Fish Leong
 與海無關 (《比悲傷更悲傷                        告五人
-月亮惹的禍                                  Phil Chang
 陪我看日出                                    Joi Chua
+月亮惹的禍                                  Phil Chang
+經典                                          Jan Lamb
+多想在平庸的生活拥抱你                        隔壁老樊
 失戀陣線聯盟                               Grasshopper
 會呼吸的痛                                  Fish Leong
 情歌                                        Fish Leong
-經典                                          Jan Lamb
 嘉宾                                              张远
-不遺憾                                       Moon Chew
 ```
 
 <!-- spotify end -->
