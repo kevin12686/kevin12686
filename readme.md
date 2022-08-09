@@ -19,14 +19,14 @@
 ```text
 給未來的自己                                Fish Leong
 與海無關 (《比悲傷更悲傷                        告五人
-月亮惹的禍                                  Phil Chang
-陪我看日出                                    Joi Chua
 多想在平庸的生活拥抱你                        隔壁老樊
+月亮惹的禍                                  Phil Chang
 失戀陣線聯盟                               Grasshopper
+陪我看日出                                    Joi Chua
+嘉宾                                              张远
 不遺憾                                       Moon Chew
 好的情人                                         Yen-J
-情歌                                        Fish Leong
-好的事情                                         Yen-J
+離開你以後 - 電影《你的婚                    Eric Chou
 ```
 
 <!-- spotify end -->
