@@ -20,8 +20,8 @@
 給未來的自己                                Fish Leong
 與海無關 (《比悲傷更悲傷                        告五人
 多想在平庸的生活拥抱你                        隔壁老樊
-月亮惹的禍                                  Phil Chang
 情歌                                        Fish Leong
+月亮惹的禍                                  Phil Chang
 嘉宾                                              张远
 不遺憾                                       Moon Chew
 失戀陣線聯盟                               Grasshopper
