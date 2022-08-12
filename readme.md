@@ -20,12 +20,12 @@
 給未來的自己                                Fish Leong
 與海無關 (《比悲傷更悲傷                        告五人
 多想在平庸的生活拥抱你                        隔壁老樊
+不遺憾                                       Moon Chew
 情歌                                        Fish Leong
 月亮惹的禍                                  Phil Chang
-嘉宾                                              张远
-不遺憾                                       Moon Chew
-失戀陣線聯盟                               Grasshopper
 離開你以後 - 電影《你的婚                    Eric Chou
+失戀陣線聯盟                               Grasshopper
+嘉宾                                              张远
 陪我看日出                                    Joi Chua
 ```
 
@@ -63,8 +63,8 @@ CSV        0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- codestats start -->
 
 ```text
-Total XP :::::::::::: lvl   8 (  118,429 XP) (+     2)
-Plain text :::::::::: lvl   1 (    5,177 XP) (+     2)
+Total XP :::::::::::: lvl   8 (  118,431 XP) (+     4)
+Plain text :::::::::: lvl   1 (    5,179 XP) (+     4)
 ```
 
 <!-- codestats end -->
