@@ -63,11 +63,8 @@ CSV        0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- codestats start -->
 
 ```text
-Total XP ::::::::::::::::::::: lvl   8 (  118,427 XP) 
-Not been coding recently ::::::::::::::::::::::::::: 🙈
-Probably busy with something else :::::::::::::::::: 🗓
-Or just taking a break ::::::::::::::::::::::::::::: 🌴
-But would be back to it soon! :::::::::::::::::::::: 🤓
+Total XP :::::::::::: lvl   8 (  118,429 XP) (+     2)
+Plain text :::::::::: lvl   1 (    5,177 XP) (+     2)
 ```
 
 <!-- codestats end -->
