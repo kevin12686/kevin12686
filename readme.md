@@ -17,16 +17,16 @@
 <!-- spotify start -->
 
 ```text
-給未來的自己                                Fish Leong
 與海無關 (《比悲傷更悲傷                        告五人
 多想在平庸的生活拥抱你                        隔壁老樊
 月亮惹的禍                                  Phil Chang
 不遺憾                                       Moon Chew
+給未來的自己                                Fish Leong
 失戀陣線聯盟                               Grasshopper
-情歌                                        Fish Leong
 離開你以後 - 電影《你的婚                    Eric Chou
-陪我看日出                                    Joi Chua
+情歌                                        Fish Leong
 嘉宾                                              张远
+好的情人                                         Yen-J
 ```
 
 <!-- spotify end -->
@@ -60,8 +60,11 @@ HTML       0 secs         ██▎░░░░░░░░░░░░░░░
 <!-- codestats start -->
 
 ```text
-Total XP :::::::::::: lvl   8 (  118,456 XP) (+    25)
-Plain text :::::::::: lvl   1 (    5,204 XP) (+    25)
+Total XP ::::::::::::::::::::: lvl   8 (  118,456 XP) 
+Not been coding recently ::::::::::::::::::::::::::: 🙈
+Probably busy with something else :::::::::::::::::: 🗓
+Or just taking a break ::::::::::::::::::::::::::::: 🌴
+But would be back to it soon! :::::::::::::::::::::: 🤓
 ```
 
 <!-- codestats end -->
