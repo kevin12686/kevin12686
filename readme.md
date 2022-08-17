@@ -19,13 +19,13 @@
 ```text
 與海無關 (《比悲傷更悲傷                        告五人
 多想在平庸的生活拥抱你                        隔壁老樊
+失戀陣線聯盟                               Grasshopper
 月亮惹的禍                                  Phil Chang
 不遺憾                                       Moon Chew
-失戀陣線聯盟                               Grasshopper
 給未來的自己                                Fish Leong
 離開你以後 - 電影《你的婚                    Eric Chou
-情歌                                        Fish Leong
 嘉宾                                              张远
+情歌                                        Fish Leong
 好的情人                                         Yen-J
 ```
 
@@ -60,8 +60,11 @@ HTML       0 secs         ██▎░░░░░░░░░░░░░░░
 <!-- codestats start -->
 
 ```text
-Total XP :::::::::::: lvl   8 (  118,554 XP) (+    41)
-Plain text :::::::::: lvl   1 (    5,302 XP) (+    41)
+Total XP ::::::::::::::::::::: lvl   8 (  118,554 XP) 
+Not been coding recently ::::::::::::::::::::::::::: 🙈
+Probably busy with something else :::::::::::::::::: 🗓
+Or just taking a break ::::::::::::::::::::::::::::: 🌴
+But would be back to it soon! :::::::::::::::::::::: 🤓
 ```
 
 <!-- codestats end -->
