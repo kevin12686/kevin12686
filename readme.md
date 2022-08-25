@@ -19,14 +19,14 @@
 ```text
 多想在平庸的生活拥抱你                        隔壁老樊
 不遺憾                                       Moon Chew
-離開你以後 - 電影《你的婚                    Eric Chou
 給未來的自己                                Fish Leong
+離開你以後 - 電影《你的婚                    Eric Chou
 好的情人                                         Yen-J
 失戀陣線聯盟                               Grasshopper
+會呼吸的痛                                  Fish Leong
 情歌                                        Fish Leong
 無條件為你                                  Fish Leong
 如果有来生                                      谭维维
-會呼吸的痛                                  Fish Leong
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    90 commits  ███████▎░░░░░░░░░░░░░  34.7%
+🌞 Morning    89 commits  ███████▏░░░░░░░░░░░░░  34.4%
 🌆 Daytime    13 commits  █░░░░░░░░░░░░░░░░░░░░   5.0%
-🌃 Evening    72 commits  █████▊░░░░░░░░░░░░░░░  27.8%
+🌃 Evening    73 commits  █████▉░░░░░░░░░░░░░░░  28.2%
 🌙 Night      84 commits  ██████▊░░░░░░░░░░░░░░  32.4%
 ```
 
