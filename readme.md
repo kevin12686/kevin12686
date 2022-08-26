@@ -63,8 +63,8 @@ SourceMap  0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- codestats start -->
 
 ```text
-Total XP :::::::::::: lvl   8 (  118,973 XP) (+   322)
-Python :::::::::::::: lvl   6 (   78,039 XP) (+   322)
+Total XP :::::::::::: lvl   8 (  119,194 XP) (+   221)
+Plain text :::::::::: lvl   1 (    5,604 XP) (+   221)
 ```
 
 <!-- codestats end -->
