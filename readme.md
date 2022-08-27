@@ -22,8 +22,8 @@
 離開你以後 - 電影《你的婚                    Eric Chou
 不遺憾                                       Moon Chew
 好的情人                                         Yen-J
-失戀陣線聯盟                               Grasshopper
 無條件為你                                  Fish Leong
+失戀陣線聯盟                               Grasshopper
 如果有来生                                      谭维维
 會呼吸的痛                                  Fish Leong
 情歌                                        Fish Leong
@@ -63,8 +63,8 @@ HTML       0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- codestats start -->
 
 ```text
-Total XP :::::::::::: lvl   8 (  119,195 XP) (+     1)
-Plain text :::::::::: lvl   1 (    5,605 XP) (+     1)
+Total XP :::::::::::: lvl   8 (  119,203 XP) (+     8)
+Plain text :::::::::: lvl   1 (    5,613 XP) (+     8)
 ```
 
 <!-- codestats end -->
