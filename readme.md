@@ -18,8 +18,8 @@
 
 ```text
 多想在平庸的生活拥抱你                        隔壁老樊
-給未來的自己                                Fish Leong
 離開你以後 - 電影《你的婚                    Eric Chou
+給未來的自己                                Fish Leong
 不遺憾                                       Moon Chew
 好的情人                                         Yen-J
 無條件為你                                  Fish Leong
