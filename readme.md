@@ -63,8 +63,11 @@ HTML       0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- codestats start -->
 
 ```text
-Total XP :::::::::::: lvl   8 (  119,207 XP) (+     4)
-Plain text :::::::::: lvl   1 (    5,617 XP) (+     4)
+Total XP ::::::::::::::::::::: lvl   8 (  119,207 XP) 
+Not been coding recently ::::::::::::::::::::::::::: 🙈
+Probably busy with something else :::::::::::::::::: 🗓
+Or just taking a break ::::::::::::::::::::::::::::: 🌴
+But would be back to it soon! :::::::::::::::::::::: 🤓
 ```
 
 <!-- codestats end -->
