@@ -20,13 +20,13 @@
 無條件為你                                  Fish Leong
 給未來的自己                                Fish Leong
 如果有来生                                      谭维维
-多想在平庸的生活拥抱你                        隔壁老樊
 離開你以後 - 電影《你的婚                    Eric Chou
 不遺憾                                       Moon Chew
 TiAmo                                 Aaron Yan & Jeno
-嘉宾                                              张远
+多想在平庸的生活拥抱你                        隔壁老樊
 會呼吸的痛                                  Fish Leong
 情歌                                        Fish Leong
+散場的擁抱                                      倪安東
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ TiAmo                                 Aaron Yan & Jeno
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    83 commits  ███████▏░░░░░░░░░░░░░  34.2%
+🌞 Morning    84 commits  ███████▎░░░░░░░░░░░░░  34.6%
 🌆 Daytime    13 commits  █░░░░░░░░░░░░░░░░░░░░   5.3%
-🌃 Evening    72 commits  ██████▏░░░░░░░░░░░░░░  29.6%
+🌃 Evening    71 commits  ██████▏░░░░░░░░░░░░░░  29.2%
 🌙 Night      75 commits  ██████▍░░░░░░░░░░░░░░  30.9%
 ```
 
