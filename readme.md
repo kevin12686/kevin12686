@@ -26,7 +26,7 @@ TiAmo                                 Aaron Yan & Jeno
 小幸運 - 電影《我的少女時                    Hebe Tien
 如果還有明天                                      薛岳
 用心良苦                                    Phil Chang
-離開你以後 - 電影《你的婚                    Eric Chou
+嘉宾                                              张远
 ```
 
 <!-- spotify end -->
@@ -62,8 +62,8 @@ GitIgno... 0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- codestats start -->
 
 ```text
-Total XP :::::::::::: lvl   8 (  120,391 XP) (+   107)
-Plain text :::::::::: lvl   1 (    6,196 XP) (+   107)
+Total XP :::::::::::: lvl   8 (  120,392 XP) (+   108)
+Plain text :::::::::: lvl   1 (    6,197 XP) (+   108)
 ```
 
 <!-- codestats end -->
