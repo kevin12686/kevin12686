@@ -19,14 +19,14 @@
 ```text
 無條件為你                                  Fish Leong
 如果有来生                                      谭维维
-多想在平庸的生活拥抱你                        隔壁老樊
-給未來的自己                                Fish Leong
 散場的擁抱                                      倪安東
-TiAmo                                 Aaron Yan & Jeno
-小幸運 - 電影《我的少女時                    Hebe Tien
 如果還有明天                                      薛岳
-用心良苦                                    Phil Chang
+小手拉大手                                  Fish Leong
+小清新                                          四叶草
+多想在平庸的生活拥抱你                        隔壁老樊
+晚安                                            颜人中
 嘉宾                                              张远
+小幸運 - 電影《我的少女時                    Hebe Tien
 ```
 
 <!-- spotify end -->
@@ -49,9 +49,7 @@ TiAmo                                 Aaron Yan & Jeno
 <!-- code_time start -->
 
 ```text
-HTML       28 mins        ████████████████▎░░░░  77.5%
-PHP        4 mins         ██▌░░░░░░░░░░░░░░░░░░  12.1%
-Other      3 mins         ██▏░░░░░░░░░░░░░░░░░░  10.3%
+HTML       28 mins        ████████████████████▉  99.9%
 GitIgno... 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 ```
 
@@ -62,8 +60,9 @@ GitIgno... 0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- codestats start -->
 
 ```text
-Total XP :::::::::::: lvl   8 (  120,392 XP) (+   108)
-Plain text :::::::::: lvl   1 (    6,197 XP) (+   108)
+Total XP :::::::::::: lvl   8 (  120,824 XP) (+   432)
+Plain text :::::::::: lvl   2 (    6,620 XP) (+   423)
+Python :::::::::::::: lvl   6 (   78,048 XP) (+     9)
 ```
 
 <!-- codestats end -->
