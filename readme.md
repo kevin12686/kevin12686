@@ -20,13 +20,13 @@
 如果還有明天                                      薛岳
 小清新                                          四叶草
 晚安                                            颜人中
-散場的擁抱                                      倪安東
-無條件為你                                  Fish Leong
-我太笨                                        锤娜丽莎
 嘉宾                                              张远
 往后余生                                          孙莞
 《越過山丘》——— 致李宗                    Aska Yang
-多想在平庸的生活拥抱你                        隔壁老樊
+無條件為你                                  Fish Leong
+晚安曲                               Fei Yu-ching & Ch
+C大調                                     Angela Chang
+第一次愛的人                                Cyndi Wang
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    87 commits  ███████▌░░░░░░░░░░░░░  35.8%
+🌞 Morning    88 commits  ███████▌░░░░░░░░░░░░░  36.2%
 🌆 Daytime     7 commits  ▌░░░░░░░░░░░░░░░░░░░░   2.9%
-🌃 Evening    74 commits  ██████▍░░░░░░░░░░░░░░  30.5%
+🌃 Evening    73 commits  ██████▎░░░░░░░░░░░░░░  30.0%
 🌙 Night      75 commits  ██████▍░░░░░░░░░░░░░░  30.9%
 ```
 
