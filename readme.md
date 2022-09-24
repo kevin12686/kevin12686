@@ -19,13 +19,13 @@
 ```text
 如果還有明天                                      薛岳
 小清新                                          四叶草
-晚安                                            颜人中
-嘉宾                                              张远
-往后余生                                          孙莞
 《越過山丘》——— 致李宗                    Aska Yang
-無條件為你                                  Fish Leong
 晚安曲                               Fei Yu-ching & Ch
 C大調                                     Angela Chang
+嘉宾                                              张远
+晚安                                            颜人中
+青蘋果樂園                                      小虎隊
+See You In Life                         Valentina Ploy
 第一次愛的人                                Cyndi Wang
 ```
 
@@ -59,11 +59,8 @@ HTML       0 secs         ██████████████████
 <!-- codestats start -->
 
 ```text
-Total XP ::::::::::::::::::::: lvl   8 (  123,109 XP) 
-Not been coding recently ::::::::::::::::::::::::::: 🙈
-Probably busy with something else :::::::::::::::::: 🗓
-Or just taking a break ::::::::::::::::::::::::::::: 🌴
-But would be back to it soon! :::::::::::::::::::::: 🤓
+Total XP :::::::::::: lvl   8 (  123,111 XP) (+     2)
+HTML :::::::::::::::: lvl   2 (   11,292 XP) (+     2)
 ```
 
 <!-- codestats end -->
