@@ -21,12 +21,12 @@
 晚安曲                               Fei Yu-ching & Ch
 C大調                                     Angela Chang
 青蘋果樂園                                      小虎隊
-如果還有明天                                      薛岳
 See You In Life                         Valentina Ploy
-乾杯                                            Mayday
 輸了你贏了世界又如何                          優客李林
 我等到花兒也謝了                          Jacky Cheung
 一路上有你                                Jacky Cheung
+I Will Always Love You                 Whitney Houston
+天天想你                                Zhang Yu Sheng
 ```
 
 <!-- spotify end -->
@@ -60,11 +60,8 @@ HTML       0 secs         █░░░░░░░░░░░░░░░░░
 <!-- codestats start -->
 
 ```text
-Total XP ::::::::::::::::::::: lvl   8 (  123,538 XP) 
-Not been coding recently ::::::::::::::::::::::::::: 🙈
-Probably busy with something else :::::::::::::::::: 🗓
-Or just taking a break ::::::::::::::::::::::::::::: 🌴
-But would be back to it soon! :::::::::::::::::::::: 🤓
+Total XP :::::::::::: lvl   8 (  123,548 XP) (+    10)
+Plain text :::::::::: lvl   2 (    7,807 XP) (+    10)
 ```
 
 <!-- codestats end -->
