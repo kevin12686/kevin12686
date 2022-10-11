@@ -17,16 +17,16 @@
 <!-- spotify start -->
 
 ```text
+光陰的故事                                      張艾嘉
 《越過山丘》——— 致李宗                    Aska Yang
-See You In Life                         Valentina Ploy
-C大調                                     Angela Chang
-輸了你贏了世界又如何                          優客李林
-晚安曲                               Fei Yu-ching & Ch
-I Will Always Love You                 Whitney Houston
-祝福                                      Jacky Cheung
-相愛很難 - 電影"男人四十"            Jacky Cheung & An
 愛的代價                                        張艾嘉
-我等到花兒也謝了                          Jacky Cheung
+C大調                                     Angela Chang
+你為什麼說謊                                     Della
+I Will Always Love You                 Whitney Houston
+See You In Life                         Valentina Ploy
+月半彎                                    Jacky Cheung
+晚安曲                               Fei Yu-ching & Ch
+愛情有什麼道理(1)                  張艾嘉 & Jonathan L
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ I Will Always Love You                 Whitney Houston
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    87 commits  ███████▌░░░░░░░░░░░░░  35.8%
+🌞 Morning    86 commits  ███████▍░░░░░░░░░░░░░  35.4%
 🌆 Daytime     7 commits  ▌░░░░░░░░░░░░░░░░░░░░   2.9%
-🌃 Evening    74 commits  ██████▍░░░░░░░░░░░░░░  30.5%
+🌃 Evening    75 commits  ██████▍░░░░░░░░░░░░░░  30.9%
 🌙 Night      75 commits  ██████▍░░░░░░░░░░░░░░  30.9%
 ```
 
@@ -49,8 +49,7 @@ I Will Always Love You                 Whitney Houston
 <!-- code_time start -->
 
 ```text
-Python     1 hr 11 mins   █████████████████████ 100.0%
-Text       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Python     1 min          █████████████████████ 100.0%
 ```
 
 <!-- code_time end -->
