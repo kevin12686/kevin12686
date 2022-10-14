@@ -22,11 +22,11 @@
 愛的代價                                        張艾嘉
 《越過山丘》——— 致李宗                    Aska Yang
 月半彎                                    Jacky Cheung
-C大調                                     Angela Chang
 愛情有什麼道理(1)                  張艾嘉 & Jonathan L
 I Will Always Love You                 Whitney Houston
-See You In Life                         Valentina Ploy
 疑心病                                         Ren Ran
+C大調                                     Angela Chang
+See You In Life                         Valentina Ploy
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ See You In Life                         Valentina Ploy
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    86 commits  ███████▍░░░░░░░░░░░░░  35.4%
+🌞 Morning    87 commits  ███████▌░░░░░░░░░░░░░  35.8%
 🌆 Daytime     7 commits  ▌░░░░░░░░░░░░░░░░░░░░   2.9%
-🌃 Evening    75 commits  ██████▍░░░░░░░░░░░░░░  30.9%
+🌃 Evening    74 commits  ██████▍░░░░░░░░░░░░░░  30.5%
 🌙 Night      75 commits  ██████▍░░░░░░░░░░░░░░  30.9%
 ```
 
