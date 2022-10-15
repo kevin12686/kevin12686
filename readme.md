@@ -20,13 +20,13 @@
 光陰的故事                                      張艾嘉
 你為什麼說謊                                     Della
 愛的代價                                        張艾嘉
+愛情有什麼道理(1)                  張艾嘉 & Jonathan L
 《越過山丘》——— 致李宗                    Aska Yang
 月半彎                                    Jacky Cheung
-愛情有什麼道理(1)                  張艾嘉 & Jonathan L
-I Will Always Love You                 Whitney Houston
 疑心病                                         Ren Ran
+愛的主旋律                         卓文萱 & Alien Huan
 C大調                                     Angela Chang
-See You In Life                         Valentina Ploy
+4 Postludes for Piano &              Valentin Silvestr
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ See You In Life                         Valentina Ploy
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    86 commits  ███████▍░░░░░░░░░░░░░  35.4%
+🌞 Morning    87 commits  ███████▌░░░░░░░░░░░░░  35.8%
 🌆 Daytime     7 commits  ▌░░░░░░░░░░░░░░░░░░░░   2.9%
-🌃 Evening    75 commits  ██████▍░░░░░░░░░░░░░░  30.9%
+🌃 Evening    74 commits  ██████▍░░░░░░░░░░░░░░  30.5%
 🌙 Night      75 commits  ██████▍░░░░░░░░░░░░░░  30.9%
 ```
 
@@ -61,9 +61,11 @@ JavaScript 1 min          ▎░░░░░░░░░░░░░░░░░
 <!-- codestats start -->
 
 ```text
-Total XP :::::::::::: lvl   8 (  124,369 XP) (+   424)
-Python :::::::::::::: lvl   7 (   79,844 XP) (+   419)
-Plain text :::::::::: lvl   2 (    8,009 XP) (+     5)
+Total XP ::::::::::::::::::::: lvl   8 (  124,369 XP) 
+Not been coding recently ::::::::::::::::::::::::::: 🙈
+Probably busy with something else :::::::::::::::::: 🗓
+Or just taking a break ::::::::::::::::::::::::::::: 🌴
+But would be back to it soon! :::::::::::::::::::::: 🤓
 ```
 
 <!-- codestats end -->
