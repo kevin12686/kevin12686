@@ -49,8 +49,7 @@ C大調                                     Angela Chang
 <!-- code_time start -->
 
 ```text
-Text       59 mins        ██████████████████▋░░  89.2%
-PHP        7 mins         ██▎░░░░░░░░░░░░░░░░░░  10.8%
+Text       59 mins        █████████████████████ 100.0%
 ```
 
 <!-- code_time end -->
