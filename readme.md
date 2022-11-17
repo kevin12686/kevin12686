@@ -25,8 +25,8 @@
 愛情有什麼道理(1)                  張艾嘉 & Jonathan L
 疑心病                                         Ren Ran
 月半彎                                    Jacky Cheung
-I Will Always Love You                 Whitney Houston
 C大調                                     Angela Chang
+I Will Always Love You                 Whitney Houston
 ```
 
 <!-- spotify end -->
