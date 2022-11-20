@@ -23,10 +23,10 @@
 《越過山丘》——— 致李宗                    Aska Yang
 愛的主旋律                         卓文萱 & Alien Huan
 愛情有什麼道理(1)                  張艾嘉 & Jonathan L
+下雨天                                   Nan Quan Mama
+Careless Whisper                        George Michael
 疑心病                                         Ren Ran
 月半彎                                    Jacky Cheung
-I Will Always Love You                 Whitney Houston
-C大調                                     Angela Chang
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ C大調                                     Angela Chang
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    86 commits  ███████▍░░░░░░░░░░░░░  35.4%
+🌞 Morning    87 commits  ███████▌░░░░░░░░░░░░░  35.8%
 🌆 Daytime     7 commits  ▌░░░░░░░░░░░░░░░░░░░░   2.9%
-🌃 Evening    75 commits  ██████▍░░░░░░░░░░░░░░  30.9%
+🌃 Evening    74 commits  ██████▍░░░░░░░░░░░░░░  30.5%
 🌙 Night      75 commits  ██████▍░░░░░░░░░░░░░░  30.9%
 ```
 
@@ -59,8 +59,11 @@ Text       16 mins        ██████████████████
 <!-- codestats start -->
 
 ```text
-Total XP :::::::::::: lvl   8 (  128,686 XP) (+     1)
-Plain text :::::::::: lvl   2 (    9,826 XP) (+     1)
+Total XP ::::::::::::::::::::: lvl   8 (  128,686 XP) 
+Not been coding recently ::::::::::::::::::::::::::: 🙈
+Probably busy with something else :::::::::::::::::: 🗓
+Or just taking a break ::::::::::::::::::::::::::::: 🌴
+But would be back to it soon! :::::::::::::::::::::: 🤓
 ```
 
 <!-- codestats end -->
