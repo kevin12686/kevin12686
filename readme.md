@@ -25,8 +25,8 @@
 愛情有什麼道理(1)                  張艾嘉 & Jonathan L
 下雨天                                   Nan Quan Mama
 Careless Whisper                        George Michael
+散場的擁抱                                      倪安東
 閣愛妳一擺                                 EggPlantEgg
-疑心病                                         Ren Ran
 ```
 
 <!-- spotify end -->
@@ -59,9 +59,9 @@ Text       16 mins        ██████████████████
 <!-- codestats start -->
 
 ```text
-Total XP :::::::::::: lvl   8 (  128,974 XP) (+   288)
-Python :::::::::::::: lvl   7 (   80,148 XP) (+   269)
-Plain text :::::::::: lvl   2 (    9,845 XP) (+    19)
+Total XP :::::::::::: lvl   9 (  130,076 XP) (+ 1,390)
+Python :::::::::::::: lvl   7 (   81,249 XP) (+ 1,370)
+Plain text :::::::::: lvl   2 (    9,846 XP) (+    20)
 ```
 
 <!-- codestats end -->
