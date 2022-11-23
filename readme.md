@@ -26,7 +26,7 @@
 下雨天                                   Nan Quan Mama
 Careless Whisper                        George Michael
 散場的擁抱                                      倪安東
-閣愛妳一擺                                 EggPlantEgg
+如果還有明天                                      薛岳
 ```
 
 <!-- spotify end -->
@@ -49,7 +49,9 @@ Careless Whisper                        George Michael
 <!-- code_time start -->
 
 ```text
-Text       16 mins        █████████████████████ 100.0%
+Python     1 hr 5 mins    ██████████████▎░░░░░░  68.1%
+Text       16 mins        ███▌░░░░░░░░░░░░░░░░░  16.9%
+HTML       14 mins        ███▏░░░░░░░░░░░░░░░░░  15.0%
 ```
 
 <!-- code_time end -->
@@ -59,9 +61,11 @@ Text       16 mins        ██████████████████
 <!-- codestats start -->
 
 ```text
-Total XP :::::::::::: lvl   9 (  130,076 XP) (+ 1,390)
-Python :::::::::::::: lvl   7 (   81,249 XP) (+ 1,370)
-Plain text :::::::::: lvl   2 (    9,846 XP) (+    20)
+Total XP ::::::::::::::::::::: lvl   9 (  130,076 XP) 
+Not been coding recently ::::::::::::::::::::::::::: 🙈
+Probably busy with something else :::::::::::::::::: 🗓
+Or just taking a break ::::::::::::::::::::::::::::: 🌴
+But would be back to it soon! :::::::::::::::::::::: 🤓
 ```
 
 <!-- codestats end -->
