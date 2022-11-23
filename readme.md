@@ -19,14 +19,14 @@
 ```text
 你為什麼說謊                                     Della
 光陰的故事                                      張艾嘉
-愛的代價                                        張艾嘉
-《越過山丘》——— 致李宗                    Aska Yang
 愛的主旋律                         卓文萱 & Alien Huan
+愛的代價                                        張艾嘉
 愛情有什麼道理(1)                  張艾嘉 & Jonathan L
-下雨天                                   Nan Quan Mama
 Careless Whisper                        George Michael
+《越過山丘》——— 致李宗                    Aska Yang
+July                                            張粹方
+下雨天                                   Nan Quan Mama
 散場的擁抱                                      倪安東
-如果還有明天                                      薛岳
 ```
 
 <!-- spotify end -->
