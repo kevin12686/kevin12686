@@ -19,13 +19,13 @@
 ```text
 你為什麼說謊                                     Della
 光陰的故事                                      張艾嘉
-愛的主旋律                         卓文萱 & Alien Huan
-愛的代價                                        張艾嘉
-愛情有什麼道理(1)                  張艾嘉 & Jonathan L
 Careless Whisper                        George Michael
 《越過山丘》——— 致李宗                    Aska Yang
+愛的主旋律                         卓文萱 & Alien Huan
 July                                            張粹方
+愛情有什麼道理(1)                  張艾嘉 & Jonathan L
 下雨天                                   Nan Quan Mama
+愛的代價                                        張艾嘉
 散場的擁抱                                      倪安東
 ```
 
@@ -61,11 +61,8 @@ HTML       14 mins        ███▏░░░░░░░░░░░░░░
 <!-- codestats start -->
 
 ```text
-Total XP ::::::::::::::::::::: lvl   9 (  130,076 XP) 
-Not been coding recently ::::::::::::::::::::::::::: 🙈
-Probably busy with something else :::::::::::::::::: 🗓
-Or just taking a break ::::::::::::::::::::::::::::: 🌴
-But would be back to it soon! :::::::::::::::::::::: 🤓
+Total XP :::::::::::: lvl   9 (  130,093 XP) (+    17)
+Plain text :::::::::: lvl   2 (    9,863 XP) (+    17)
 ```
 
 <!-- codestats end -->
