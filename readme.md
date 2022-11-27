@@ -18,10 +18,10 @@
 
 ```text
 光陰的故事                                      張艾嘉
+Shut Down                                    BLACKPINK
 你為什麼說謊                                     Della
 下雨天                                   Nan Quan Mama
 Careless Whisper                        George Michael
-Shut Down                                    BLACKPINK
 愛的代價                                        張艾嘉
 July                                            張粹方
 多想在平庸的生活拥抱你                        隔壁老樊
@@ -60,9 +60,9 @@ HTML       14 mins        ███▊░░░░░░░░░░░░░░
 <!-- codestats start -->
 
 ```text
-Total XP :::::::::::: lvl   9 (  130,373 XP) (+   275)
+Total XP :::::::::::: lvl   9 (  130,403 XP) (+   305)
 Python :::::::::::::: lvl   7 (   81,521 XP) (+   272)
-Plain text :::::::::: lvl   2 (    9,871 XP) (+     3)
+Plain text :::::::::: lvl   2 (    9,901 XP) (+    33)
 ```
 
 <!-- codestats end -->
