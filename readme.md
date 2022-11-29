@@ -60,8 +60,8 @@ HTML       14 mins        ██▉░░░░░░░░░░░░░░░
 <!-- codestats start -->
 
 ```text
-Total XP :::::::::::: lvl   9 (  130,418 XP) (+    15)
-Plain text :::::::::: lvl   2 (    9,916 XP) (+    15)
+Total XP :::::::::::: lvl   9 (  130,423 XP) (+     1)
+Plain text :::::::::: lvl   2 (    9,921 XP) (+     1)
 ```
 
 <!-- codestats end -->
