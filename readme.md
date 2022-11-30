@@ -49,8 +49,7 @@ July                                            張粹方
 <!-- code_time start -->
 
 ```text
-Python     1 hr 27 mins   ██████████████████░░░  85.8%
-HTML       14 mins        ██▉░░░░░░░░░░░░░░░░░░  14.2%
+Python     21 mins        █████████████████████ 100.0%
 ```
 
 <!-- code_time end -->
