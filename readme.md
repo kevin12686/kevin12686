@@ -20,13 +20,13 @@
 光陰的故事                                      張艾嘉
 Shut Down                                    BLACKPINK
 你為什麼說謊                                     Della
-下雨天                                   Nan Quan Mama
 Careless Whisper                        George Michael
 愛的代價                                        張艾嘉
 July                                            張粹方
 多想在平庸的生活拥抱你                        隔壁老樊
 真愛                                      Jacky Cheung
 愛的主旋律                         卓文萱 & Alien Huan
+愛情有什麼道理(1)                  張艾嘉 & Jonathan L
 ```
 
 <!-- spotify end -->
