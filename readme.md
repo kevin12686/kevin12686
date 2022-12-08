@@ -17,10 +17,10 @@
 <!-- spotify start -->
 
 ```text
+Careless Whisper                        George Michael
 Shut Down                                    BLACKPINK
 你為什麼說謊                                     Della
 再也沒有你                           Lara Liang & Andr
-Careless Whisper                        George Michael
 光陰的故事                                      張艾嘉
 愛的代價                                        張艾嘉
 July                                            張粹方
@@ -36,9 +36,9 @@ July                                            張粹方
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    87 commits  ███████▌░░░░░░░░░░░░░  35.8%
+🌞 Morning    86 commits  ███████▍░░░░░░░░░░░░░  35.4%
 🌆 Daytime     7 commits  ▌░░░░░░░░░░░░░░░░░░░░   2.9%
-🌃 Evening    74 commits  ██████▍░░░░░░░░░░░░░░  30.5%
+🌃 Evening    75 commits  ██████▍░░░░░░░░░░░░░░  30.9%
 🌙 Night      75 commits  ██████▍░░░░░░░░░░░░░░  30.9%
 ```
 
@@ -59,11 +59,8 @@ Python     21 mins        ██████████████████
 <!-- codestats start -->
 
 ```text
-Total XP ::::::::::::::::::::: lvl   9 (  130,425 XP) 
-Not been coding recently ::::::::::::::::::::::::::: 🙈
-Probably busy with something else :::::::::::::::::: 🗓
-Or just taking a break ::::::::::::::::::::::::::::: 🌴
-But would be back to it soon! :::::::::::::::::::::: 🤓
+Total XP :::::::::::: lvl   9 (  130,427 XP) (+     2)
+Plain text :::::::::: lvl   2 (    9,925 XP) (+     2)
 ```
 
 <!-- codestats end -->
