@@ -21,12 +21,12 @@ July                                              Dena
 Shut Down                                    BLACKPINK
 你為什麼說謊                                     Della
 再也沒有你                           Lara Liang & Andr
-Careless Whisper                        George Michael
 真愛                                      Jacky Cheung
 光陰的故事                                      張艾嘉
-愛的代價                                        張艾嘉
-I Will Always Love You                 Whitney Houston
 起风了 - 电视剧"加油你是                        吳青峰
+从前说                                          小阿七
+多想在平庸的生活拥抱你                        隔壁老樊
+小清新                                          四叶草
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ I Will Always Love You                 Whitney Houston
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    86 commits  ███████▍░░░░░░░░░░░░░  35.4%
+🌞 Morning    87 commits  ███████▌░░░░░░░░░░░░░  35.8%
 🌆 Daytime     7 commits  ▌░░░░░░░░░░░░░░░░░░░░   2.9%
-🌃 Evening    75 commits  ██████▍░░░░░░░░░░░░░░  30.9%
+🌃 Evening    74 commits  ██████▍░░░░░░░░░░░░░░  30.5%
 🌙 Night      75 commits  ██████▍░░░░░░░░░░░░░░  30.9%
 ```
 
@@ -60,8 +60,11 @@ HTML       0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- codestats start -->
 
 ```text
-Total XP :::::::::::: lvl   9 (  130,586 XP) (+     1)
-Plain text :::::::::: lvl   2 (   10,071 XP) (+     1)
+Total XP ::::::::::::::::::::: lvl   9 (  130,586 XP) 
+Not been coding recently ::::::::::::::::::::::::::: 🙈
+Probably busy with something else :::::::::::::::::: 🗓
+Or just taking a break ::::::::::::::::::::::::::::: 🌴
+But would be back to it soon! :::::::::::::::::::::: 🤓
 ```
 
 <!-- codestats end -->
