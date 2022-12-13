@@ -19,13 +19,13 @@
 ```text
 July                                              Dena
 Shut Down                                    BLACKPINK
-你為什麼說謊                                     Della
 再也沒有你                           Lara Liang & Andr
 真愛                                      Jacky Cheung
-光陰的故事                                      張艾嘉
+你為什麼說謊                                     Della
 起风了 - 电视剧"加油你是                        吳青峰
 从前说                                          小阿七
 多想在平庸的生活拥抱你                        隔壁老樊
+光陰的故事                                      張艾嘉
 小清新                                          四叶草
 ```
 
@@ -36,9 +36,9 @@ Shut Down                                    BLACKPINK
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    86 commits  ███████▍░░░░░░░░░░░░░  35.4%
+🌞 Morning    87 commits  ███████▌░░░░░░░░░░░░░  35.8%
 🌆 Daytime     7 commits  ▌░░░░░░░░░░░░░░░░░░░░   2.9%
-🌃 Evening    75 commits  ██████▍░░░░░░░░░░░░░░  30.9%
+🌃 Evening    74 commits  ██████▍░░░░░░░░░░░░░░  30.5%
 🌙 Night      75 commits  ██████▍░░░░░░░░░░░░░░  30.9%
 ```
 
@@ -49,7 +49,8 @@ Shut Down                                    BLACKPINK
 <!-- code_time start -->
 
 ```text
-Python     18 mins        ████████████████████▉  99.7%
+Python     18 mins        ██████████████████▊░░  89.9%
+Text       2 mins         ██░░░░░░░░░░░░░░░░░░░   9.9%
 HTML       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 ```
 
