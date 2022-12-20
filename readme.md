@@ -17,16 +17,16 @@
 <!-- spotify start -->
 
 ```text
-July                                              Dena
-可惜你不在                                 Princess Ai
-Shut Down                                    BLACKPINK
 再也沒有你                           Lara Liang & Andr
 愛的可能                                     Sally Yeh
-你為什麼說謊                                     Della
+可惜你不在                                 Princess Ai
+July                                              Dena
 I'm Alive                           W.M.L & Vicky Chen
 多想在平庸的生活拥抱你                        隔壁老樊
-真愛                                      Jacky Cheung
-最後一堂課 - 《媽,別鬧了!                    Eric Chou
+光陰的故事                                      張艾嘉
+小清新                                          四叶草
+Shut Down                                    BLACKPINK
+傘下 - 電視劇《歡喜來逗陣                   Phil Chang
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ I'm Alive                           W.M.L & Vicky Chen
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    86 commits  ███████▉░░░░░░░░░░░░░  38.1%
+🌞 Morning    87 commits  ████████░░░░░░░░░░░░░  38.5%
 🌆 Daytime     7 commits  ▋░░░░░░░░░░░░░░░░░░░░   3.1%
-🌃 Evening    75 commits  ██████▉░░░░░░░░░░░░░░  33.2%
+🌃 Evening    74 commits  ██████▉░░░░░░░░░░░░░░  32.7%
 🌙 Night      58 commits  █████▍░░░░░░░░░░░░░░░  25.7%
 ```
 
@@ -59,8 +59,11 @@ Text       2 mins         ██████████████████
 <!-- codestats start -->
 
 ```text
-Total XP :::::::::::: lvl   9 (  130,805 XP) (+     2)
-Plain text :::::::::: lvl   2 (   10,290 XP) (+     2)
+Total XP ::::::::::::::::::::: lvl   9 (  130,805 XP) 
+Not been coding recently ::::::::::::::::::::::::::: 🙈
+Probably busy with something else :::::::::::::::::: 🗓
+Or just taking a break ::::::::::::::::::::::::::::: 🌴
+But would be back to it soon! :::::::::::::::::::::: 🤓
 ```
 
 <!-- codestats end -->
