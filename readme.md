@@ -19,14 +19,14 @@
 ```text
 凉城                                           Ren Ran
 可惜你不在                                 Princess Ai
-想太多                                       Nicky Lee
 三百六十五里路                                    文章
 愛的可能                                     Sally Yeh
-閣愛妳一擺                                 EggPlantEgg
+想太多                                       Nicky Lee
 小清新                                          四叶草
-你為什麼說謊                                     Della
-愛的主旋律                         卓文萱 & Alien Huan
 I'll Never Love Again -              Lady Gaga & Bradl
+閣愛妳一擺                                 EggPlantEgg
+無人熟識                               Zhang Qing Fang
+阿嬤的話                                   Ricky Hsiao
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ I'll Never Love Again -              Lady Gaga & Bradl
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    60 commits  █████████▏░░░░░░░░░░░  43.5%
+🌞 Morning    61 commits  █████████▎░░░░░░░░░░░  44.2%
 🌆 Daytime     6 commits  ▉░░░░░░░░░░░░░░░░░░░░   4.3%
-🌃 Evening    65 commits  █████████▉░░░░░░░░░░░  47.1%
+🌃 Evening    64 commits  █████████▋░░░░░░░░░░░  46.4%
 🌙 Night       7 commits  █░░░░░░░░░░░░░░░░░░░░   5.1%
 ```
 
@@ -59,11 +59,8 @@ Text       3 mins         ██████████████████
 <!-- codestats start -->
 
 ```text
-Total XP ::::::::::::::::::::: lvl   9 (  131,686 XP) 
-Not been coding recently ::::::::::::::::::::::::::: 🙈
-Probably busy with something else :::::::::::::::::: 🗓
-Or just taking a break ::::::::::::::::::::::::::::: 🌴
-But would be back to it soon! :::::::::::::::::::::: 🤓
+Total XP :::::::::::: lvl   9 (  132,001 XP) (+   315)
+Plain text :::::::::: lvl   2 (   11,486 XP) (+   315)
 ```
 
 <!-- codestats end -->
