@@ -17,14 +17,14 @@
 <!-- spotify start -->
 
 ```text
-凉城                                           Ren Ran
 可惜你不在                                 Princess Ai
+凉城                                           Ren Ran
 愛的可能                                     Sally Yeh
+First Love                                Hikaru Utada
 三百六十五里路                                    文章
 想太多                                       Nicky Lee
 July                                              Dena
 I'll Never Love Again -              Lady Gaga & Bradl
-First Love                                Hikaru Utada
 閣愛妳一擺                                 EggPlantEgg
 無人熟識                               Zhang Qing Fang
 ```
@@ -36,9 +36,9 @@ First Love                                Hikaru Utada
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    61 commits  █████████▎░░░░░░░░░░░  44.2%
+🌞 Morning    60 commits  █████████▏░░░░░░░░░░░  43.5%
 🌆 Daytime     6 commits  ▉░░░░░░░░░░░░░░░░░░░░   4.3%
-🌃 Evening    64 commits  █████████▋░░░░░░░░░░░  46.4%
+🌃 Evening    65 commits  █████████▉░░░░░░░░░░░  47.1%
 🌙 Night       7 commits  █░░░░░░░░░░░░░░░░░░░░   5.1%
 ```
 
