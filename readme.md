@@ -23,10 +23,10 @@
 First Love                                Hikaru Utada
 三百六十五里路                                    文章
 想太多                                       Nicky Lee
+男人女人                                     Valen Hsu
 July                                              Dena
 I'll Never Love Again -              Lady Gaga & Bradl
-閣愛妳一擺                                 EggPlantEgg
-無人熟識                               Zhang Qing Fang
+Perhaps Love (사랑인가요)           에릭남 (Eric Nam),
 ```
 
 <!-- spotify end -->
