@@ -21,12 +21,12 @@
 凉城                                           Ren Ran
 First Love                                Hikaru Utada
 三百六十五里路                                    文章
+小城夏天                                       LBI利比
 愛的可能                                     Sally Yeh
 男人女人                                     Valen Hsu
 I'll Never Love Again -              Lady Gaga & Bradl
 Perhaps Love (사랑인가요)           에릭남 (Eric Nam),
 想太多                                       Nicky Lee
-閣愛妳一擺                                 EggPlantEgg
 ```
 
 <!-- spotify end -->
