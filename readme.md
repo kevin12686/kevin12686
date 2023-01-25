@@ -23,10 +23,10 @@ Perhaps Love (사랑인가요)           에릭남 (Eric Nam),
 我的未來不是夢                          Zhang Yu Sheng
 可惜你不在                                 Princess Ai
 約定                                        Where Chou
+后继者                                         Ren Ran
 閣愛妳一擺                                 EggPlantEgg
 好朋友的祝福                                     A-Lin
 我有多麼喜歡你                               Jam Hsiao
-渐冷                                              雪二
 ```
 
 <!-- spotify end -->
