@@ -24,9 +24,9 @@
 宣言                                        Ariel Tsai
 如果我是一首歌                               Yoyo Sham
 假裝沒變過                                      颜人中
+比想像更想你                               Victor Wong
 每次都想呼喊你的名字                              永邦
 逆光                                      Stefanie Sun
-無可救藥                                   Victor Wong
 ```
 
 <!-- spotify end -->
