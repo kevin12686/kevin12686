@@ -19,9 +19,9 @@
 ```text
 台北的天空                                Wang Zhi Lei
 冰雨                                          Andy Lau
+宣言                                        Ariel Tsai
 斑马,斑马                                       宋冬野
 我期待                                          陶晶瑩
-宣言                                        Ariel Tsai
 如果我是一首歌                               Yoyo Sham
 假裝沒變過                                      颜人中
 比想像更想你                               Victor Wong
