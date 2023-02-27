@@ -17,16 +17,16 @@
 <!-- spotify start -->
 
 ```text
+假裝沒變過                                      颜人中
 台北的天空                                Wang Zhi Lei
 冰雨                                          Andy Lau
-宣言                                        Ariel Tsai
-假裝沒變過                                      颜人中
 斑马,斑马                                       宋冬野
+宣言                                        Ariel Tsai
 我期待                                          陶晶瑩
 如果我是一首歌                               Yoyo Sham
+最好的一天                                      Mayday
 比想像更想你                               Victor Wong
-每次都想呼喊你的名字                              永邦
-一路向北                                      Jay Chou
+飄洋過海來看你                                   Della
 ```
 
 <!-- spotify end -->
