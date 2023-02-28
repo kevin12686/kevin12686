@@ -21,12 +21,12 @@
 台北的天空                                Wang Zhi Lei
 冰雨                                          Andy Lau
 宣言                                        Ariel Tsai
+你怎麼捨得我難過                                黃品源
 我期待                                          陶晶瑩
 如果我是一首歌                               Yoyo Sham
 最好的一天                                      Mayday
 比想像更想你                               Victor Wong
 飄洋過海來看你                                   Della
-每次都想呼喊你的名字                              永邦
 ```
 
 <!-- spotify end -->
