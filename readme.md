@@ -20,13 +20,13 @@
 假裝沒變過                                      颜人中
 台北的天空                                Wang Zhi Lei
 冰雨                                          Andy Lau
-斑马,斑马                                       宋冬野
 宣言                                        Ariel Tsai
 我期待                                          陶晶瑩
 如果我是一首歌                               Yoyo Sham
 最好的一天                                      Mayday
 比想像更想你                               Victor Wong
 飄洋過海來看你                                   Della
+每次都想呼喊你的名字                              永邦
 ```
 
 <!-- spotify end -->
