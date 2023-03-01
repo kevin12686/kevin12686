@@ -25,8 +25,8 @@
 我期待                                          陶晶瑩
 如果我是一首歌                               Yoyo Sham
 最好的一天                                      Mayday
+多想在平凡的世界拥抱你                        1908公社
 比想像更想你                               Victor Wong
-飄洋過海來看你                                   Della
 ```
 
 <!-- spotify end -->
