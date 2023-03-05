@@ -19,14 +19,14 @@
 ```text
 台北的天空                                Wang Zhi Lei
 假裝沒變過                                      颜人中
-冰雨                                          Andy Lau
+我的未來不是夢                          Zhang Yu Sheng
 我期待                                          陶晶瑩
 宣言                                        Ariel Tsai
+愛存在                                      Diana Wang
 你怎麼捨得我難過                                黃品源
 First Love                                Hikaru Utada
 如果我是一首歌                               Yoyo Sham
 最好的一天                                      Mayday
-多想在平凡的世界拥抱你                        1908公社
 ```
 
 <!-- spotify end -->
