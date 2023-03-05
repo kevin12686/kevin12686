@@ -20,13 +20,13 @@
 台北的天空                                Wang Zhi Lei
 假裝沒變過                                      颜人中
 我的未來不是夢                          Zhang Yu Sheng
+First Love                                Hikaru Utada
 我期待                                          陶晶瑩
 宣言                                        Ariel Tsai
 愛存在                                      Diana Wang
-你怎麼捨得我難過                                黃品源
-First Love                                Hikaru Utada
-如果我是一首歌                               Yoyo Sham
-最好的一天                                      Mayday
+飄洋過海來看你                                   Della
+Perhaps Love (사랑인가요)           에릭남 (Eric Nam),
+月亮惹的禍                                  Phil Chang
 ```
 
 <!-- spotify end -->
