@@ -25,8 +25,8 @@ First Love                                Hikaru Utada
 宣言                                        Ariel Tsai
 愛存在                                      Diana Wang
 飄洋過海來看你                                   Della
-Perhaps Love (사랑인가요)           에릭남 (Eric Nam),
-月亮惹的禍                                  Phil Chang
+《越過山丘》——— 致李宗                    Aska Yang
+光陰的故事                                      張艾嘉
 ```
 
 <!-- spotify end -->
