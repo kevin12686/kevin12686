@@ -18,15 +18,15 @@
 
 ```text
 台北的天空                                Wang Zhi Lei
+月亮惹的禍                                  Phil Chang
 我的未來不是夢                          Zhang Yu Sheng
 First Love                                Hikaru Utada
+散場的擁抱                                      倪安東
 我期待                                          陶晶瑩
 宣言                                        Ariel Tsai
 假裝沒變過                                      颜人中
 愛存在                                      Diana Wang
 飄洋過海來看你                                   Della
-光陰的故事                                      張艾嘉
-Perhaps Love (사랑인가요)           에릭남 (Eric Nam),
 ```
 
 <!-- spotify end -->
