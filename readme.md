@@ -23,10 +23,10 @@
 First Love                                Hikaru Utada
 宣言                                        Ariel Tsai
 假裝沒變過                                      颜人中
+如果我們不曾相遇                                Mayday
 愛存在                                      Diana Wang
+步步                                            Mayday
 光陰的故事                                      張艾嘉
-Perhaps Love (사랑인가요)           에릭남 (Eric Nam),
-小手拉大手                                  Fish Leong
 ```
 
 <!-- spotify end -->
