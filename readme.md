@@ -24,9 +24,9 @@ First Love                                Hikaru Utada
 宣言                                        Ariel Tsai
 假裝沒變過                                      颜人中
 愛存在                                      Diana Wang
-飄洋過海來看你                                   Della
 光陰的故事                                      張艾嘉
-我太笨                                        锤娜丽莎
+Perhaps Love (사랑인가요)           에릭남 (Eric Nam),
+小手拉大手                                  Fish Leong
 ```
 
 <!-- spotify end -->
