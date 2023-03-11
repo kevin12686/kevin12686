@@ -18,15 +18,15 @@
 
 ```text
 台北的天空                                Wang Zhi Lei
+步步                                            Mayday
+派對動物                                        Mayday
 月亮惹的禍                                  Phil Chang
 我的未來不是夢                          Zhang Yu Sheng
 First Love                                Hikaru Utada
 宣言                                        Ariel Tsai
+突然好想你                                      Mayday
 如果我們不曾相遇                                Mayday
-愛存在                                      Diana Wang
-步步                                            Mayday
-光陰的故事                                      張艾嘉
-派對動物                                        Mayday
+乾杯                                            Mayday
 ```
 
 <!-- spotify end -->
