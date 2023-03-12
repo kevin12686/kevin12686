@@ -18,15 +18,15 @@
 
 ```text
 台北的天空                                Wang Zhi Lei
+我不願讓你一個人                                Mayday
+你不是真正的快樂                                Mayday
+如果我們不曾相遇                                Mayday
+玫瑰少年                                        Mayday
 步步                                            Mayday
 派對動物                                        Mayday
 月亮惹的禍                                  Phil Chang
 我的未來不是夢                          Zhang Yu Sheng
 First Love                                Hikaru Utada
-宣言                                        Ariel Tsai
-突然好想你                                      Mayday
-如果我們不曾相遇                                Mayday
-乾杯                                            Mayday
 ```
 
 <!-- spotify end -->
