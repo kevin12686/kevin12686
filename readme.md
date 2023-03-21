@@ -20,13 +20,13 @@
 台北的天空                                Wang Zhi Lei
 玫瑰少年                                        Mayday
 突然好想你                                      Mayday
-First Love                                Hikaru Utada
 我不願讓你一個人                                Mayday
 光陰的故事                                      張艾嘉
-小手拉大手                                  Fish Leong
-愛的可能                                     Sally Yeh
-不遺憾                                       Moon Chew
 月亮惹的禍                                  Phil Chang
+July                                              Dena
+倔強                                            Mayday
+私奔到月球                         Mayday & Cheer Chen
+散場的擁抱                                      倪安東
 ```
 
 <!-- spotify end -->
