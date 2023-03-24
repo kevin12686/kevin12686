@@ -24,9 +24,9 @@
 你為什麼說謊                                     Della
 光陰的故事                                      張艾嘉
 小城夏天                                       LBI利比
+Perhaps Love (사랑인가요)           에릭남 (Eric Nam),
+愛的可能                                     Sally Yeh
 July                                              Dena
-落雨聲                                     Jody Chiang
-倔強                                            Mayday
 ```
 
 <!-- spotify end -->
