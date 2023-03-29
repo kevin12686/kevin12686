@@ -22,11 +22,11 @@
 突然好想你                                      Mayday
 倔強                                            Mayday
 我不願讓你一個人                                Mayday
+Forever Your Dad                           Leehom Wang
 小城夏天                                       LBI利比
 Perhaps Love (사랑인가요)           에릭남 (Eric Nam),
 愛的可能                                     Sally Yeh
 July                                              Dena
-我的未來不是夢                          Zhang Yu Sheng
 ```
 
 <!-- spotify end -->
