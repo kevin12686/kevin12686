@@ -17,16 +17,16 @@
 <!-- spotify start -->
 
 ```text
-台北的天空                                Wang Zhi Lei
 玫瑰少年                                        Mayday
 突然好想你                                      Mayday
 倔強                                            Mayday
 我不願讓你一個人                                Mayday
 Forever Your Dad                           Leehom Wang
-小城夏天                                       LBI利比
-Perhaps Love (사랑인가요)           에릭남 (Eric Nam),
-愛的可能                                     Sally Yeh
-July                                              Dena
+落雨聲                                     Jody Chiang
+你不是真正的快樂                                Mayday
+晚安曲                               Fei Yu-ching & Ch
+台北的天空                                Wang Zhi Lei
+私奔到月球                         Mayday & Cheer Chen
 ```
 
 <!-- spotify end -->
