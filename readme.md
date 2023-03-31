@@ -25,8 +25,8 @@ Forever Your Dad                           Leehom Wang
 落雨聲                                     Jody Chiang
 你不是真正的快樂                                Mayday
 晚安曲                               Fei Yu-ching & Ch
-台北的天空                                Wang Zhi Lei
 私奔到月球                         Mayday & Cheer Chen
+任意門                                          Mayday
 ```
 
 <!-- spotify end -->
