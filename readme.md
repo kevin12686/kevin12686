@@ -19,14 +19,14 @@
 ```text
 玫瑰少年                                        Mayday
 突然好想你                                      Mayday
-倔強                                            Mayday
-我不願讓你一個人                                Mayday
 Forever Your Dad                           Leehom Wang
 落雨聲                                     Jody Chiang
-你不是真正的快樂                                Mayday
+倔強                                            Mayday
 晚安曲                               Fei Yu-ching & Ch
-私奔到月球                         Mayday & Cheer Chen
-終於結束的起點                                  Mayday
+我不願讓你一個人                                Mayday
+離開你以後 - 電影《你的婚                    Eric Chou
+小清新                                          四叶草
+你不是真正的快樂                                Mayday
 ```
 
 <!-- spotify end -->
