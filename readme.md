@@ -21,12 +21,12 @@
 突然好想你                                      Mayday
 落雨聲                                     Jody Chiang
 倔強                                            Mayday
+向左向右                                       Band IO
 我不願讓你一個人                                Mayday
 Forever Your Dad                           Leehom Wang
 你不是真正的快樂                                Mayday
 私奔到月球                         Mayday & Cheer Chen
-終於結束的起點                                  Mayday
-董小姐                                          宋冬野
+不安                                        Ada Zhuang
 ```
 
 <!-- spotify end -->
