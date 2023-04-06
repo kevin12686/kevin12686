@@ -17,16 +17,16 @@
 <!-- spotify start -->
 
 ```text
-玫瑰少年                                        Mayday
 落雨聲                                     Jody Chiang
-倔強                                            Mayday
 向左向右                                       Band IO
 突然好想你                                      Mayday
-你不是真正的快樂                                Mayday
-私奔到月球                         Mayday & Cheer Chen
+玫瑰少年                                        Mayday
+倔強                                            Mayday
 不安                                        Ada Zhuang
 我不願讓你一個人                                Mayday
-終於結束的起點                                  Mayday
+董小姐                                          宋冬野
+First Love                                Hikaru Utada
+我好嗎                                      Fish Leong
 ```
 
 <!-- spotify end -->
