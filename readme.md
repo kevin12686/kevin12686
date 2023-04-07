@@ -19,14 +19,14 @@
 ```text
 落雨聲                                     Jody Chiang
 向左向右                                       Band IO
-突然好想你                                      Mayday
-玫瑰少年                                        Mayday
-倔強                                            Mayday
 不安                                        Ada Zhuang
-我不願讓你一個人                                Mayday
+突然好想你                                      Mayday
 董小姐                                          宋冬野
 First Love                                Hikaru Utada
 我好嗎                                      Fish Leong
+與我無關                                          阿冗
+TiAmo                                 Aaron Yan & Jeno
+Perhaps Love (사랑인가요)           에릭남 (Eric Nam),
 ```
 
 <!-- spotify end -->
