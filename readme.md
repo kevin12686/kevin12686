@@ -19,14 +19,14 @@
 ```text
 孤独颂歌                                        陈文非
 向左向右                                       Band IO
-愛存在                                      Diana Wang
-First Love                                Hikaru Utada
-小城夏天                                       LBI利比
-July                                              Dena
-Lemon                                    Kenshi Yonezu
 挪威的森林                                      Wu Bai
 想太多                                       Nicky Lee
 FLOWER                                           JISOO
+Love Story                                 Fan Yi Chen
+Just Say Hello                                  Melo-D
+Photograph                                  Ed Sheeran
+愛存在                                      Diana Wang
+最後一堂課 - 《媽,別鬧了!                    Eric Chou
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ FLOWER                                           JISOO
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    61 commits  █████████▏░░░░░░░░░░░  43.9%
+🌞 Morning    62 commits  █████████▎░░░░░░░░░░░  44.6%
 🌆 Daytime     6 commits  ▉░░░░░░░░░░░░░░░░░░░░   4.3%
-🌃 Evening    65 commits  █████████▊░░░░░░░░░░░  46.8%
+🌃 Evening    64 commits  █████████▋░░░░░░░░░░░  46.0%
 🌙 Night       7 commits  █░░░░░░░░░░░░░░░░░░░░   5.0%
 ```
 
