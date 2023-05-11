@@ -17,8 +17,8 @@
 <!-- spotify start -->
 
 ```text
-挪威的森林                                      Wu Bai
 Just Say Hello                                  Melo-D
+挪威的森林                                      Wu Bai
 FLOWER                                           JISOO
 Love Story                                 Fan Yi Chen
 Photograph                                  Ed Sheeran
