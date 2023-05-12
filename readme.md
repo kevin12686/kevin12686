@@ -19,6 +19,7 @@
 ```text
 Just Say Hello                                  Melo-D
 挪威的森林                                      Wu Bai
+往未來飛的客機                              Claire Kuo
 FLOWER                                           JISOO
 Love Story                                 Fan Yi Chen
 Photograph                                  Ed Sheeran
@@ -26,7 +27,6 @@ Photograph                                  Ed Sheeran
 孤独颂歌                                        陈文非
 最後一堂課 - 《媽,別鬧了!                    Eric Chou
 我反芻著你留下的寂寞                          理想混蛋
-もう少しだけ                                   YOASOBI
 ```
 
 <!-- spotify end -->
