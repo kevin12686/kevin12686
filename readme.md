@@ -18,8 +18,8 @@
 
 ```text
 Just Say Hello                                  Melo-D
-挪威的森林                                      Wu Bai
 往未來飛的客機                              Claire Kuo
+挪威的森林                                      Wu Bai
 FLOWER                                           JISOO
 Love Story                                 Fan Yi Chen
 Photograph                                  Ed Sheeran
