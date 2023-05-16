@@ -24,9 +24,9 @@ FLOWER                                           JISOO
 Love Story                                 Fan Yi Chen
 Photograph                                  Ed Sheeran
 霍元甲                                        Jay Chou
-孤独颂歌                                        陈文非
-最後一堂課 - 《媽,別鬧了!                    Eric Chou
 我反芻著你留下的寂寞                          理想混蛋
+もう少しだけ                                   YOASOBI
+Queen of Hearts                                  TWICE
 ```
 
 <!-- spotify end -->
