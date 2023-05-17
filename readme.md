@@ -19,14 +19,14 @@
 ```text
 Just Say Hello                                  Melo-D
 往未來飛的客機                              Claire Kuo
-挪威的森林                                      Wu Bai
 FLOWER                                           JISOO
-Love Story                                 Fan Yi Chen
 Photograph                                  Ed Sheeran
 霍元甲                                        Jay Chou
 我反芻著你留下的寂寞                          理想混蛋
 もう少しだけ                                   YOASOBI
-Queen of Hearts                                  TWICE
+龍捲風                                        Jay Chou
+小酒窩                               JJ Lin & Charlene
+Crazy                                          4Minute
 ```
 
 <!-- spotify end -->
