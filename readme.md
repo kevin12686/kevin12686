@@ -24,9 +24,9 @@ My Only (電視劇《開端》片                         周深
 たぶん                                         YOASOBI
 FLOWER                                           JISOO
 静悄悄                                            大泫
-Photograph                                  Ed Sheeran
 霍元甲                                        Jay Chou
-我反芻著你留下的寂寞                          理想混蛋
+龍捲風                                        Jay Chou
+小酒窩                               JJ Lin & Charlene
 ```
 
 <!-- spotify end -->
