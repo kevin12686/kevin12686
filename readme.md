@@ -18,15 +18,15 @@
 
 ```text
 Just Say Hello                                  Melo-D
-往未來飛的客機                              Claire Kuo
 My Only (電視劇《開端》片                         周深
+往未來飛的客機                              Claire Kuo
+In Love With You                      Regine Velasquez
+Mr. Chu                                          Apink
 飘雪 - Live                                     梁玉莹
 묘해, 너와                            Acoustic Collabo
 霍元甲                                        Jay Chou
 寫給天上的你                                    陳昱璇
 龍捲風                                        Jay Chou
-静悄悄                                            大泫
-珊瑚海                               Jay Chou & Lara L
 ```
 
 <!-- spotify end -->
