@@ -25,8 +25,8 @@ Just Say Hello                                  Melo-D
 飘雪 - Live                                     梁玉莹
 묘해, 너와                            Acoustic Collabo
 样 Young                                        TFBOYS
+愛的代價                                        張艾嘉
 寫給天上的你                                    陳昱璇
-Mr. Chu                                          Apink
 ```
 
 <!-- spotify end -->
