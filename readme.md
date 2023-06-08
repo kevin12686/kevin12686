@@ -18,15 +18,15 @@
 
 ```text
 My Only (電視劇《開端》片                         周深
-往未來飛的客機                              Claire Kuo
 In Love With You                      Regine Velasquez
-Just Say Hello                                  Melo-D
 向左向右                                       Band IO
 飘雪 - Live                                     梁玉莹
 묘해, 너와                            Acoustic Collabo
 样 Young                                        TFBOYS
+往未來飛的客機                              Claire Kuo
 愛的代價                                        張艾嘉
 寫給天上的你                                    陳昱璇
+Mr. Chu                                          Apink
 ```
 
 <!-- spotify end -->
