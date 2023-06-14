@@ -17,16 +17,16 @@
 <!-- spotify start -->
 
 ```text
-向左向右                                       Band IO
-飘雪 - Live                                     梁玉莹
 In Love With You                      Regine Velasquez
-묘해, 너와                            Acoustic Collabo
 My Only (電視劇《開端》片                         周深
+向左向右                                       Band IO
 样 Young                                        TFBOYS
 愛的代價                                        張艾嘉
-寫給天上的你                                    陳昱璇
 You Are The Reason - Du              Calum Scott & Leo
+飘雪 - Live                                     梁玉莹
 疑心病                                         Ren Ran
+往未來飛的客機                              Claire Kuo
+Mr. Chu                                          Apink
 ```
 
 <!-- spotify end -->
