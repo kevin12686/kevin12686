@@ -17,16 +17,16 @@
 <!-- spotify start -->
 
 ```text
-In Love With You                      Regine Velasquez
-My Only (電視劇《開端》片                         周深
 向左向右                                       Band IO
-样 Young                                        TFBOYS
 愛的代價                                        張艾嘉
+样 Young                                        TFBOYS
 You Are The Reason - Du              Calum Scott & Leo
+In Love With You                      Regine Velasquez
 疑心病                                         Ren Ran
-往未來飛的客機                              Claire Kuo
-Mr. Chu                                          Apink
-Just Say Hello                                  Melo-D
+Careless Whisper                        George Michael
+Lemon                                    Kenshi Yonezu
+可惜你不在                                 Princess Ai
+牆外                                    Namewee & 小花
 ```
 
 <!-- spotify end -->
