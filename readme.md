@@ -17,7 +17,6 @@
 <!-- spotify start -->
 
 ```text
-向左向右                                       Band IO
 愛的代價                                        張艾嘉
 样 Young                                        TFBOYS
 You Are The Reason - Du              Calum Scott & Leo
@@ -26,7 +25,8 @@ In Love With You                      Regine Velasquez
 Careless Whisper                        George Michael
 Lemon                                    Kenshi Yonezu
 可惜你不在                                 Princess Ai
-牆外                                    Namewee & 小花
+落雨聲                                     Jody Chiang
+孤独颂歌                                        陈文非
 ```
 
 <!-- spotify end -->
