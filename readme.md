@@ -22,11 +22,11 @@
 You Are The Reason - Du              Calum Scott & Leo
 In Love With You                      Regine Velasquez
 疑心病                                         Ren Ran
+我会等                                            承桓
 Careless Whisper                        George Michael
 Lemon                                    Kenshi Yonezu
 可惜你不在                                 Princess Ai
 落雨聲                                     Jody Chiang
-孤独颂歌                                        陈文非
 ```
 
 <!-- spotify end -->
