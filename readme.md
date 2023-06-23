@@ -19,14 +19,14 @@
 ```text
 愛的代價                                        張艾嘉
 样 Young                                        TFBOYS
-You Are The Reason - Du              Calum Scott & Leo
 In Love With You                      Regine Velasquez
 疑心病                                         Ren Ran
 我会等                                            承桓
-Careless Whisper                        George Michael
-Lemon                                    Kenshi Yonezu
-可惜你不在                                 Princess Ai
-落雨聲                                     Jody Chiang
+FANCY                                            TWICE
+好的情人                                         Yen-J
+往未來飛的客機                              Claire Kuo
+MOONLIGHT SUNRISE                                TWICE
+My Only (電視劇《開端》片                         周深
 ```
 
 <!-- spotify end -->
