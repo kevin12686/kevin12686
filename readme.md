@@ -17,16 +17,16 @@
 <!-- spotify start -->
 
 ```text
-样 Young                                        TFBOYS
 我会等                                            承桓
-In Love With You                      Regine Velasquez
-疑心病                                         Ren Ran
 愛的代價                                        張艾嘉
 FANCY                                            TWICE
+In Love With You                      Regine Velasquez
+样 Young                                        TFBOYS
 好的情人                                         Yen-J
-往未來飛的客機                              Claire Kuo
 MOONLIGHT SUNRISE                                TWICE
-My Only (電視劇《開端》片                         周深
+Cupid - Twin Ver.                          FIFTY FIFTY
+Just Say Hello                                  Melo-D
+Lemon                                    Kenshi Yonezu
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ My Only (電視劇《開端》片                         周深
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    47 commits  █████████▏░░░░░░░░░░░  43.5%
+🌞 Morning    48 commits  █████████▎░░░░░░░░░░░  44.4%
 🌆 Daytime     5 commits  ▉░░░░░░░░░░░░░░░░░░░░   4.6%
-🌃 Evening    55 commits  ██████████▋░░░░░░░░░░  50.9%
+🌃 Evening    54 commits  ██████████▌░░░░░░░░░░  50.0%
 🌙 Night       1 commits  ▏░░░░░░░░░░░░░░░░░░░░   0.9%
 ```
 
