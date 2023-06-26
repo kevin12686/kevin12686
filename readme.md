@@ -23,10 +23,10 @@ FANCY                                            TWICE
 In Love With You                      Regine Velasquez
 样 Young                                        TFBOYS
 好的情人                                         Yen-J
-MOONLIGHT SUNRISE                                TWICE
-Cupid - Twin Ver.                          FIFTY FIFTY
-Just Say Hello                                  Melo-D
 Lemon                                    Kenshi Yonezu
+散場的擁抱                                      倪安東
+可惜你不在                                 Princess Ai
+第一次愛的人                                Cyndi Wang
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ Lemon                                    Kenshi Yonezu
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    47 commits  █████████▏░░░░░░░░░░░  43.5%
+🌞 Morning    48 commits  █████████▎░░░░░░░░░░░  44.4%
 🌆 Daytime     5 commits  ▉░░░░░░░░░░░░░░░░░░░░   4.6%
-🌃 Evening    55 commits  ██████████▋░░░░░░░░░░  50.9%
+🌃 Evening    54 commits  ██████████▌░░░░░░░░░░  50.0%
 🌙 Night       1 commits  ▏░░░░░░░░░░░░░░░░░░░░   0.9%
 ```
 
