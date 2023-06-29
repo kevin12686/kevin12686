@@ -18,15 +18,15 @@
 
 ```text
 我会等                                            承桓
-愛的代價                                        張艾嘉
 好的情人                                         Yen-J
 散場的擁抱                                      倪安東
 第一次愛的人                                Cyndi Wang
 《越過山丘》——— 致李宗                    Aska Yang
 無條件為你                                  Fish Leong
 晚安                                            颜人中
-疑心病                                         Ren Ran
 如果有来生                                      谭维维
+離開你以後 - 電影《你的婚                    Eric Chou
+See You In Life                         Valentina Ploy
 ```
 
 <!-- spotify end -->
