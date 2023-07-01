@@ -19,14 +19,14 @@
 ```text
 我会等                                            承桓
 好的情人                                         Yen-J
-散場的擁抱                                      倪安東
-第一次愛的人                                Cyndi Wang
-無條件為你                                  Fish Leong
-晚安                                            颜人中
-如果有来生                                      谭维维
 離開你以後 - 電影《你的婚                    Eric Chou
-小清新                                          四叶草
-我太笨                                        锤娜丽莎
+多想在平庸的生活拥抱你                        隔壁老樊
+想和你看五月的晚霞                                陳華
+我也曾經想過這樣殺了我自                       NeciKen
+就让这大雨全都落下                   容祖兒(Joey Yung)
+晴時多雲偶想你                                理想混蛋
+你的愛比我重要 (W劇場《因                      Shi Shi
+摯友                                         Eric Chou
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    47 commits  █████████▏░░░░░░░░░░░  43.5%
+🌞 Morning    48 commits  █████████▎░░░░░░░░░░░  44.4%
 🌆 Daytime     5 commits  ▉░░░░░░░░░░░░░░░░░░░░   4.6%
-🌃 Evening    55 commits  ██████████▋░░░░░░░░░░  50.9%
+🌃 Evening    54 commits  ██████████▌░░░░░░░░░░  50.0%
 🌙 Night       1 commits  ▏░░░░░░░░░░░░░░░░░░░░   0.9%
 ```
 
