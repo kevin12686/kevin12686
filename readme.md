@@ -18,7 +18,6 @@
 
 ```text
 我会等                                            承桓
-離開你以後 - 電影《你的婚                    Eric Chou
 想和你看五月的晚霞                                陳華
 我也曾經想過這樣殺了我自                       NeciKen
 就让这大雨全都落下                   容祖兒(Joey Yung)
@@ -27,6 +26,7 @@
 摯友                                         Eric Chou
 On My Way《地獄里長》主題           Sophie Chen & 高爾
 人間條件                                      Fire EX.
+訣愛 (劇集《蒼蘭訣》片頭                        詹雯婷
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ On My Way《地獄里長》主題           Sophie Chen & 高爾
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    47 commits  █████████▏░░░░░░░░░░░  43.5%
+🌞 Morning    48 commits  █████████▎░░░░░░░░░░░  44.4%
 🌆 Daytime     5 commits  ▉░░░░░░░░░░░░░░░░░░░░   4.6%
-🌃 Evening    55 commits  ██████████▋░░░░░░░░░░  50.9%
+🌃 Evening    54 commits  ██████████▌░░░░░░░░░░  50.0%
 🌙 Night       1 commits  ▏░░░░░░░░░░░░░░░░░░░░   0.9%
 ```
 
