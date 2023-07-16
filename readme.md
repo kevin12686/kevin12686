@@ -19,14 +19,14 @@
 ```text
 我会等                                            承桓
 想和你看五月的晚霞                                陳華
+Just Say Hello                                  Melo-D
+样 Young                                        TFBOYS
+In Love With You                      Regine Velasquez
+烏梅子醬                                    Ronghao Li
+My Only (電視劇《開端》片                    Zhou Shen
+摯友                                         Eric Chou
 我也曾經想過這樣殺了我自                       NeciKen
 就让这大雨全都落下                   容祖兒(Joey Yung)
-晴時多雲偶想你                                理想混蛋
-你的愛比我重要 (W劇場《因                      Shi Shi
-摯友                                         Eric Chou
-On My Way《地獄里長》主題           Sophie Chen & 高爾
-人間條件                                      Fire EX.
-訣愛 (劇集《蒼蘭訣》片頭                        詹雯婷
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ On My Way《地獄里長》主題           Sophie Chen & 高爾
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    48 commits  █████████▎░░░░░░░░░░░  44.4%
+🌞 Morning    47 commits  █████████▏░░░░░░░░░░░  43.5%
 🌆 Daytime     5 commits  ▉░░░░░░░░░░░░░░░░░░░░   4.6%
-🌃 Evening    54 commits  ██████████▌░░░░░░░░░░  50.0%
+🌃 Evening    55 commits  ██████████▋░░░░░░░░░░  50.9%
 🌙 Night       1 commits  ▏░░░░░░░░░░░░░░░░░░░░   0.9%
 ```
 
