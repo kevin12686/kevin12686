@@ -19,7 +19,7 @@
 ```text
 我会等                                            承桓
 只想把你偷偷藏好(《偷偷藏          Silence Wang & 赵露
-寫給天上的你                                    陳昱璇
+寫給天上的你                                    陳羿璇
 Just Say Hello                                  Melo-D
 もう少しだけ                                   YOASOBI
 In Love with You                      Regine Velasquez
