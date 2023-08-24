@@ -18,15 +18,15 @@
 
 ```text
 最後一堂課 - 《媽,別鬧了!                    Eric Chou
+你,好不好? - TVBS連續劇【                    Eric Chou
+摯友                                         Eric Chou
+其實你並沒那麼孤單                           Eric Chou
 只想把你偷偷藏好(《偷偷藏          Silence Wang & 赵露
-眼淚記得你 - 電影《想見你                      Shi Shi
 我会等                                            承桓
 想和你看五月的晚霞                                陳華
-訣愛 (劇集《蒼蘭訣》片頭                        詹雯婷
-烏梅子醬                                    Ronghao Li
-雪 Distance                              Capper & 罗言
-就让这大雨全都落下                           Joey Yung
-是你.                                        政学Zed-X
+眼淚記得你 - 電影《想見你                      Shi Shi
+稻香                                          Jay Chou
+怎麼了                                       Eric Chou
 ```
 
 <!-- spotify end -->
