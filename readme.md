@@ -23,8 +23,8 @@
 其實你並沒那麼孤單                           Eric Chou
 只想把你偷偷藏好(《偷偷藏          Silence Wang & 赵露
 我会等                                            承桓
-眼淚記得你 - 電影《想見你                      Shi Shi
 想和你看五月的晚霞                                陳華
+眼淚記得你 - 電影《想見你                      Shi Shi
 稻香                                          Jay Chou
 怎麼了                                       Eric Chou
 ```
