@@ -21,11 +21,11 @@
 你,好不好? - TVBS連續劇【                    Eric Chou
 摯友                                         Eric Chou
 其實你並沒那麼孤單                           Eric Chou
-只想把你偷偷藏好(《偷偷藏          Silence Wang & 赵露
+烏梅子醬                                    Ronghao Li
 我会等                                            承桓
+只想把你偷偷藏好(《偷偷藏          Silence Wang & 赵露
 想和你看五月的晚霞                                陳華
 眼淚記得你 - 電影《想見你                      Shi Shi
-稻香                                          Jay Chou
 怎麼了                                       Eric Chou
 ```
 
@@ -36,9 +36,9 @@
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    47 commits  █████████▋░░░░░░░░░░░  46.1%
+🌞 Morning    46 commits  █████████▍░░░░░░░░░░░  45.1%
 🌆 Daytime     1 commits  ▏░░░░░░░░░░░░░░░░░░░░   1.0%
-🌃 Evening    54 commits  ███████████░░░░░░░░░░  52.9%
+🌃 Evening    55 commits  ███████████▎░░░░░░░░░  53.9%
 🌙 Night       0 commits  ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
