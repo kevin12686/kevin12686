@@ -18,15 +18,15 @@
 
 ```text
 最後一堂課 - 《媽,別鬧了!                    Eric Chou
+样 Young                                        TFBOYS
 You Are The Reason                         Calum Scott
 Woke Up in Love                       Kygo & Gryffin &
 你,好不好? - TVBS連續劇【                    Eric Chou
 其實你並沒那麼孤單                           Eric Chou
 摯友                                         Eric Chou
+我会等                                            承桓
 烏梅子醬                                    Ronghao Li
-You Are The Reason - Du              Calum Scott & Leo
-Dancing On My Own                          Calum Scott
-Rain In Ibiza                        Felix Jaehn & The
+眼淚記得你 - 電影《想見你                      Shi Shi
 ```
 
 <!-- spotify end -->
