@@ -21,12 +21,12 @@
 样 Young                                        TFBOYS
 You Are The Reason                         Calum Scott
 Woke Up in Love                       Kygo & Gryffin &
-你,好不好? - TVBS連續劇【                    Eric Chou
+Where Are You Now                     Lost Frequencies
 我会等                                            承桓
+你,好不好? - TVBS連續劇【                    Eric Chou
 You Are The Reason - Du              Calum Scott & Leo
 其實你並沒那麼孤單                           Eric Chou
 摯友                                         Eric Chou
-烏梅子醬                                    Ronghao Li
 ```
 
 <!-- spotify end -->
