@@ -18,15 +18,15 @@
 
 ```text
 最後一堂課 - 《媽,別鬧了!                    Eric Chou
-样 Young                                        TFBOYS
 You Are The Reason                         Calum Scott
 Woke Up in Love                       Kygo & Gryffin &
+样 Young                                        TFBOYS
 Where Are You Now                     Lost Frequencies
-我会等                                            承桓
 你,好不好? - TVBS連續劇【                    Eric Chou
 You Are The Reason - Du              Calum Scott & Leo
 其實你並沒那麼孤單                           Eric Chou
 摯友                                         Eric Chou
+我会等                                            承桓
 ```
 
 <!-- spotify end -->
