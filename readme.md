@@ -26,7 +26,7 @@ Where Are You Now                     Lost Frequencies
 You Are The Reason - Du              Calum Scott & Leo
 其實你並沒那麼孤單                           Eric Chou
 摯友                                         Eric Chou
-我会等                                            承桓
+Dancing On My Own                          Calum Scott
 ```
 
 <!-- spotify end -->
