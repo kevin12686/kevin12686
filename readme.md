@@ -23,10 +23,10 @@ Woke Up in Love                       Kygo & Gryffin &
 样 Young                                        TFBOYS
 Where Are You Now                     Lost Frequencies
 烏梅子醬                                    Ronghao Li
-你,好不好? - TVBS連續劇【                    Eric Chou
 You Are The Reason - Du              Calum Scott & Leo
-其實你並沒那麼孤單                           Eric Chou
-摯友                                         Eric Chou
+Dancing On My Own                          Calum Scott
+Rain In Ibiza                        Felix Jaehn & The
+At Your Worst                              Calum Scott
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ You Are The Reason - Du              Calum Scott & Leo
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    49 commits  ██████████░░░░░░░░░░░  48.0%
+🌞 Morning    50 commits  ██████████▎░░░░░░░░░░  49.0%
 🌆 Daytime     1 commits  ▏░░░░░░░░░░░░░░░░░░░░   1.0%
-🌃 Evening    52 commits  ██████████▋░░░░░░░░░░  51.0%
+🌃 Evening    51 commits  ██████████▌░░░░░░░░░░  50.0%
 🌙 Night       0 commits  ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
