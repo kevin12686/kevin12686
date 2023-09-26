@@ -17,16 +17,16 @@
 <!-- spotify start -->
 
 ```text
-You Are The Reason                         Calum Scott
 Woke Up in Love                       Kygo & Gryffin &
 样 Young                                        TFBOYS
-Where Are You Now                     Lost Frequencies
+You Are The Reason                         Calum Scott
 You Are The Reason - Du              Calum Scott & Leo
-Dancing On My Own                          Calum Scott
 Rain In Ibiza                        Felix Jaehn & The
+Where Are You Now                     Lost Frequencies
 At Your Worst                              Calum Scott
-烏梅子醬                                    Ronghao Li
-最後一堂課 - 《媽,別鬧了!                    Eric Chou
+If You Ever Change Your                    Calum Scott
+寫給天上的你                                    陳羿璇
+落雨聲                                     Jody Chiang
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ At Your Worst                              Calum Scott
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    49 commits  ██████████░░░░░░░░░░░  48.0%
+🌞 Morning    50 commits  ██████████▎░░░░░░░░░░  49.0%
 🌆 Daytime     1 commits  ▏░░░░░░░░░░░░░░░░░░░░   1.0%
-🌃 Evening    52 commits  ██████████▋░░░░░░░░░░  51.0%
+🌃 Evening    51 commits  ██████████▌░░░░░░░░░░  50.0%
 🌙 Night       0 commits  ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
