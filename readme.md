@@ -18,15 +18,15 @@
 
 ```text
 Y.O.Universe                                      VCHA
-Woke Up in Love                       Kygo & Gryffin &
 样 Young                                        TFBOYS
-You Are The Reason                         Calum Scott
 Go Getter                                         VCHA
-You Are The Reason - Du              Calum Scott & Leo
-Rain In Ibiza                        Felix Jaehn & The
 Where Are You Now                     Lost Frequencies
-At Your Worst                              Calum Scott
 If You Ever Change Your                    Calum Scott
+Woke Up in Love                       Kygo & Gryffin &
+寫給天上的你                                    陳羿璇
+落雨聲                                     Jody Chiang
+You Are The Reason - Du              Calum Scott & Leo
+愛存在                                      Diana Wang
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ If You Ever Change Your                    Calum Scott
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    49 commits  ██████████░░░░░░░░░░░  48.0%
+🌞 Morning    50 commits  ██████████▎░░░░░░░░░░  49.0%
 🌆 Daytime     1 commits  ▏░░░░░░░░░░░░░░░░░░░░   1.0%
-🌃 Evening    52 commits  ██████████▋░░░░░░░░░░  51.0%
+🌃 Evening    51 commits  ██████████▌░░░░░░░░░░  50.0%
 🌙 Night       0 commits  ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
