@@ -19,14 +19,14 @@
 ```text
 Y.O.Universe                                      VCHA
 Go Getter                                         VCHA
-又到天黑                                        告五人
 Know Me Like That                                 VCHA
-Where Are You Now                     Lost Frequencies
-烏梅子醬                                    Ronghao Li
-夜に駆ける                                     YOASOBI
+月亮代表我的心                             Teresa Teng
 アイドル                                       YOASOBI
-星晴+回到過去+最後的戰役+                     Jay Chou
-回到過去                                      Jay Chou
+又到天黑                                        告五人
+夜に駆ける                                     YOASOBI
+怪物                                           YOASOBI
+Where Are You Now                     Lost Frequencies
+もしも命が描けたら                             YOASOBI
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ Where Are You Now                     Lost Frequencies
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    50 commits  ██████████▎░░░░░░░░░░  49.0%
+🌞 Morning    49 commits  ██████████░░░░░░░░░░░  48.0%
 🌆 Daytime     1 commits  ▏░░░░░░░░░░░░░░░░░░░░   1.0%
-🌃 Evening    51 commits  ██████████▌░░░░░░░░░░  50.0%
+🌃 Evening    52 commits  ██████████▋░░░░░░░░░░  51.0%
 🌙 Night       0 commits  ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
