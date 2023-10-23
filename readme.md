@@ -17,16 +17,16 @@
 <!-- spotify start -->
 
 ```text
-Y.O.Universe                                      VCHA
 アイドル                                       YOASOBI
-Go Getter                                         VCHA
-Know Me Like That                                 VCHA
-夜に駆ける                                     YOASOBI
 怪物                                           YOASOBI
 祝福                                           YOASOBI
+Y.O.Universe                                      VCHA
 群青                                           YOASOBI
 たぶん                                         YOASOBI
+Know Me Like That                                 VCHA
 あの夢をなぞって                               YOASOBI
+夜に駆ける                                     YOASOBI
+ハルジオン                                     YOASOBI
 ```
 
 <!-- spotify end -->
