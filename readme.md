@@ -18,15 +18,15 @@
 
 ```text
 アイドル                                       YOASOBI
+Y.O.Universe                                      VCHA
+Know Me Like That                                 VCHA
 怪物                                           YOASOBI
 祝福                                           YOASOBI
-Y.O.Universe                                      VCHA
 群青                                           YOASOBI
 たぶん                                         YOASOBI
-Know Me Like That                                 VCHA
+月亮代表我的心                             Teresa Teng
 あの夢をなぞって                               YOASOBI
 夜に駆ける                                     YOASOBI
-ハルジオン                                     YOASOBI
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ Know Me Like That                                 VCHA
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    48 commits  █████████▉░░░░░░░░░░░  47.1%
+🌞 Morning    49 commits  ██████████░░░░░░░░░░░  48.0%
 🌆 Daytime     1 commits  ▏░░░░░░░░░░░░░░░░░░░░   1.0%
-🌃 Evening    53 commits  ██████████▉░░░░░░░░░░  52.0%
+🌃 Evening    52 commits  ██████████▋░░░░░░░░░░  51.0%
 🌙 Night       0 commits  ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
