@@ -18,15 +18,15 @@
 
 ```text
 アイドル                                       YOASOBI
-Y.O.Universe                                      VCHA
-Know Me Like That                                 VCHA
 怪物                                           YOASOBI
 祝福                                           YOASOBI
 群青                                           YOASOBI
 たぶん                                         YOASOBI
+Know Me Like That                                 VCHA
 月亮代表我的心                             Teresa Teng
 あの夢をなぞって                               YOASOBI
 夜に駆ける                                     YOASOBI
+ハルジオン                                     YOASOBI
 ```
 
 <!-- spotify end -->
