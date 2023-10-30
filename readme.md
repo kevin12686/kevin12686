@@ -18,15 +18,15 @@
 
 ```text
 アイドル                                       YOASOBI
-祝福                                           YOASOBI
+Something Just Like This              The Chainsmokers
+アイドル                                       YOASOBI
 群青                                           YOASOBI
 たぶん                                         YOASOBI
+Interlude "Worship"                            YOASOBI
+アンコール                                     YOASOBI
 あの夢をなぞって                               YOASOBI
 勇者                                           YOASOBI
-あの夢をなぞって                               YOASOBI
-夜に駆ける                                     YOASOBI
-怪物                                           YOASOBI
-Something Just Like This              The Chainsmokers
+原諒我                                       Jam Hsiao
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ Something Just Like This              The Chainsmokers
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    48 commits  █████████▉░░░░░░░░░░░  47.1%
+🌞 Morning    49 commits  ██████████░░░░░░░░░░░  48.0%
 🌆 Daytime     1 commits  ▏░░░░░░░░░░░░░░░░░░░░   1.0%
-🌃 Evening    53 commits  ██████████▉░░░░░░░░░░  52.0%
+🌃 Evening    52 commits  ██████████▋░░░░░░░░░░  51.0%
 🌙 Night       0 commits  ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
