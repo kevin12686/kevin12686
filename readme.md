@@ -24,9 +24,9 @@ Something Just Like This              The Chainsmokers
 勇者                                           YOASOBI
 Welcome To New York (Ta                   Taylor Swift
 原諒我                                       Jam Hsiao
+Now That We Don't Talk                    Taylor Swift
 あの夢をなぞって                               YOASOBI
 夜に駆ける                                     YOASOBI
-怪物                                           YOASOBI
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ Welcome To New York (Ta                   Taylor Swift
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    49 commits  ██████████░░░░░░░░░░░  48.0%
+🌞 Morning    48 commits  █████████▉░░░░░░░░░░░  47.1%
 🌆 Daytime     1 commits  ▏░░░░░░░░░░░░░░░░░░░░   1.0%
-🌃 Evening    52 commits  ██████████▋░░░░░░░░░░  51.0%
+🌃 Evening    53 commits  ██████████▉░░░░░░░░░░  52.0%
 🌙 Night       0 commits  ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
