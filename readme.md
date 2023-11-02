@@ -17,16 +17,16 @@
 <!-- spotify start -->
 
 ```text
-アイドル                                       YOASOBI
 Something Just Like This              The Chainsmokers
-群青                                           YOASOBI
-たぶん                                         YOASOBI
-勇者                                           YOASOBI
 Welcome To New York (Ta                   Taylor Swift
 原諒我                                       Jam Hsiao
 Now That We Don't Talk                    Taylor Swift
-あの夢をなぞって                               YOASOBI
-夜に駆ける                                     YOASOBI
+Blank Space (Taylor's V                   Taylor Swift
+"Slut!" (Taylor's Versi                   Taylor Swift
+You Are In Love (Taylor                   Taylor Swift
+Clean (Taylor's Version)                  Taylor Swift
+Out Of The Woods (Taylo                   Taylor Swift
+I Know Places (Taylor's                   Taylor Swift
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ Now That We Don't Talk                    Taylor Swift
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    48 commits  █████████▉░░░░░░░░░░░  47.1%
+🌞 Morning    49 commits  ██████████░░░░░░░░░░░  48.0%
 🌆 Daytime     1 commits  ▏░░░░░░░░░░░░░░░░░░░░   1.0%
-🌃 Evening    53 commits  ██████████▉░░░░░░░░░░  52.0%
+🌃 Evening    52 commits  ██████████▋░░░░░░░░░░  51.0%
 🌙 Night       0 commits  ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
