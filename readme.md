@@ -17,16 +17,16 @@
 <!-- spotify start -->
 
 ```text
+The Feels                                        TWICE
 Something Just Like This              The Chainsmokers
+Hello                                              JOY
 Welcome To New York (Ta                   Taylor Swift
 原諒我                                       Jam Hsiao
 Now That We Don't Talk                    Taylor Swift
+Can You See - (劇集 "律政                    Kayee Tam
+Two Punks In Love                               bülow
+Starry Night                          The Terrace Vibe
 Blank Space (Taylor's V                   Taylor Swift
-"Slut!" (Taylor's Versi                   Taylor Swift
-You Are In Love (Taylor                   Taylor Swift
-Clean (Taylor's Version)                  Taylor Swift
-Out Of The Woods (Taylo                   Taylor Swift
-I Know Places (Taylor's                   Taylor Swift
 ```
 
 <!-- spotify end -->
