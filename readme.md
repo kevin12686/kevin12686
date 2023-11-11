@@ -25,8 +25,8 @@ Hello                                              JOY
 Welcome To New York (Ta                   Taylor Swift
 Now That We Don't Talk                    Taylor Swift
 Can You See - (劇集 "律政                    Kayee Tam
-Two Punks In Love                               bülow
 Starry Night                          The Terrace Vibe
+Two Punks In Love                               bülow
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ Starry Night                          The Terrace Vibe
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    50 commits  ██████████▎░░░░░░░░░░  49.0%
+🌞 Morning    49 commits  ██████████░░░░░░░░░░░  48.0%
 🌆 Daytime     1 commits  ▏░░░░░░░░░░░░░░░░░░░░   1.0%
-🌃 Evening    51 commits  ██████████▌░░░░░░░░░░  50.0%
+🌃 Evening    52 commits  ██████████▋░░░░░░░░░░  51.0%
 🌙 Night       0 commits  ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
