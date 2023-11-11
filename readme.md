@@ -19,14 +19,14 @@
 ```text
 Y.O.Universe                                      VCHA
 The Feels                                        TWICE
-Something Just Like This              The Chainsmokers
 Go Getter                                         VCHA
 Know Me Like That                                 VCHA
 Hello                                              JOY
 Welcome To New York (Ta                   Taylor Swift
-原諒我                                       Jam Hsiao
 Now That We Don't Talk                    Taylor Swift
 Can You See - (劇集 "律政                    Kayee Tam
+Two Punks In Love                               bülow
+Starry Night                          The Terrace Vibe
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ Can You See - (劇集 "律政                    Kayee Tam
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    49 commits  ██████████░░░░░░░░░░░  48.0%
+🌞 Morning    50 commits  ██████████▎░░░░░░░░░░  49.0%
 🌆 Daytime     1 commits  ▏░░░░░░░░░░░░░░░░░░░░   1.0%
-🌃 Evening    52 commits  ██████████▋░░░░░░░░░░  51.0%
+🌃 Evening    51 commits  ██████████▌░░░░░░░░░░  50.0%
 🌙 Night       0 commits  ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
