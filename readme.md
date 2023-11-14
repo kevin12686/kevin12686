@@ -21,12 +21,12 @@ Y.O.Universe                                      VCHA
 The Feels                                        TWICE
 Go Getter                                         VCHA
 最後一堂課 - 《媽,別鬧了!                    Eric Chou
+In Love with You                      Regine Velasquez
 Know Me Like That                                 VCHA
 Hello                                              JOY
 Welcome To New York (Ta                   Taylor Swift
 Now That We Don't Talk                    Taylor Swift
 Can You See - (劇集 "律政                    Kayee Tam
-Two Punks In Love                               bülow
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ Two Punks In Love                               bülow
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    50 commits  ██████████▎░░░░░░░░░░  49.0%
+🌞 Morning    49 commits  ██████████░░░░░░░░░░░  48.0%
 🌆 Daytime     1 commits  ▏░░░░░░░░░░░░░░░░░░░░   1.0%
-🌃 Evening    51 commits  ██████████▌░░░░░░░░░░  50.0%
+🌃 Evening    52 commits  ██████████▋░░░░░░░░░░  51.0%
 🌙 Night       0 commits  ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
