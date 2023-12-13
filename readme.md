@@ -20,13 +20,13 @@
 烏梅子醬                                    Ronghao Li
 我会等                                            承桓
 我太笨                                        锤娜丽莎
-Hello                                              JOY
 样 Young                                        TFBOYS
 Christmas Isn't Christmas             Michael Bolton &
-孤独颂歌                                        陈文非
 My Only (電視劇《開端》片                    Zhou Shen
 In Love with You                      Regine Velasquez
 Starry Night                          The Terrace Vibe
+往未來飛的客機                              Claire Kuo
+往后余生                                          孙莞
 ```
 
 <!-- spotify end -->
