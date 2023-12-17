@@ -26,7 +26,7 @@ My Only (電視劇《開端》片                    Zhou Shen
 In Love with You                      Regine Velasquez
 往未來飛的客機                              Claire Kuo
 往后余生                                          孙莞
-想和你看五月的晚霞                                陳華
+Jingle Bell Rock                           Bobby Helms
 ```
 
 <!-- spotify end -->
