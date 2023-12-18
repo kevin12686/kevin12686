@@ -19,14 +19,14 @@
 ```text
 烏梅子醬                                    Ronghao Li
 我会等                                            承桓
-我太笨                                        锤娜丽莎
-样 Young                                        TFBOYS
 Christmas Isn't Christmas             Michael Bolton &
-My Only (電視劇《開端》片                    Zhou Shen
+我太笨                                        锤娜丽莎
 In Love with You                      Regine Velasquez
+样 Young                                        TFBOYS
 往未來飛的客機                              Claire Kuo
-往后余生                                          孙莞
 Jingle Bell Rock                           Bobby Helms
+摯友                                         Eric Chou
+My Only (電視劇《開端》片                    Zhou Shen
 ```
 
 <!-- spotify end -->
