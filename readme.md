@@ -22,11 +22,11 @@
 Christmas Isn't Christmas             Michael Bolton &
 我太笨                                        锤娜丽莎
 往未來飛的客機                              Claire Kuo
+最後一堂課 - 《媽,別鬧了!                    Eric Chou
 Jingle Bell Rock                           Bobby Helms
 摯友                                         Eric Chou
 你，好不好？ - TVBS連續劇                    Eric Chou
 In Love with You                      Regine Velasquez
-Hello                                              JOY
 ```
 
 <!-- spotify end -->
