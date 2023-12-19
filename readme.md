@@ -17,16 +17,16 @@
 <!-- spotify start -->
 
 ```text
-烏梅子醬                                    Ronghao Li
 我会等                                            承桓
+烏梅子醬                                    Ronghao Li
 Christmas Isn't Christmas             Michael Bolton &
 我太笨                                        锤娜丽莎
-In Love with You                      Regine Velasquez
-样 Young                                        TFBOYS
 往未來飛的客機                              Claire Kuo
 Jingle Bell Rock                           Bobby Helms
 摯友                                         Eric Chou
-My Only (電視劇《開端》片                    Zhou Shen
+你，好不好？ - TVBS連續劇                    Eric Chou
+In Love with You                      Regine Velasquez
+Hello                                              JOY
 ```
 
 <!-- spotify end -->
