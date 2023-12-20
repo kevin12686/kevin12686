@@ -17,16 +17,16 @@
 <!-- spotify start -->
 
 ```text
+最後一堂課 - 《媽,別鬧了!                    Eric Chou
 我会等                                            承桓
 烏梅子醬                                    Ronghao Li
 Christmas Isn't Christmas             Michael Bolton &
 我太笨                                        锤娜丽莎
 往未來飛的客機                              Claire Kuo
-最後一堂課 - 《媽,別鬧了!                    Eric Chou
+愛的主旋律                         卓文萱 & Alien Huan
 Jingle Bell Rock                           Bobby Helms
 摯友                                         Eric Chou
 你，好不好？ - TVBS連續劇                    Eric Chou
-In Love with You                      Regine Velasquez
 ```
 
 <!-- spotify end -->
