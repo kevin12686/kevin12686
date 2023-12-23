@@ -24,8 +24,8 @@ Christmas Isn't Christmas             Michael Bolton &
 我太笨                                        锤娜丽莎
 往未來飛的客機                              Claire Kuo
 愛的主旋律                         卓文萱 & Alien Huan
-Jingle Bell Rock                           Bobby Helms
 摯友                                         Eric Chou
+Jingle Bell Rock                           Bobby Helms
 你，好不好？ - TVBS連續劇                    Eric Chou
 ```
 
