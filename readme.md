@@ -18,15 +18,15 @@
 
 ```text
 最後一堂課 - 《媽,別鬧了!                    Eric Chou
-Christmas Isn't Christmas             Michael Bolton &
 摯友                                         Eric Chou
 Jingle Bell Rock                           Bobby Helms
 你，好不好？ - TVBS連續劇                    Eric Chou
 夢醒時分                                     Meeia Foo
 如果還有明天                                      薛岳
-兩隻老虎                                  兒童音樂精選
 年少有為                                    Ronghao Li
 I (Feat. DAWN)                                Park Bom
+愛情你比我想的閣較偉大 -                   EggPlantEgg
+不喜歡沒有你的地方                           Eric Chou
 ```
 
 <!-- spotify end -->
