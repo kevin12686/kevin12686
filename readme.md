@@ -18,15 +18,15 @@
 
 ```text
 最後一堂課 - 《媽,別鬧了!                    Eric Chou
-摯友                                         Eric Chou
-Jingle Bell Rock                           Bobby Helms
-你，好不好？ - TVBS連續劇                    Eric Chou
 夢醒時分                                     Meeia Foo
 如果還有明天                                      薛岳
 年少有為                                    Ronghao Li
 I (Feat. DAWN)                                Park Bom
 愛情你比我想的閣較偉大 -                   EggPlantEgg
-不喜歡沒有你的地方                           Eric Chou
+冰雨                                          Andy Lau
+月亮惹的禍                                  Phil Chang
+愛的主旋律                         卓文萱 & Alien Huan
+Santa Tell Me                            Ariana Grande
 ```
 
 <!-- spotify end -->
