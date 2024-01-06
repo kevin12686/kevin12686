@@ -21,12 +21,12 @@
 夢醒時分                                     Meeia Foo
 如果還有明天                                      薛岳
 年少有為                                    Ronghao Li
-I (Feat. DAWN)                                Park Bom
 愛情你比我想的閣較偉大 -                   EggPlantEgg
 冰雨                                          Andy Lau
 月亮惹的禍                                  Phil Chang
 愛的主旋律                         卓文萱 & Alien Huan
-Santa Tell Me                            Ariana Grande
+Jesu, Joy of Man's Desi                 Alexis Ffrench
+不喜歡沒有你的地方                           Eric Chou
 ```
 
 <!-- spotify end -->
