@@ -17,16 +17,16 @@
 <!-- spotify start -->
 
 ```text
-最後一堂課 - 《媽,別鬧了!                    Eric Chou
 夢醒時分                                     Meeia Foo
 如果還有明天                                      薛岳
 年少有為                                    Ronghao Li
 愛情你比我想的閣較偉大 -                   EggPlantEgg
 冰雨                                          Andy Lau
 月亮惹的禍                                  Phil Chang
-愛的主旋律                         卓文萱 & Alien Huan
 我喜歡你                             芒果醬 Mango Jump
 Suite bergamasque, L. 7               Claude Debussy &
+Jesu, Joy of Man's Desi                 Alexis Ffrench
+Morgen, Op. 27 No. 4 (A              Richard Strauss &
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ Suite bergamasque, L. 7               Claude Debussy &
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    49 commits  ██████████░░░░░░░░░░░  48.0%
+🌞 Morning    50 commits  ██████████▎░░░░░░░░░░  49.0%
 🌆 Daytime     1 commits  ▏░░░░░░░░░░░░░░░░░░░░   1.0%
-🌃 Evening    52 commits  ██████████▋░░░░░░░░░░  51.0%
+🌃 Evening    51 commits  ██████████▌░░░░░░░░░░  50.0%
 🌙 Night       0 commits  ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
