@@ -22,11 +22,11 @@ Suite bergamasque, L. 7               Claude Debussy &
 Fracture                                Stephan Moccio
 Jesu, Joy of Man's Desi                 Alexis Ffrench
 Morgen, Op. 27 No. 4 (A              Richard Strauss &
-你是我這輩子最想愛的呀             五堅情WOLF(S) (邱鋒
 Filma Solo                              Gabríel Ólafs
 3 Spirituals for Orches              Adolphus Hailstor
 如歌的歲月                                      信樂團
 Notturno for Strings an              Arnold Schoenberg
+Losar                                      Joep Beving
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ Notturno for Strings an              Arnold Schoenberg
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    49 commits  ██████████░░░░░░░░░░░  48.0%
+🌞 Morning    50 commits  ██████████▎░░░░░░░░░░  49.0%
 🌆 Daytime     1 commits  ▏░░░░░░░░░░░░░░░░░░░░   1.0%
-🌃 Evening    52 commits  ██████████▋░░░░░░░░░░  51.0%
+🌃 Evening    51 commits  ██████████▌░░░░░░░░░░  50.0%
 🌙 Night       0 commits  ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
