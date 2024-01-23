@@ -17,6 +17,7 @@
 <!-- spotify start -->
 
 ```text
+生日快乐                                    Yihuik苡慧
 我喜歡你                             芒果醬 Mango Jump
 Suite bergamasque, L. 7               Claude Debussy &
 Fracture                                Stephan Moccio
@@ -26,7 +27,6 @@ Morgen, Op. 27 No. 4 (A              Richard Strauss &
 Filma Solo                              Gabríel Ólafs
 3 Spirituals for Orches              Adolphus Hailstor
 如歌的歲月                                      信樂團
-Notturno for Strings an              Arnold Schoenberg
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ Notturno for Strings an              Arnold Schoenberg
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    50 commits  ██████████▎░░░░░░░░░░  49.0%
+🌞 Morning    49 commits  ██████████░░░░░░░░░░░  48.0%
 🌆 Daytime     1 commits  ▏░░░░░░░░░░░░░░░░░░░░   1.0%
-🌃 Evening    51 commits  ██████████▌░░░░░░░░░░  50.0%
+🌃 Evening    52 commits  ██████████▋░░░░░░░░░░  51.0%
 🌙 Night       0 commits  ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
