@@ -20,13 +20,13 @@
 生日快乐                                    Yihuik苡慧
 我喜歡你                             芒果醬 Mango Jump
 Suite bergamasque, L. 7               Claude Debussy &
-Fracture                                Stephan Moccio
 你是我這輩子最想愛的呀             五堅情WOLF(S) (邱鋒
-Jesu, Joy of Man's Desi                 Alexis Ffrench
-Morgen, Op. 27 No. 4 (A              Richard Strauss &
 你的童話 (電視劇《你也有                      LaLa Hsu
 Snowman                                      Karencici
+Jesu, Joy of Man's Desi                 Alexis Ffrench
 如歌的歲月                                      信樂團
+認愛                               GX (鼓鼓 呂思緯、蕭
+離開的一路上                                  理想混蛋
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ Snowman                                      Karencici
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    49 commits  ██████████░░░░░░░░░░░  48.0%
+🌞 Morning    50 commits  ██████████▎░░░░░░░░░░  49.0%
 🌆 Daytime     1 commits  ▏░░░░░░░░░░░░░░░░░░░░   1.0%
-🌃 Evening    52 commits  ██████████▋░░░░░░░░░░  51.0%
+🌃 Evening    51 commits  ██████████▌░░░░░░░░░░  50.0%
 🌙 Night       0 commits  ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
