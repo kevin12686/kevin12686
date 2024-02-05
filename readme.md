@@ -18,15 +18,15 @@
 
 ```text
 生日快乐                                    Yihuik苡慧
+台北夜空下 - Original                         Julia Wu
 我喜歡你                             芒果醬 Mango Jump
+アフターダーク                       ASIAN KUNG-FU GEN
+Never the Point                             小男孩樂團
+Lion                                              LION
+最後的請求                                        LION
 你是我這輩子最想愛的呀             五堅情WOLF(S) (邱鋒
-Suite bergamasque, L. 7               Claude Debussy &
-你的童話 (電視劇《你也有                      LaLa Hsu
-我期待的不是雪                                  张妙格
-愛了愛了                               831 & 彈殼Danko
-Snowman                                      Karencici
-如歌的歲月                                      信樂團
-lately                                       moon tang
+我想要佔據你                                    告五人
+Y.O.Universe                                      VCHA
 ```
 
 <!-- spotify end -->
