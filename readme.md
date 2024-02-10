@@ -19,11 +19,11 @@
 ```text
 生日快乐                                    Yihuik苡慧
 台北夜空下 - Original                         Julia Wu
-我喜歡你                             芒果醬 Mango Jump
 アフターダーク                       ASIAN KUNG-FU GEN
 Never the Point                             小男孩樂團
 Lion                                              LION
 最後的請求                                        LION
+我喜歡你                             芒果醬 Mango Jump
 你是我這輩子最想愛的呀             五堅情WOLF(S) (邱鋒
 我想要佔據你                                    告五人
 Y.O.Universe                                      VCHA
