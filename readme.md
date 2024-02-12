@@ -19,14 +19,14 @@
 ```text
 生日快乐                                    Yihuik苡慧
 台北夜空下 - Original                         Julia Wu
-アフターダーク                       ASIAN KUNG-FU GEN
-Never the Point                             小男孩樂團
-Lion                                              LION
-最後的請求                                        LION
-我喜歡你                             芒果醬 Mango Jump
 你是我這輩子最想愛的呀             五堅情WOLF(S) (邱鋒
-我想要佔據你                                    告五人
-Y.O.Universe                                      VCHA
+I'm Yours                                   Jason Mraz
+慢靈魂                                        Crowd Lu
+耳喃                                             PIggy
+你，好不好？ - TVBS連續劇                    Eric Chou
+Party In The U.S.A.                        Miley Cyrus
+啊我忘了帶傘                                    告五人
+黏黏 (feat. 許瑋甯)                 Eric Chou & 許瑋甯
 ```
 
 <!-- spotify end -->
