@@ -19,7 +19,6 @@
 ```text
 生日快乐                                    Yihuik苡慧
 台北夜空下 - Original                         Julia Wu
-你是我這輩子最想愛的呀             五堅情WOLF(S) (邱鋒
 I'm Yours                                   Jason Mraz
 慢靈魂                                        Crowd Lu
 耳喃                                             PIggy
@@ -27,6 +26,7 @@ I'm Yours                                   Jason Mraz
 Party In The U.S.A.                        Miley Cyrus
 啊我忘了帶傘                                    告五人
 黏黏 (feat. 許瑋甯)                 Eric Chou & 許瑋甯
+アフターダーク                       ASIAN KUNG-FU GEN
 ```
 
 <!-- spotify end -->
