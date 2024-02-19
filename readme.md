@@ -17,7 +17,6 @@
 <!-- spotify start -->
 
 ```text
-生日快乐                                    Yihuik苡慧
 台北夜空下 - Original                         Julia Wu
 I'm Yours                                   Jason Mraz
 慢靈魂                                        Crowd Lu
@@ -27,6 +26,7 @@ Party In The U.S.A.                        Miley Cyrus
 啊我忘了帶傘                                    告五人
 黏黏 (feat. 許瑋甯)                 Eric Chou & 許瑋甯
 アフターダーク                       ASIAN KUNG-FU GEN
+Cupid - Twin Ver.                          FIFTY FIFTY
 ```
 
 <!-- spotify end -->
