@@ -18,15 +18,15 @@
 
 ```text
 Old Love (Stripped)                yuji & putri dahlia
-台北夜空下 - Original                         Julia Wu
 I'm Yours                                   Jason Mraz
 慢靈魂                                        Crowd Lu
-耳喃                                             PIggy
 你，好不好？ - TVBS連續劇                    Eric Chou
 Party In The U.S.A.                        Miley Cyrus
 啊我忘了帶傘                                    告五人
-黏黏 (feat. 許瑋甯)                 Eric Chou & 許瑋甯
-アフターダーク                       ASIAN KUNG-FU GEN
+Cupid - Twin Ver.                          FIFTY FIFTY
+寂寞寂寞就好                                 Hebe Tien
+Have A Nice Day                                Waa Wei
+橘子汽水                                 Nan Quan Mama
 ```
 
 <!-- spotify end -->
