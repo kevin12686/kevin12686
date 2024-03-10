@@ -18,15 +18,15 @@
 
 ```text
 Old Love (Stripped)                yuji & putri dahlia
-I'm Yours                                   Jason Mraz
-慢靈魂                                        Crowd Lu
-你，好不好？ - TVBS連續劇                    Eric Chou
-Party In The U.S.A.                        Miley Cyrus
-啊我忘了帶傘                                    告五人
-Cupid - Twin Ver.                          FIFTY FIFTY
-寂寞寂寞就好                                 Hebe Tien
-Have A Nice Day                                Waa Wei
-橘子汽水                                 Nan Quan Mama
+摯友                                         Eric Chou
+Losar                                      Joep Beving
+Sundays in New York                  Rian Cult & ABRAM
+The Weekend                            88rising & BIBI
+The Arts and the Hours               Jean-Philippe Ram
+Fracture                                Stephan Moccio
+By the Still Waters, Op              Amy Beach & Isata
+我愛你對不起 謝謝你沒關係                      WeiBird
+Satie / Orch. Ducros: G              Erik Satie & Gaut
 ```
 
 <!-- spotify end -->
