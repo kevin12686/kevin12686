@@ -19,14 +19,14 @@
 ```text
 Old Love (Stripped)                yuji & putri dahlia
 Losar                                      Joep Beving
-摯友                                         Eric Chou
 Sundays in New York                  Rian Cult & ABRAM
 The Weekend                            88rising & BIBI
 The Arts and the Hours               Jean-Philippe Ram
 Fracture                                Stephan Moccio
 By the Still Waters, Op              Amy Beach & Isata
-我愛你對不起 謝謝你沒關係                      WeiBird
 Satie / Orch. Ducros: G              Erik Satie & Gaut
+The Carnival of the Ani              Camille Saint-Saë
+分合                                            Energy
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ Satie / Orch. Ducros: G              Erik Satie & Gaut
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    49 commits  ██████████░░░░░░░░░░░  48.0%
+🌞 Morning    50 commits  ██████████▎░░░░░░░░░░  49.0%
 🌆 Daytime     1 commits  ▏░░░░░░░░░░░░░░░░░░░░   1.0%
-🌃 Evening    52 commits  ██████████▋░░░░░░░░░░  51.0%
+🌃 Evening    51 commits  ██████████▌░░░░░░░░░░  50.0%
 🌙 Night       0 commits  ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
