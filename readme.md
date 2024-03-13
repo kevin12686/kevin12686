@@ -19,11 +19,11 @@
 ```text
 Old Love (Stripped)                yuji & putri dahlia
 Losar                                      Joep Beving
-Sundays in New York                  Rian Cult & ABRAM
 The Weekend                            88rising & BIBI
 The Arts and the Hours               Jean-Philippe Ram
 Fracture                                Stephan Moccio
 By the Still Waters, Op              Amy Beach & Isata
+Sundays in New York                  Rian Cult & ABRAM
 Satie / Orch. Ducros: G              Erik Satie & Gaut
 The Carnival of the Ani              Camille Saint-Saë
 分合                                            Energy
