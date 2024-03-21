@@ -26,7 +26,7 @@ By the Still Waters, Op              Amy Beach & Isata
 Satie / Orch. Ducros: G              Erik Satie & Gaut
 The Carnival of the Ani              Camille Saint-Saë
 分合                                            Energy
-The Weekend                            88rising & BIBI
+Suite bergamasque, L. 7               Claude Debussy &
 ```
 
 <!-- spotify end -->
