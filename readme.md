@@ -17,7 +17,6 @@
 <!-- spotify start -->
 
 ```text
-Old Love (Stripped)                yuji & putri dahlia
 Sonata No. 14 "Moonligh              Ludwig van Beetho
 Losar                                      Joep Beving
 The Arts and the Hours               Jean-Philippe Ram
@@ -27,6 +26,7 @@ Satie / Orch. Ducros: G              Erik Satie & Gaut
 The Carnival of the Ani              Camille Saint-Saë
 分合                                            Energy
 Suite bergamasque, L. 7               Claude Debussy &
+Adieux                                Ludovico Einaudi
 ```
 
 <!-- spotify end -->
