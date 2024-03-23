@@ -19,14 +19,14 @@
 ```text
 Sonata No. 14 "Moonligh              Ludwig van Beetho
 Losar                                      Joep Beving
-The Arts and the Hours               Jean-Philippe Ram
-Fracture                                Stephan Moccio
-By the Still Waters, Op              Amy Beach & Isata
-Satie / Orch. Ducros: G              Erik Satie & Gaut
-The Carnival of the Ani              Camille Saint-Saë
 分合                                            Energy
-Suite bergamasque, L. 7               Claude Debussy &
-Adieux                                Ludovico Einaudi
+因為你 所以我                                   Mayday
+冬眠                                              司南
+感情用事                                    Cyndi Wang
+藏星（电影《热辣滚烫》热                  Silence Wang
+不愛自己現在的樣子 - 影集                   Vivian Hsu
+甜蜜的折磨                                  Vivian Hsu
+Fracture                                Stephan Moccio
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ Adieux                                Ludovico Einaudi
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    48 commits  ██████████░░░░░░░░░░░  48.0%
+🌞 Morning    49 commits  ██████████▎░░░░░░░░░░  49.0%
 🌆 Daytime     0 commits  ░░░░░░░░░░░░░░░░░░░░░   0.0%
-🌃 Evening    52 commits  ██████████▉░░░░░░░░░░  52.0%
+🌃 Evening    51 commits  ██████████▋░░░░░░░░░░  51.0%
 🌙 Night       0 commits  ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
