@@ -18,15 +18,15 @@
 
 ```text
 Sonata No. 14 "Moonligh              Ludwig van Beetho
-Losar                                      Joep Beving
 分合                                            Energy
 因為你 所以我                                   Mayday
+Losar                                      Joep Beving
 冬眠                                              司南
 感情用事                                    Cyndi Wang
 藏星（电影《热辣滚烫》热                  Silence Wang
 不愛自己現在的樣子 - 影集                   Vivian Hsu
 甜蜜的折磨                                  Vivian Hsu
-Fracture                                Stephan Moccio
+好想你                                      Vivian Hsu
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ Fracture                                Stephan Moccio
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    48 commits  ██████████░░░░░░░░░░░  48.0%
+🌞 Morning    49 commits  ██████████▎░░░░░░░░░░  49.0%
 🌆 Daytime     0 commits  ░░░░░░░░░░░░░░░░░░░░░   0.0%
-🌃 Evening    52 commits  ██████████▉░░░░░░░░░░  52.0%
+🌃 Evening    51 commits  ██████████▋░░░░░░░░░░  51.0%
 🌙 Night       0 commits  ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
