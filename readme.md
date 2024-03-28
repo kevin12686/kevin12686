@@ -19,14 +19,14 @@
 ```text
 Sonata No. 14 "Moonligh              Ludwig van Beetho
 因為你 所以我                                   Mayday
-Losar                                      Joep Beving
 冬眠                                              司南
-感情用事                                    Cyndi Wang
 不愛自己現在的樣子 - 影集                   Vivian Hsu
 甜蜜的折磨                                  Vivian Hsu
 好想你                                      Vivian Hsu
 一念之間                                        告五人
-我是如此相信(電影《天火》                     Jay Chou
+壞蛋 (電影《周處除三害》                         Mixer
+SOSO                                        Vivian Hsu
+感情用事                                    Cyndi Wang
 ```
 
 <!-- spotify end -->
