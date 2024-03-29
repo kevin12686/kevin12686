@@ -23,10 +23,10 @@ Sonata No. 14 "Moonligh              Ludwig van Beetho
 不愛自己現在的樣子 - 影集                   Vivian Hsu
 甜蜜的折磨                                  Vivian Hsu
 好想你                                      Vivian Hsu
-一念之間                                        告五人
 壞蛋 (電影《周處除三害》                         Mixer
 SOSO                                        Vivian Hsu
-感情用事                                    Cyndi Wang
+不需要理由                                  Vivian Hsu
+姐 妳睡了嗎                                 Vivian Hsu
 ```
 
 <!-- spotify end -->
