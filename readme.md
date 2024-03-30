@@ -17,16 +17,16 @@
 <!-- spotify start -->
 
 ```text
+貝多芬 給愛麗絲                      Ludwig van Beetho
+李斯特 鐘                           Franz Liszt & 睡眠
+Piano Sonata No. 16 in                Wolfgang Amadeus
+貝多芬 命運交響曲                    Ludwig van Beetho
+Symphony No. 5 in C Min              Ludwig van Beetho
 Sonata No. 14 "Moonligh              Ludwig van Beetho
+Requiem in D Minor, K.                Wolfgang Amadeus
 因為你 所以我                                   Mayday
 冬眠                                              司南
 不愛自己現在的樣子 - 影集                   Vivian Hsu
-甜蜜的折磨                                  Vivian Hsu
-好想你                                      Vivian Hsu
-壞蛋 (電影《周處除三害》                         Mixer
-SOSO                                        Vivian Hsu
-Suite bergamasque, L. 7               Claude Debussy &
-不需要理由                                  Vivian Hsu
 ```
 
 <!-- spotify end -->
