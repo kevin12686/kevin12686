@@ -18,6 +18,7 @@
 
 ```text
 貝多芬 給愛麗絲                      Ludwig van Beetho
+裹著心的光                                      JJ Lin
 李斯特 鐘                           Franz Liszt & 睡眠
 Piano Sonata No. 16 in                Wolfgang Amadeus
 貝多芬 命運交響曲                    Ludwig van Beetho
@@ -25,8 +26,7 @@ Symphony No. 5 in C Min              Ludwig van Beetho
 Sonata No. 14 "Moonligh              Ludwig van Beetho
 Requiem in D Minor, K.                Wolfgang Amadeus
 因為你 所以我                                   Mayday
-離開你以後 - 電影《你的婚                    Eric Chou
-You Go To My Head                      Tim Franks Trio
+勇气                                              棉子
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ You Go To My Head                      Tim Franks Trio
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    45 commits  ████████▍░░░░░░░░░░░░  40.2%
+🌞 Morning    44 commits  ████████▎░░░░░░░░░░░░  39.3%
 🌆 Daytime     3 commits  ▌░░░░░░░░░░░░░░░░░░░░   2.7%
-🌃 Evening    64 commits  ████████████░░░░░░░░░  57.1%
+🌃 Evening    65 commits  ████████████▏░░░░░░░░  58.0%
 🌙 Night       0 commits  ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
