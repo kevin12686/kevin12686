@@ -26,7 +26,7 @@ Symphony No. 5 in C Min              Ludwig van Beetho
 Sonata No. 14 "Moonligh              Ludwig van Beetho
 Requiem in D Minor, K.                Wolfgang Amadeus
 因為你 所以我                                   Mayday
-勇气                                              棉子
+你不屬於我 - 《比悲傷更悲                    Eric Chou
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ Requiem in D Minor, K.                Wolfgang Amadeus
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    44 commits  ████████▎░░░░░░░░░░░░  39.3%
+🌞 Morning    45 commits  ████████▍░░░░░░░░░░░░  40.2%
 🌆 Daytime     3 commits  ▌░░░░░░░░░░░░░░░░░░░░   2.7%
-🌃 Evening    65 commits  ████████████▏░░░░░░░░  58.0%
+🌃 Evening    64 commits  ████████████░░░░░░░░░  57.1%
 🌙 Night       0 commits  ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
