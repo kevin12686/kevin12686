@@ -17,6 +17,7 @@
 <!-- spotify start -->
 
 ```text
+零度的親吻                                      JJ Lin
 貝多芬 給愛麗絲                      Ludwig van Beetho
 裹著心的光                                      JJ Lin
 李斯特 鐘                           Franz Liszt & 睡眠
@@ -26,7 +27,6 @@ Symphony No. 5 in C Min              Ludwig van Beetho
 Sonata No. 14 "Moonligh              Ludwig van Beetho
 Requiem in D Minor, K.                Wolfgang Amadeus
 因為你 所以我                                   Mayday
-你不屬於我 - 《比悲傷更悲                    Eric Chou
 ```
 
 <!-- spotify end -->
