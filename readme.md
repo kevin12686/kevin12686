@@ -20,13 +20,13 @@
 零度的親吻                                      JJ Lin
 裹著心的光                                      JJ Lin
 貝多芬 給愛麗絲                      Ludwig van Beetho
+She’s Nothing                        Zara Leola & Eka
 oh my my                           JOYCE 就以斯 & adwa
 李斯特 鐘                           Franz Liszt & 睡眠
+vampire                                 Olivia Rodrigo
+最後一堂課 - 《媽,別鬧了!                    Eric Chou
+What Was I Made For? [F                  Billie Eilish
 Piano Sonata No. 16 in                Wolfgang Amadeus
-貝多芬 命運交響曲                    Ludwig van Beetho
-Symphony No. 5 in C Min              Ludwig van Beetho
-Sonata No. 14 "Moonligh              Ludwig van Beetho
-Requiem in D Minor, K.                Wolfgang Amadeus
 ```
 
 <!-- spotify end -->
