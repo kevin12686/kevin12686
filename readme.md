@@ -24,9 +24,9 @@ She’s Nothing                        Zara Leola & Eka
 oh my my                           JOYCE 就以斯 & adwa
 李斯特 鐘                           Franz Liszt & 睡眠
 vampire                                 Olivia Rodrigo
-最後一堂課 - 《媽,別鬧了!                    Eric Chou
 What Was I Made For? [F                  Billie Eilish
-Piano Sonata No. 16 in                Wolfgang Amadeus
+样 Young                                        TFBOYS
+最後一堂課 - 《媽,別鬧了!                    Eric Chou
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ Piano Sonata No. 16 in                Wolfgang Amadeus
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    48 commits  ████████▊░░░░░░░░░░░░  42.1%
+🌞 Morning    47 commits  ████████▋░░░░░░░░░░░░  41.2%
 🌆 Daytime     3 commits  ▌░░░░░░░░░░░░░░░░░░░░   2.6%
-🌃 Evening    63 commits  ███████████▌░░░░░░░░░  55.3%
+🌃 Evening    64 commits  ███████████▊░░░░░░░░░  56.1%
 🌙 Night       0 commits  ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
