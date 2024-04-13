@@ -23,8 +23,8 @@
 She’s Nothing                        Zara Leola & Eka
 oh my my                           JOYCE 就以斯 & adwa
 李斯特 鐘                           Franz Liszt & 睡眠
-vampire                                 Olivia Rodrigo
 What Was I Made For? [F                  Billie Eilish
+vampire                                 Olivia Rodrigo
 样 Young                                        TFBOYS
 最後一堂課 - 《媽,別鬧了!                    Eric Chou
 ```
@@ -36,9 +36,9 @@ What Was I Made For? [F                  Billie Eilish
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    47 commits  ████████▍░░░░░░░░░░░░  40.2%
-🌆 Daytime     6 commits  █░░░░░░░░░░░░░░░░░░░░   5.1%
-🌃 Evening    64 commits  ███████████▍░░░░░░░░░  54.7%
+🌞 Morning    47 commits  ████████▎░░░░░░░░░░░░  39.5%
+🌆 Daytime     6 commits  █░░░░░░░░░░░░░░░░░░░░   5.0%
+🌃 Evening    66 commits  ███████████▋░░░░░░░░░  55.5%
 🌙 Night       0 commits  ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
