@@ -17,16 +17,16 @@
 <!-- spotify start -->
 
 ```text
-零度的親吻                                      JJ Lin
 裹著心的光                                      JJ Lin
+零度的親吻                                      JJ Lin
 貝多芬 給愛麗絲                      Ludwig van Beetho
 She’s Nothing                        Zara Leola & Eka
+希望你被这个世界爱着                            吕口口
 oh my my                           JOYCE 就以斯 & adwa
 李斯特 鐘                           Franz Liszt & 睡眠
 What Was I Made For? [F                  Billie Eilish
 vampire                                 Olivia Rodrigo
 样 Young                                        TFBOYS
-最後一堂課 - 《媽,別鬧了!                    Eric Chou
 ```
 
 <!-- spotify end -->
