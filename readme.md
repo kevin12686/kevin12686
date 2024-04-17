@@ -20,13 +20,13 @@
 零度的親吻                                      JJ Lin
 裹著心的光                                      JJ Lin
 貝多芬 給愛麗絲                      Ludwig van Beetho
+vampire                                 Olivia Rodrigo
 She’s Nothing                        Zara Leola & Eka
 希望你被这个世界爱着                            吕口口
+Start It Off                         Cafe Music BGM ch
 oh my my                           JOYCE 就以斯 & adwa
 What Was I Made For? [F                  Billie Eilish
-vampire                                 Olivia Rodrigo
 我想要佔據你                                    告五人
-TRUE                                             YOARI
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ TRUE                                             YOARI
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    50 commits  ████████▊░░░░░░░░░░░░  42.0%
+🌞 Morning    49 commits  ████████▋░░░░░░░░░░░░  41.2%
 🌆 Daytime     6 commits  █░░░░░░░░░░░░░░░░░░░░   5.0%
-🌃 Evening    63 commits  ███████████░░░░░░░░░░  52.9%
+🌃 Evening    64 commits  ███████████▎░░░░░░░░░  53.8%
 🌙 Night       0 commits  ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
