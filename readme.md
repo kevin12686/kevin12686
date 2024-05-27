@@ -18,13 +18,13 @@
 
 ```text
 離開的一路上                                  理想混蛋
-路過人間 (電視劇《我們與                       Yisa Yu
-冬眠                                              司南
 我想要佔據你                                    告五人
 零度的親吻                                      JJ Lin
 裹著心的光                                      JJ Lin
 我喜歡你                             芒果醬 Mango Jump
+路過人間 (電視劇《我們與                       Yisa Yu
 希望你被这个世界爱着                            吕口口
+冬眠                                              司南
 The Feels                                        TWICE
 都是weather你                      JOYCE 就以斯 & 楊子
 ```
@@ -36,9 +36,9 @@ The Feels                                        TWICE
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    49 commits  ████████▌░░░░░░░░░░░░  40.8%
+🌞 Morning    50 commits  ████████▊░░░░░░░░░░░░  41.7%
 🌆 Daytime     6 commits  █░░░░░░░░░░░░░░░░░░░░   5.0%
-🌃 Evening    65 commits  ███████████▍░░░░░░░░░  54.2%
+🌃 Evening    64 commits  ███████████▏░░░░░░░░░  53.3%
 🌙 Night       0 commits  ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
