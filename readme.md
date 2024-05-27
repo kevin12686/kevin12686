@@ -18,15 +18,15 @@
 
 ```text
 離開的一路上                                  理想混蛋
+我喜歡你                             芒果醬 Mango Jump
 我想要佔據你                                    告五人
 零度的親吻                                      JJ Lin
 裹著心的光                                      JJ Lin
-我喜歡你                             芒果醬 Mango Jump
-路過人間 (電視劇《我們與                       Yisa Yu
 希望你被这个世界爱着                            吕口口
-冬眠                                              司南
-The Feels                                        TWICE
+路過人間 (電視劇《我們與                       Yisa Yu
 都是weather你                      JOYCE 就以斯 & 楊子
+戀人                                      Amazing Show
+冬眠                                              司南
 ```
 
 <!-- spotify end -->
