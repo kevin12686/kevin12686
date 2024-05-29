@@ -17,16 +17,16 @@
 <!-- spotify start -->
 
 ```text
-我喜歡你                             芒果醬 Mango Jump
 離開的一路上                                  理想混蛋
-我想要佔據你                                    告五人
-裹著心的光                                      JJ Lin
-希望你被这个世界爱着                            吕口口
-戀人                                      Amazing Show
+我喜歡你                             芒果醬 Mango Jump
 冬眠                                              司南
-零度的親吻                                      JJ Lin
-TRUE                                             YOARI
-The Feels                                        TWICE
+我想要佔據你                                    告五人
+你是我這輩子最想愛的呀             五堅情WOLF(S) (邱鋒
+裹著心的光                                      JJ Lin
+vampire                                 Olivia Rodrigo
+希望你被这个世界爱着                            吕口口
+很遠的遠方                                    理想混蛋
+戀人                                      Amazing Show
 ```
 
 <!-- spotify end -->
