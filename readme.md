@@ -20,13 +20,13 @@
 離開的一路上                                  理想混蛋
 我喜歡你                             芒果醬 Mango Jump
 我想要佔據你                                    告五人
-裹著心的光                                      JJ Lin
-希望你被这个世界爱着                            吕口口
 很遠的遠方                                    理想混蛋
 戀人                                      Amazing Show
 冬眠                                              司南
 TRUE                                             YOARI
 The Feels                                        TWICE
+你是我這輩子最想愛的呀             五堅情WOLF(S) (邱鋒
+oh my my                           JOYCE 就以斯 & adwa
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ The Feels                                        TWICE
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    49 commits  ████████▌░░░░░░░░░░░░  40.8%
+🌞 Morning    50 commits  ████████▊░░░░░░░░░░░░  41.7%
 🌆 Daytime     6 commits  █░░░░░░░░░░░░░░░░░░░░   5.0%
-🌃 Evening    65 commits  ███████████▍░░░░░░░░░  54.2%
+🌃 Evening    64 commits  ███████████▏░░░░░░░░░  53.3%
 🌙 Night       0 commits  ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
