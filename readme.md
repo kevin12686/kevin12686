@@ -23,9 +23,9 @@
 TRUE                                             YOARI
 裹著心的光                                      JJ Lin
 希望你被这个世界爱着                            吕口口
+我想要佔據你                                    告五人
 不喜歡沒有你的地方                           Eric Chou
 名字                                        Ronghao Li
-我想要佔據你                                    告五人
 路過人間 (電視劇《我們與                       Yisa Yu
 ```
 
@@ -36,9 +36,9 @@ TRUE                                             YOARI
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    50 commits  ████████▊░░░░░░░░░░░░  41.7%
+🌞 Morning    49 commits  ████████▌░░░░░░░░░░░░  40.8%
 🌆 Daytime     6 commits  █░░░░░░░░░░░░░░░░░░░░   5.0%
-🌃 Evening    64 commits  ███████████▏░░░░░░░░░  53.3%
+🌃 Evening    65 commits  ███████████▍░░░░░░░░░  54.2%
 🌙 Night       0 commits  ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
