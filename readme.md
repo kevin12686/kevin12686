@@ -19,14 +19,14 @@
 ```text
 離開的一路上                                  理想混蛋
 我喜歡你                             芒果醬 Mango Jump
-我想要佔據你                                    告五人
 很遠的遠方                                    理想混蛋
-戀人                                      Amazing Show
-冬眠                                              司南
 TRUE                                             YOARI
-The Feels                                        TWICE
-你是我這輩子最想愛的呀             五堅情WOLF(S) (邱鋒
-oh my my                           JOYCE 就以斯 & adwa
+裹著心的光                                      JJ Lin
+希望你被这个世界爱着                            吕口口
+不喜歡沒有你的地方                           Eric Chou
+名字                                        Ronghao Li
+我想要佔據你                                    告五人
+路過人間 (電視劇《我們與                       Yisa Yu
 ```
 
 <!-- spotify end -->
