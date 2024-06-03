@@ -19,14 +19,14 @@
 ```text
 離開的一路上                                  理想混蛋
 很遠的遠方                                    理想混蛋
-TRUE                                             YOARI
 我喜歡你                             芒果醬 Mango Jump
 不喜歡沒有你的地方                           Eric Chou
-名字                                        Ronghao Li
 路過人間 (電視劇《我們與                       Yisa Yu
 各自的模樣                                    理想混蛋
 零度的親吻                                      JJ Lin
-The Feels                                        TWICE
+TRUE                                             YOARI
+名字                                        Ronghao Li
+希望你被这个世界爱着                            吕口口
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ The Feels                                        TWICE
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    49 commits  ████████▌░░░░░░░░░░░░  40.8%
+🌞 Morning    50 commits  ████████▊░░░░░░░░░░░░  41.7%
 🌆 Daytime     6 commits  █░░░░░░░░░░░░░░░░░░░░   5.0%
-🌃 Evening    65 commits  ███████████▍░░░░░░░░░  54.2%
+🌃 Evening    64 commits  ███████████▏░░░░░░░░░  53.3%
 🌙 Night       0 commits  ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
