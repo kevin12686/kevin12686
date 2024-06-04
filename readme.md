@@ -19,14 +19,14 @@
 ```text
 離開的一路上                                  理想混蛋
 很遠的遠方                                    理想混蛋
-我喜歡你                             芒果醬 Mango Jump
-不喜歡沒有你的地方                           Eric Chou
-路過人間 (電視劇《我們與                       Yisa Yu
 各自的模樣                                    理想混蛋
+不喜歡沒有你的地方                           Eric Chou
+別走太遠                                      理想混蛋
+可惜你不在                                 Princess Ai
+冬眠                                              司南
+vampire                                 Olivia Rodrigo
 零度的親吻                                      JJ Lin
 TRUE                                             YOARI
-名字                                        Ronghao Li
-希望你被这个世界爱着                            吕口口
 ```
 
 <!-- spotify end -->
