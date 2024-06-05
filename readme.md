@@ -23,10 +23,10 @@
 不喜歡沒有你的地方                           Eric Chou
 別走太遠                                      理想混蛋
 可惜你不在                                 Princess Ai
-冬眠                                              司南
-vampire                                 Olivia Rodrigo
 零度的親吻                                      JJ Lin
 TRUE                                             YOARI
+名字                                        Ronghao Li
+小手拉大手                                  Fish Leong
 ```
 
 <!-- spotify end -->
