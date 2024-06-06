@@ -19,14 +19,14 @@
 ```text
 離開的一路上                                  理想混蛋
 很遠的遠方                                    理想混蛋
-各自的模樣                                    理想混蛋
 不喜歡沒有你的地方                           Eric Chou
-別走太遠                                      理想混蛋
-零度的親吻                                      JJ Lin
-TRUE                                             YOARI
+各自的模樣                                    理想混蛋
 名字                                        Ronghao Li
-小手拉大手                                  Fish Leong
-愛的主旋律                         卓文萱 & Alien Huan
+都是weather你                      JOYCE 就以斯 & 楊子
+友谊长存                                      Firdhaus
+在加納共和國離婚                    Firdhaus & DIOR 大
+路過人間 (電視劇《我們與                       Yisa Yu
+長途夜車                                      Fire EX.
 ```
 
 <!-- spotify end -->
