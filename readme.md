@@ -22,11 +22,11 @@
 各自的模樣                                    理想混蛋
 不喜歡沒有你的地方                           Eric Chou
 別走太遠                                      理想混蛋
-可惜你不在                                 Princess Ai
 零度的親吻                                      JJ Lin
 TRUE                                             YOARI
 名字                                        Ronghao Li
 小手拉大手                                  Fish Leong
+愛的主旋律                         卓文萱 & Alien Huan
 ```
 
 <!-- spotify end -->
