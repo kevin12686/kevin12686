@@ -19,14 +19,14 @@
 ```text
 離開的一路上                                  理想混蛋
 很遠的遠方                                    理想混蛋
-不喜歡沒有你的地方                           Eric Chou
-各自的模樣                                    理想混蛋
-名字                                        Ronghao Li
-都是weather你                      JOYCE 就以斯 & 楊子
 友谊长存                                      Firdhaus
-在加納共和國離婚                    Firdhaus & DIOR 大
+零度的親吻                                      JJ Lin
+都是weather你                      JOYCE 就以斯 & 楊子
+不喜歡沒有你的地方                           Eric Chou
 路過人間 (電視劇《我們與                       Yisa Yu
 長途夜車                                      Fire EX.
+在加納共和國離婚                    Firdhaus & DIOR 大
+各自的模樣                                    理想混蛋
 ```
 
 <!-- spotify end -->
