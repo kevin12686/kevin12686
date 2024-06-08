@@ -18,15 +18,15 @@
 
 ```text
 很遠的遠方                                    理想混蛋
+零度的親吻                                      JJ Lin
 離開的一路上                                  理想混蛋
 友谊长存                                      Firdhaus
-零度的親吻                                      JJ Lin
-都是weather你                      JOYCE 就以斯 & 楊子
-路過人間 (電視劇《我們與                       Yisa Yu
-長途夜車                                      Fire EX.
-在加納共和國離婚                    Firdhaus & DIOR 大
-各自的模樣                                    理想混蛋
 TRUE                                             YOARI
+名字                                        Ronghao Li
+我喜歡你                             芒果醬 Mango Jump
+都是weather你                      JOYCE 就以斯 & 楊子
+希望你被这个世界爱着                            吕口口
+不喜歡沒有你的地方                           Eric Chou
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ TRUE                                             YOARI
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    50 commits  ████████▋░░░░░░░░░░░░  41.3%
+🌞 Morning    49 commits  ████████▌░░░░░░░░░░░░  40.5%
 🌆 Daytime     6 commits  █░░░░░░░░░░░░░░░░░░░░   5.0%
-🌃 Evening    65 commits  ███████████▎░░░░░░░░░  53.7%
+🌃 Evening    66 commits  ███████████▍░░░░░░░░░  54.5%
 🌙 Night       0 commits  ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
