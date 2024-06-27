@@ -18,15 +18,15 @@
 
 ```text
 友谊长存                                      Firdhaus
-零度的親吻                                      JJ Lin
-希望你被这个世界爱着                            吕口口
 很遠的遠方                                    理想混蛋
-名字                                        Ronghao Li
-一生所愛                                     Lowell Lo
+零度的親吻                                      JJ Lin
 在加納共和國離婚                    Firdhaus & DIOR 大
+希望你被这个世界爱着                            吕口口
+長途夜車                                      Fire EX.
+名字                                        Ronghao Li
+Easy Peasy                                    理想混蛋
+一生所愛                                     Lowell Lo
 我想要佔據你                                    告五人
-離開的一路上                                  理想混蛋
-都是weather你                      JOYCE 就以斯 & 楊子
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    49 commits  ████████▌░░░░░░░░░░░░  40.5%
+🌞 Morning    48 commits  ████████▎░░░░░░░░░░░░  39.7%
 🌆 Daytime     6 commits  █░░░░░░░░░░░░░░░░░░░░   5.0%
-🌃 Evening    66 commits  ███████████▍░░░░░░░░░  54.5%
+🌃 Evening    67 commits  ███████████▋░░░░░░░░░  55.4%
 🌙 Night       0 commits  ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
