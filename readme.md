@@ -26,7 +26,7 @@ Say Yes                                   Loco & Punch
 Easy Peasy                                    理想混蛋
 最后一页 - Live                        王赫野 & 姚晓棠
 裹著心的光                                      JJ Lin
-This Love                                      DAVICHI
+離開的一路上                                  理想混蛋
 ```
 
 <!-- spotify end -->
