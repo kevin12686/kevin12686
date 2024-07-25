@@ -19,14 +19,14 @@
 ```text
 最后一页                               王赫野 & 姚晓棠
 一路生花                                        温奕心
-不喜歡沒有你的地方                           Eric Chou
-路過人間 (電視劇《我們與                       Yisa Yu
 最后一页 - Live                        王赫野 & 姚晓棠
-裹著心的光                                      JJ Lin
-離開的一路上                                  理想混蛋
-都是weather你                      JOYCE 就以斯 & 楊子
+不喜歡沒有你的地方                           Eric Chou
 Say Yes                                   Loco & Punch
-零度的親吻                                      JJ Lin
+Easy Peasy                                    理想混蛋
+Mojito                                        Jay Chou
+青春修炼手册                                    TFBOYS
+You were.                               Sabrina 胡恂舞
+裹著心的光                                      JJ Lin
 ```
 
 <!-- spotify end -->
