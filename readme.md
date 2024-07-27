@@ -26,7 +26,7 @@ Say Yes                                   Loco & Punch
 Easy Peasy                                    理想混蛋
 Mojito                                        Jay Chou
 青春修炼手册                                    TFBOYS
-裹著心的光                                      JJ Lin
+離開的一路上                                  理想混蛋
 ```
 
 <!-- spotify end -->
