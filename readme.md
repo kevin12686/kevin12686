@@ -21,12 +21,12 @@
 最后一页                               王赫野 & 姚晓棠
 最后一页 - Live                        王赫野 & 姚晓棠
 You were.                               Sabrina 胡恂舞
-不喜歡沒有你的地方                           Eric Chou
-Easy Peasy                                    理想混蛋
 青春修炼手册                                    TFBOYS
-離開的一路上                                  理想混蛋
 裹著心的光                                      JJ Lin
-都是weather你                      JOYCE 就以斯 & 楊子
+不喜歡沒有你的地方                           Eric Chou
+我們的時光                                      TFBOYS
+样 Young                                        TFBOYS
+是你                                            TFBOYS
 ```
 
 <!-- spotify end -->
