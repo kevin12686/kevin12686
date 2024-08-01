@@ -26,7 +26,7 @@ Aloha                                    CHO JUNG SEOK
 Say Yes                                   Loco & Punch
 父亲                                          筷子兄弟
 This Love                                      DAVICHI
-青春修炼手册                                    TFBOYS
+在加納共和國離婚                    Firdhaus & DIOR 大
 ```
 
 <!-- spotify end -->
