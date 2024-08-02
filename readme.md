@@ -21,12 +21,12 @@
 最后一页 - Live                        王赫野 & 姚晓棠
 You were.                               Sabrina 胡恂舞
 最后一页                               王赫野 & 姚晓棠
+爸爸媽媽                                    Ronghao Li
 Say Yes                                   Loco & Punch
 Aloha                                    CHO JUNG SEOK
 小時候（蘇打綠版）                           sodagreen
 友谊长存                                      Firdhaus
 This Love                                      DAVICHI
-在加納共和國離婚                    Firdhaus & DIOR 大
 ```
 
 <!-- spotify end -->
