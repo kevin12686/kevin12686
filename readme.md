@@ -19,14 +19,14 @@
 ```text
 最后一页 - Live                        王赫野 & 姚晓棠
 堆積情感                                      Leon Lai
-一路生花                                        温奕心
 我是不是你最疼愛的人                            潘越雲
+一路生花                                        温奕心
 父亲                                          筷子兄弟
-小時候（蘇打綠版）                           sodagreen
 爸爸媽媽                                    Ronghao Li
 分分鐘需要你                                 Sandy Lam
 雨 (電視劇《以家人之名》                        沈以誠
-You were.                               Sabrina 胡恂舞
+掉了                                       A-Mei Chang
+小時候（蘇打綠版）                           sodagreen
 ```
 
 <!-- spotify end -->
