@@ -17,16 +17,16 @@
 <!-- spotify start -->
 
 ```text
-堆積情感                                      Leon Lai
-分分鐘需要你                                 Sandy Lam
 有些話要用英文說                                Kiri T
+分分鐘需要你                                 Sandy Lam
+堆積情感                                      Leon Lai
 一路生花                                        温奕心
-我是不是你最疼愛的人                            潘越雲
-最后一页 - Live                        王赫野 & 姚晓棠
 Easy Peasy                                    理想混蛋
 長途夜車                                      Fire EX.
-爸爸媽媽                                    Ronghao Li
-雨 (電視劇《以家人之名》                        沈以誠
+最后一页 - Live                        王赫野 & 姚晓棠
+This Love                                      DAVICHI
+我是不是你最疼愛的人                            潘越雲
+最后一页 - Live                        王赫野 & 姚晓棠
 ```
 
 <!-- spotify end -->
