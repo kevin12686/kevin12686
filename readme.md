@@ -17,6 +17,8 @@
 <!-- spotify start -->
 
 ```text
+来迟                                            戴羽彤
+来迟 - 和声伴奏版                               戴羽彤
 有些話要用英文說                                Kiri T
 最后一页 - Live                        王赫野 & 姚晓棠
 堆積情感                                      Leon Lai
@@ -25,8 +27,6 @@
 我是不是你最疼愛的人                            潘越雲
 這麼多年 - 電影《我想和你                         陳華
 雨 (電視劇《以家人之名》                        沈以誠
-名字                                        Ronghao Li
-捨不得的時刻                                      陳華
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    56 commits  █████████▎░░░░░░░░░░░  44.1%
+🌞 Morning    55 commits  █████████░░░░░░░░░░░░  43.3%
 🌆 Daytime     7 commits  █▏░░░░░░░░░░░░░░░░░░░   5.5%
-🌃 Evening    63 commits  ██████████▍░░░░░░░░░░  49.6%
+🌃 Evening    64 commits  ██████████▌░░░░░░░░░░  50.4%
 🌙 Night       1 commits  ▏░░░░░░░░░░░░░░░░░░░░   0.8%
 ```
 
