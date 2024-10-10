@@ -20,13 +20,13 @@
 来迟                                            戴羽彤
 来迟 - 和声伴奏版                               戴羽彤
 有些話要用英文說                                Kiri T
-堆積情感                                      Leon Lai
 最后一页 - Live                        王赫野 & 姚晓棠
-分分鐘需要你                                 Sandy Lam
 這麼多年 - 電影《我想和你                         陳華
+分分鐘需要你                                 Sandy Lam
 捨不得的時刻                                      陳華
-我是不是你最疼愛的人                            潘越雲
 我們回不去了                                      陳華
+致遠道而來的我們 (feat.陳                 Della & 陳華
+一路生花                                        温奕心
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    56 commits  █████████▎░░░░░░░░░░░  44.1%
+🌞 Morning    55 commits  █████████░░░░░░░░░░░░  43.3%
 🌆 Daytime     7 commits  █▏░░░░░░░░░░░░░░░░░░░   5.5%
-🌃 Evening    63 commits  ██████████▍░░░░░░░░░░  49.6%
+🌃 Evening    64 commits  ██████████▌░░░░░░░░░░  50.4%
 🌙 Night       1 commits  ▏░░░░░░░░░░░░░░░░░░░░   0.8%
 ```
 
