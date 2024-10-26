@@ -24,9 +24,9 @@ Perfect                                     Ed Sheeran
 Shivers                                     Ed Sheeran
 Shape of You                                Ed Sheeran
 Eyes Closed                                 Ed Sheeran
+Visiting Hours                              Ed Sheeran
 The Hills of Aberfeldy                      Ed Sheeran
 I Don't Care (with Just              Ed Sheeran & Just
-Curtains                                    Ed Sheeran
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ Curtains                                    Ed Sheeran
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    55 commits  █████████░░░░░░░░░░░░  43.3%
+🌞 Morning    56 commits  █████████▎░░░░░░░░░░░  44.1%
 🌆 Daytime     7 commits  █▏░░░░░░░░░░░░░░░░░░░   5.5%
-🌃 Evening    64 commits  ██████████▌░░░░░░░░░░  50.4%
+🌃 Evening    63 commits  ██████████▍░░░░░░░░░░  49.6%
 🌙 Night       1 commits  ▏░░░░░░░░░░░░░░░░░░░░   0.8%
 ```
 
