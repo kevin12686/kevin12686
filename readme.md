@@ -18,15 +18,15 @@
 
 ```text
 Photograph                                  Ed Sheeran
-Perfect                                     Ed Sheeran
 Eyes Closed                                 Ed Sheeran
 Celestial                                   Ed Sheeran
-Shivers                                     Ed Sheeran
-Shape of You                                Ed Sheeran
+Perfect                                     Ed Sheeran
 Afterglow                                   Ed Sheeran
 Visiting Hours                              Ed Sheeran
 The Hills of Aberfeldy                      Ed Sheeran
 I Don't Care (with Just              Ed Sheeran & Just
+Beautiful People (feat.            Ed Sheeran & Khalid
+Curtains                                    Ed Sheeran
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ I Don't Care (with Just              Ed Sheeran & Just
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    56 commits  █████████▎░░░░░░░░░░░  44.1%
+🌞 Morning    55 commits  █████████░░░░░░░░░░░░  43.3%
 🌆 Daytime     7 commits  █▏░░░░░░░░░░░░░░░░░░░   5.5%
-🌃 Evening    63 commits  ██████████▍░░░░░░░░░░  49.6%
+🌃 Evening    64 commits  ██████████▌░░░░░░░░░░  50.4%
 🌙 Night       1 commits  ▏░░░░░░░░░░░░░░░░░░░░   0.8%
 ```
 
