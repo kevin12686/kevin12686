@@ -17,16 +17,16 @@
 <!-- spotify start -->
 
 ```text
-Photograph                                  Ed Sheeran
-Eyes Closed                                 Ed Sheeran
 Celestial                                   Ed Sheeran
+Photograph                                  Ed Sheeran
 Perfect                                     Ed Sheeran
+Eyes Closed                                 Ed Sheeran
 Afterglow                                   Ed Sheeran
 Visiting Hours                              Ed Sheeran
 The Hills of Aberfeldy                      Ed Sheeran
 I Don't Care (with Just              Ed Sheeran & Just
 Beautiful People (feat.            Ed Sheeran & Khalid
-Curtains                                    Ed Sheeran
+American Town                               Ed Sheeran
 ```
 
 <!-- spotify end -->
