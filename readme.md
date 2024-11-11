@@ -18,15 +18,15 @@
 
 ```text
 Celestial                                   Ed Sheeran
-Eyes Closed                                 Ed Sheeran
 Afterglow                                   Ed Sheeran
 Visiting Hours                              Ed Sheeran
-The Hills of Aberfeldy                      Ed Sheeran
+Perfect                                  One Direction
 Beautiful People (feat.            Ed Sheeran & Khalid
 Perfect                                     Ed Sheeran
+Eyes Closed                                 Ed Sheeran
 End Of Youth                                Ed Sheeran
 Don't                                       Ed Sheeran
-I Don't Care (with Just              Ed Sheeran & Just
+Blue                                        Ed Sheeran
 ```
 
 <!-- spotify end -->
