@@ -18,15 +18,15 @@
 
 ```text
 Celestial                                   Ed Sheeran
+Night Changes                            One Direction
 Afterglow                                   Ed Sheeran
 Visiting Hours                              Ed Sheeran
 Perfect                                  One Direction
 Beautiful People (feat.            Ed Sheeran & Khalid
 Perfect                                     Ed Sheeran
 Eyes Closed                                 Ed Sheeran
-End Of Youth                                Ed Sheeran
-Don't                                       Ed Sheeran
-Blue                                        Ed Sheeran
+Overpass Graffiti                           Ed Sheeran
+American Town                               Ed Sheeran
 ```
 
 <!-- spotify end -->
