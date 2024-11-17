@@ -24,9 +24,9 @@ Steal My Girl                            One Direction
 Drag Me Down                             One Direction
 You & I                                  One Direction
 Never Enough                             One Direction
-Story of My Life                         One Direction
 Afterglow                                   Ed Sheeran
 Visiting Hours                              Ed Sheeran
+Beautiful People (feat.            Ed Sheeran & Khalid
 ```
 
 <!-- spotify end -->
