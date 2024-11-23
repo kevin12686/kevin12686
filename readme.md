@@ -19,14 +19,14 @@
 ```text
 Perfect                                  One Direction
 Night Changes                            One Direction
-Celestial                                   Ed Sheeran
 Steal My Girl                            One Direction
 Drag Me Down                             One Direction
 You & I                                  One Direction
 Never Enough                             One Direction
-擱淺                                          Jay Chou
-Afterglow                                   Ed Sheeran
+SOS - ENG Version                          FIFTY FIFTY
+Cupid (Twin Ver.) - Liv                    FIFTY FIFTY
 說好不哭                              Jay Chou & Ashin
+Story of My Life                         One Direction
 ```
 
 <!-- spotify end -->
