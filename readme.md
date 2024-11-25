@@ -17,6 +17,7 @@
 <!-- spotify start -->
 
 ```text
+Tifa's Theme                         Nobuo Uematsu & P
 Perfect                                  One Direction
 Night Changes                            One Direction
 Steal My Girl                            One Direction
@@ -25,8 +26,7 @@ You & I                                  One Direction
 Never Enough                             One Direction
 SOS - ENG Version                          FIFTY FIFTY
 Cupid (Twin Ver.) - Liv                    FIFTY FIFTY
-說好不哭                              Jay Chou & Ashin
-Story of My Life                         One Direction
+APT.                                 ROSÉ & Bruno Mars
 ```
 
 <!-- spotify end -->
