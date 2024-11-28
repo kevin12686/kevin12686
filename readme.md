@@ -25,8 +25,8 @@ Drag Me Down                             One Direction
 You & I                                  One Direction
 Never Enough                             One Direction
 SOS - ENG Version                          FIFTY FIFTY
-Cupid (Twin Ver.) - Liv                    FIFTY FIFTY
 APT.                                 ROSÉ & Bruno Mars
+Cupid (Twin Ver.) - Liv                    FIFTY FIFTY
 ```
 
 <!-- spotify end -->
