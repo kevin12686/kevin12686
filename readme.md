@@ -19,14 +19,14 @@
 ```text
 Tifa's Theme                         Nobuo Uematsu & P
 Perfect                                  One Direction
-Night Changes                            One Direction
-Steal My Girl                            One Direction
-Drag Me Down                             One Direction
 You & I                                  One Direction
 Never Enough                             One Direction
 SOS - ENG Version                          FIFTY FIFTY
 有天會再相見                                 DIOR 大穎
 APT.                                 ROSÉ & Bruno Mars
+Cupid (Twin Ver.) - Liv                    FIFTY FIFTY
+說好不哭                              Jay Chou & Ashin
+我想要佔據你                                    告五人
 ```
 
 <!-- spotify end -->
