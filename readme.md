@@ -19,14 +19,14 @@
 ```text
 Tifa's Theme                         Nobuo Uematsu & P
 Perfect                                  One Direction
-Never Enough                             One Direction
 SOS - ENG Version                          FIFTY FIFTY
+Say Yes                                   Loco & Punch
 有天會再相見                                 DIOR 大穎
 Cupid (Twin Ver.) - Liv                    FIFTY FIFTY
 APT.                                 ROSÉ & Bruno Mars
-Say Yes                                   Loco & Punch
 說好不哭                              Jay Chou & Ashin
 我想要佔據你                                    告五人
+一路生花                                        温奕心
 ```
 
 <!-- spotify end -->
