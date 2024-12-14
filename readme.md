@@ -19,8 +19,8 @@
 ```text
 Tifa's Theme                         Nobuo Uematsu & P
 SOS - ENG Version                          FIFTY FIFTY
-有天會再相見                                 DIOR 大穎
 Say Yes                                   Loco & Punch
+有天會再相見                                 DIOR 大穎
 Cupid (Twin Ver.) - Liv                    FIFTY FIFTY
 APT.                                 ROSÉ & Bruno Mars
 說好不哭                              Jay Chou & Ashin
