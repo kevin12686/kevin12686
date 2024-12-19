@@ -21,12 +21,12 @@ Tifa's Theme                         Nobuo Uematsu & P
 有天會再相見                                 DIOR 大穎
 Say Yes                                   Loco & Punch
 一路生花                                        温奕心
+路過人間 (電視劇《我們與                       Yisa Yu
 别丢下我不管                                    风小筝
 SOS - ENG Version                          FIFTY FIFTY
 最后一页 - Live                        王赫野 & 姚晓棠
 Aloha                                    CHO JUNG SEOK
 Cupid (Twin Ver.) - Liv                    FIFTY FIFTY
-APT.                                 ROSÉ & Bruno Mars
 ```
 
 <!-- spotify end -->
