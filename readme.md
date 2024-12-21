@@ -26,7 +26,7 @@ Say Yes                                   Loco & Punch
 SOS - ENG Version                          FIFTY FIFTY
 最后一页 - Live                        王赫野 & 姚晓棠
 Aloha                                    CHO JUNG SEOK
-Cupid (Twin Ver.) - Liv                    FIFTY FIFTY
+都是weather你                      JOYCE 就以斯 & 楊子
 ```
 
 <!-- spotify end -->
