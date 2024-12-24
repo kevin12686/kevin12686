@@ -17,16 +17,16 @@
 <!-- spotify start -->
 
 ```text
-Tifa's Theme                         Nobuo Uematsu & P
 有天會再相見                                 DIOR 大穎
-Say Yes                                   Loco & Punch
-一路生花                                        温奕心
-路過人間 (電視劇《我們與                       Yisa Yu
+Who’s Afraid of Little                   Taylor Swift
 别丢下我不管                                    风小筝
-最后一页 - Live                        王赫野 & 姚晓棠
-Aloha                                    CHO JUNG SEOK
-都是weather你                      JOYCE 就以斯 & 楊子
 這麼多年 - 電影《我想和你                         陳華
+最后一页 - Live                        王赫野 & 姚晓棠
+Cruel Summer                              Taylor Swift
+是你給我整片星空                            Ariel Tsai
+我想要佔據你                                    告五人
+雨 (電視劇《以家人之名》                        沈以誠
+路過人間 (電視劇《我們與                       Yisa Yu
 ```
 
 <!-- spotify end -->
