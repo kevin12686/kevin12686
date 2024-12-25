@@ -20,13 +20,13 @@
 有天會再相見                                 DIOR 大穎
 Who’s Afraid of Little                   Taylor Swift
 别丢下我不管                                    风小筝
-這麼多年 - 電影《我想和你                         陳華
-最后一页 - Live                        王赫野 & 姚晓棠
 Cruel Summer                              Taylor Swift
+這麼多年 - 電影《我想和你                         陳華
 是你給我整片星空                            Ariel Tsai
-我想要佔據你                                    告五人
+最后一页 - Live                        王赫野 & 姚晓棠
 雨 (電視劇《以家人之名》                        沈以誠
 路過人間 (電視劇《我們與                       Yisa Yu
+西窗的雨                                        好妹妹
 ```
 
 <!-- spotify end -->
