@@ -18,6 +18,7 @@
 
 ```text
 Aloha                                    CHO JUNG SEOK
+有天會再相見                                 DIOR 大穎
 最后一页 - Live                        王赫野 & 姚晓棠
 别丢下我不管                                    风小筝
 堆積情感                                      Leon Lai
@@ -26,7 +27,6 @@ Aloha                                    CHO JUNG SEOK
 Who’s Afraid of Little                   Taylor Swift
 Cruel Summer                              Taylor Swift
 Say Yes                                   Loco & Punch
-離開的一路上                                  理想混蛋
 ```
 
 <!-- spotify end -->
