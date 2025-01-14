@@ -17,12 +17,12 @@
 <!-- spotify start -->
 
 ```text
-有天會再相見                                 DIOR 大穎
 最后一页 - Live                        王赫野 & 姚晓棠
 堆積情感                                      Leon Lai
 我是不是你最疼愛的人                            潘越雲
 這麼多年 - 電影《我想和你                         陳華
 别丢下我不管                                    风小筝
+有天會再相見                                 DIOR 大穎
 来迟                                            戴羽彤
 分分鐘需要你                                 Sandy Lam
 Aloha                                    CHO JUNG SEOK
@@ -36,9 +36,9 @@ Aloha                                    CHO JUNG SEOK
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    59 commits  █████████▎░░░░░░░░░░░  44.4%
+🌞 Morning    58 commits  █████████▏░░░░░░░░░░░  43.6%
 🌆 Daytime     7 commits  █░░░░░░░░░░░░░░░░░░░░   5.3%
-🌃 Evening    66 commits  ██████████▍░░░░░░░░░░  49.6%
+🌃 Evening    67 commits  ██████████▌░░░░░░░░░░  50.4%
 🌙 Night       1 commits  ▏░░░░░░░░░░░░░░░░░░░░   0.8%
 ```
 
