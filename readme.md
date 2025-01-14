@@ -23,10 +23,10 @@
 我是不是你最疼愛的人                            潘越雲
 這麼多年 - 電影《我想和你                         陳華
 别丢下我不管                                    风小筝
+来迟                                            戴羽彤
 分分鐘需要你                                 Sandy Lam
 Aloha                                    CHO JUNG SEOK
 有些話要用英文說                                Kiri T
-来迟                                            戴羽彤
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ Aloha                                    CHO JUNG SEOK
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    58 commits  █████████▏░░░░░░░░░░░  43.6%
+🌞 Morning    59 commits  █████████▎░░░░░░░░░░░  44.4%
 🌆 Daytime     7 commits  █░░░░░░░░░░░░░░░░░░░░   5.3%
-🌃 Evening    67 commits  ██████████▌░░░░░░░░░░  50.4%
+🌃 Evening    66 commits  ██████████▍░░░░░░░░░░  49.6%
 🌙 Night       1 commits  ▏░░░░░░░░░░░░░░░░░░░░   0.8%
 ```
 
