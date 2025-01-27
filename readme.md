@@ -18,15 +18,15 @@
 
 ```text
 ヘビーローテーション                             AKB48
-最后一页 - Live                        王赫野 & 姚晓棠
-堆積情感                                      Leon Lai
-我是不是你最疼愛的人                            潘越雲
 有天會再相見                                 DIOR 大穎
-這麼多年 - 電影《我想和你                         陳華
+最后一页 - Live                        王赫野 & 姚晓棠
 Aloha                                    CHO JUNG SEOK
+我是不是你最疼愛的人                            潘越雲
 名字                                        Ronghao Li
 来迟                                            戴羽彤
-分分鐘需要你                                 Sandy Lam
+vampire                                 Olivia Rodrigo
+這麼多年 - 電影《我想和你                         陳華
+觸電                                             S.H.E
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ Aloha                                    CHO JUNG SEOK
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    58 commits  █████████▏░░░░░░░░░░░  43.6%
+🌞 Morning    59 commits  █████████▎░░░░░░░░░░░  44.4%
 🌆 Daytime     7 commits  █░░░░░░░░░░░░░░░░░░░░   5.3%
-🌃 Evening    67 commits  ██████████▌░░░░░░░░░░  50.4%
+🌃 Evening    66 commits  ██████████▍░░░░░░░░░░  49.6%
 🌙 Night       1 commits  ▏░░░░░░░░░░░░░░░░░░░░   0.8%
 ```
 
