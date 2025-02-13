@@ -18,15 +18,15 @@
 
 ```text
 ヘビーローテーション                             AKB48
-vampire                                 Olivia Rodrigo
 最后一页 - Live                        王赫野 & 姚晓棠
 分分鐘需要你                                 Sandy Lam
-名字                                        Ronghao Li
 プラネタリウム                               Ai Otsuka
 触电                                             S.H.E
+vampire                                 Olivia Rodrigo
 西窗的雨                                    好妹妹乐队
 ひまわりの約束                           Motohiro Hata
 キセキ                                         GReeeeN
+這條小魚在乎                        王OK & Pei-Yu Hung
 ```
 
 <!-- spotify end -->
