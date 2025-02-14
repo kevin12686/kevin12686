@@ -20,13 +20,13 @@
 ヘビーローテーション                             AKB48
 最后一页 - Live                        王赫野 & 姚晓棠
 分分鐘需要你                                 Sandy Lam
-プラネタリウム                               Ai Otsuka
 触电                                             S.H.E
 vampire                                 Olivia Rodrigo
 西窗的雨                                    好妹妹乐队
+プラネタリウム                               Ai Otsuka
 ひまわりの約束                           Motohiro Hata
-キセキ                                         GReeeeN
 這條小魚在乎                        王OK & Pei-Yu Hung
+我                                       Leslie Cheung
 ```
 
 <!-- spotify end -->
