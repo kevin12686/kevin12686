@@ -18,12 +18,12 @@
 
 ```text
 ヘビーローテーション                             AKB48
-vampire                                 Olivia Rodrigo
 分分鐘需要你                                 Sandy Lam
 ひまわりの約束                           Motohiro Hata
 最后一页 - Live                        王赫野 & 姚晓棠
 我                                       Leslie Cheung
 触电                                             S.H.E
+vampire                                 Olivia Rodrigo
 西窗的雨                                    好妹妹乐队
 キセキ                                         GReeeeN
 每一秒钟                                        颜人中
