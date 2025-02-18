@@ -22,10 +22,10 @@
 ひまわりの約束                           Motohiro Hata
 最后一页 - Live                        王赫野 & 姚晓棠
 我                                       Leslie Cheung
+每一秒钟                                        颜人中
 触电                                             S.H.E
 西窗的雨                                    好妹妹乐队
 キセキ                                         GReeeeN
-每一秒钟                                        颜人中
 三生有幸                                      Yan Ting
 ```
 
