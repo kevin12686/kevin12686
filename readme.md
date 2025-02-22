@@ -18,15 +18,15 @@
 
 ```text
 ヘビーローテーション                             AKB48
-分分鐘需要你                                 Sandy Lam
-ひまわりの約束                           Motohiro Hata
-最后一页 - Live                        王赫野 & 姚晓棠
 我                                       Leslie Cheung
 每一秒钟                                        颜人中
-触电                                             S.H.E
+三生有幸                                      Yan Ting
+分分鐘需要你                                 Sandy Lam
 西窗的雨                                    好妹妹乐队
 キセキ                                         GReeeeN
-三生有幸                                      Yan Ting
+Who                                              Jimin
+プラネタリウム                               Ai Otsuka
+ひまわりの約束                           Motohiro Hata
 ```
 
 <!-- spotify end -->
