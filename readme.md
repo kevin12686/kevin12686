@@ -25,8 +25,8 @@
 西窗的雨                                    好妹妹乐队
 キセキ                                         GReeeeN
 Who                                              Jimin
-プラネタリウム                               Ai Otsuka
-ひまわりの約束                           Motohiro Hata
+愛我還是他                                   David Tao
+有天會再相見                                 DIOR 大穎
 ```
 
 <!-- spotify end -->
