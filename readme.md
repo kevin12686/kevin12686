@@ -18,8 +18,8 @@
 
 ```text
 ヘビーローテーション                             AKB48
-我                                       Leslie Cheung
 每一秒钟                                        颜人中
+我                                       Leslie Cheung
 三生有幸                                      Yan Ting
 分分鐘需要你                                 Sandy Lam
 西窗的雨                                    好妹妹乐队
