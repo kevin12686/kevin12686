@@ -17,16 +17,16 @@
 <!-- spotify start -->
 
 ```text
-ヘビーローテーション                             AKB48
-每一秒钟                                        颜人中
-三生有幸                                      Yan Ting
-分分鐘需要你                                 Sandy Lam
-西窗的雨                                    好妹妹乐队
-Who                                              Jimin
-愛我還是他                                   David Tao
-掉了                                       A-Mei Chang
-最后一页 - Live                        王赫野 & 姚晓棠
-這條小魚在乎                          Wang OK & Pei-Yu
+月半彎                                    Jacky Cheung
+給所有知道我名字的人                        Zhao Chuan
+我愛妳彭拉昆                                Nico & Kim
+傘下 - 電視劇《歡喜來逗陣                   Phil Chang
+兩個人的煙火 - 電影《大城                     Leon Lai
+Left and Right (Feat. J              Charlie Puth & Ju
+愛的表情                              icyball 冰球樂團
+模糊的記憶 (SG:SW 2025 優                       张盈盈
+花海                                          Jay Chou
+Dear Friend                                     Shunza
 ```
 
 <!-- spotify end -->
@@ -36,10 +36,10 @@ Who                                              Jimin
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    55 commits  ████████▌░░░░░░░░░░░░  40.7%
-🌆 Daytime     8 commits  █▏░░░░░░░░░░░░░░░░░░░   5.9%
-🌃 Evening    70 commits  ██████████▉░░░░░░░░░░  51.9%
-🌙 Night       2 commits  ▎░░░░░░░░░░░░░░░░░░░░   1.5%
+🌞 Morning    38 commits  ████░░░░░░░░░░░░░░░░░  19.5%
+🌆 Daytime    58 commits  ██████▏░░░░░░░░░░░░░░  29.7%
+🌃 Evening    70 commits  ███████▌░░░░░░░░░░░░░  35.9%
+🌙 Night      29 commits  ███░░░░░░░░░░░░░░░░░░  14.9%
 ```
 
 <!-- early_bird end -->
