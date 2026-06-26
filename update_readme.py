@@ -36,11 +36,13 @@ if __name__ == "__main__":
     
     early_brid_text = f"\n```text\n{httpx_get(early_brid_url).text}\n```\n"
     readme_contents = replace_chunk(readme_contents, "early_bird", early_brid_text)
-    
+
+    '''
     code_time_text = f"\n```text\n{httpx_get(code_time_url).text}\n```\n"
     readme_contents = replace_chunk(readme_contents, "code_time", code_time_text)
 
     codestats_text = f"\n```text\n{httpx_get(codestats_url).text}\n```\n"
     readme_contents = replace_chunk(readme_contents, "codestats", codestats_text)
+    '''
     
     readme.open("w", encoding="utf8").write(readme_contents)
