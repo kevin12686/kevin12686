@@ -43,27 +43,3 @@ Dear Friend                                     Shunza
 ```
 
 <!-- early_bird end -->
-
-### 📊 Weekly development breakdown
-
-<!-- code_time start -->
-
-```text
-Text       3 mins         █████████████████████ 100.0%
-```
-
-<!-- code_time end -->
-
-### 🧰 My Code::Stats XP (Recent Languages)
-
-<!-- codestats start -->
-
-```text
-Total XP ::::::::::::::::::::: lvl   9 (  132,001 XP) 
-Not been coding recently ::::::::::::::::::::::::::: 🙈
-Probably busy with something else :::::::::::::::::: 🗓
-Or just taking a break ::::::::::::::::::::::::::::: 🌴
-But would be back to it soon! :::::::::::::::::::::: 🤓
-```
-
-<!-- codestats end -->
