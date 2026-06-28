@@ -21,12 +21,12 @@
 給所有知道我名字的人                        Zhao Chuan
 我愛妳彭拉昆                                Nico & Kim
 傘下 - 電視劇《歡喜來逗陣                   Phil Chang
+那就這樣吧                               Power Station
 兩個人的煙火 - 電影《大城                     Leon Lai
 Left and Right (Feat. J              Charlie Puth & Ju
 愛的表情                              icyball 冰球樂團
 模糊的記憶 (SG:SW 2025 優                       张盈盈
 花海                                          Jay Chou
-Dear Friend                                     Shunza
 ```
 
 <!-- spotify end -->
