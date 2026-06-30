@@ -21,12 +21,12 @@
 給所有知道我名字的人                        Zhao Chuan
 我愛妳彭拉昆                                Nico & Kim
 傘下 - 電視劇《歡喜來逗陣                   Phil Chang
+海闊天空                                        信樂團
 那就這樣吧                               Power Station
 兩個人的煙火 - 電影《大城                     Leon Lai
 Left and Right (Feat. J              Charlie Puth & Ju
 愛的表情                              icyball 冰球樂團
 模糊的記憶 (SG:SW 2025 優                       张盈盈
-花海                                          Jay Chou
 ```
 
 <!-- spotify end -->
@@ -36,10 +36,10 @@ Left and Right (Feat. J              Charlie Puth & Ju
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    92 commits  ██████▍░░░░░░░░░░░░░░  30.5%
-🌆 Daytime    58 commits  ████░░░░░░░░░░░░░░░░░  19.2%
-🌃 Evening   122 commits  ████████▍░░░░░░░░░░░░  40.4%
-🌙 Night      30 commits  ██░░░░░░░░░░░░░░░░░░░   9.9%
+🌞 Morning    93 commits  ██████▍░░░░░░░░░░░░░░  30.5%
+🌆 Daytime    58 commits  ███▉░░░░░░░░░░░░░░░░░  19.0%
+🌃 Evening   124 commits  ████████▌░░░░░░░░░░░░  40.7%
+🌙 Night      30 commits  ██░░░░░░░░░░░░░░░░░░░   9.8%
 ```
 
 <!-- early_bird end -->
