@@ -24,9 +24,9 @@
 傘下 - 電視劇《歡喜來逗陣                   Phil Chang
 海闊天空                                        信樂團
 那就這樣吧                               Power Station
-兩個人的煙火 - 電影《大城                     Leon Lai
 如果你冷                                Zhang Yu Sheng
 Dear Friend                                     Shunza
+口是心非                                Zhang Yu Sheng
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@ Dear Friend                                     Shunza
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    92 commits  ██████▎░░░░░░░░░░░░░░  30.2%
+🌞 Morning    93 commits  ██████▍░░░░░░░░░░░░░░  30.5%
 🌆 Daytime    58 commits  ███▉░░░░░░░░░░░░░░░░░  19.0%
-🌃 Evening   125 commits  ████████▌░░░░░░░░░░░░  41.0%
+🌃 Evening   124 commits  ████████▌░░░░░░░░░░░░  40.7%
 🌙 Night      30 commits  ██░░░░░░░░░░░░░░░░░░░   9.8%
 ```
 
