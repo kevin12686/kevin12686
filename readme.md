@@ -18,15 +18,15 @@
 
 ```text
 沒有煙抽的日子                          Zhang Yu Sheng
-月半彎                                    Jacky Cheung
 給所有知道我名字的人                        Zhao Chuan
 我愛妳彭拉昆                                Nico & Kim
 傘下 - 電視劇《歡喜來逗陣                   Phil Chang
 海闊天空                                        信樂團
 那就這樣吧                               Power Station
-如果你冷                                Zhang Yu Sheng
 Dear Friend                                     Shunza
 口是心非                                Zhang Yu Sheng
+我期待                                Zhang Yu Sheng &
+好久不見                                    Julia Peng
 ```
 
 <!-- spotify end -->
