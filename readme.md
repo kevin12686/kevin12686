@@ -19,7 +19,6 @@
 ```text
 沒有煙抽的日子                          Zhang Yu Sheng
 給所有知道我名字的人                        Zhao Chuan
-我愛妳彭拉昆                                Nico & Kim
 海闊天空                                        信樂團
 那就這樣吧                               Power Station
 口是心非                                Zhang Yu Sheng
@@ -27,6 +26,7 @@
 喜歡你可不可以                                 NAT健豪
 最愛的人傷我最深                      Zhang Yu Sheng &
 真實                                 A-Mei Chang & Jer
+愛到無命不知驚                                  王識賢
 ```
 
 <!-- spotify end -->
@@ -36,10 +36,10 @@
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    92 commits  ██████▎░░░░░░░░░░░░░░  30.2%
+🌞 Morning    92 commits  ██████▎░░░░░░░░░░░░░░  30.1%
 🌆 Daytime    58 commits  ███▉░░░░░░░░░░░░░░░░░  19.0%
-🌃 Evening   125 commits  ████████▌░░░░░░░░░░░░  41.0%
-🌙 Night      30 commits  ██░░░░░░░░░░░░░░░░░░░   9.8%
+🌃 Evening   125 commits  ████████▌░░░░░░░░░░░░  40.8%
+🌙 Night      31 commits  ██▏░░░░░░░░░░░░░░░░░░  10.1%
 ```
 
 <!-- early_bird end -->
