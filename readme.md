@@ -23,10 +23,10 @@
 那就這樣吧                               Power Station
 口是心非                                Zhang Yu Sheng
 我期待                                Zhang Yu Sheng &
-喜歡你可不可以                                 NAT健豪
 最愛的人傷我最深                      Zhang Yu Sheng &
-真實                                 A-Mei Chang & Jer
-愛到無命不知驚                                  王識賢
+愛在蔓延時                                      F.I.R.
+是否真的愛我                          Zhang Yu Sheng &
+以為你都知道                            Zhang Yu Sheng
 ```
 
 <!-- spotify end -->
