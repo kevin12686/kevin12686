@@ -23,7 +23,7 @@
 那就這樣吧                               Power Station
 口是心非                                Zhang Yu Sheng
 我期待                                Zhang Yu Sheng &
-最愛的人傷我最深                      Zhang Yu Sheng &
+最愛的人傷我最深 Zui Ai D             Zhang Yu Sheng &
 愛在蔓延時                                      F.I.R.
 是否真的愛我                          Zhang Yu Sheng &
 以為你都知道                            Zhang Yu Sheng
