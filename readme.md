@@ -24,9 +24,9 @@
 口是心非                                Zhang Yu Sheng
 我期待                                Zhang Yu Sheng &
 最愛的人傷我最深 Zui Ai D             Zhang Yu Sheng &
+我的未來不是夢                          Zhang Yu Sheng
 愛在蔓延時                                      F.I.R.
 是否真的愛我                          Zhang Yu Sheng &
-以為你都知道                            Zhang Yu Sheng
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    92 commits  ██████▎░░░░░░░░░░░░░░  30.1%
+🌞 Morning    93 commits  ██████▍░░░░░░░░░░░░░░  30.4%
 🌆 Daytime    58 commits  ███▉░░░░░░░░░░░░░░░░░  19.0%
-🌃 Evening   125 commits  ████████▌░░░░░░░░░░░░  40.8%
+🌃 Evening   124 commits  ████████▌░░░░░░░░░░░░  40.5%
 🌙 Night      31 commits  ██▏░░░░░░░░░░░░░░░░░░  10.1%
 ```
 
