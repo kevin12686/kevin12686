@@ -22,8 +22,8 @@
 海闊天空                                        信樂團
 那就這樣吧                               Power Station
 口是心非                                Zhang Yu Sheng
-我期待                                Zhang Yu Sheng &
 天天想你                                Zhang Yu Sheng
+我期待                                Zhang Yu Sheng &
 最愛的人傷我最深 Zui Ai D             Zhang Yu Sheng &
 我的未來不是夢                          Zhang Yu Sheng
 愛在蔓延時                                      F.I.R.
