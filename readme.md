@@ -22,11 +22,11 @@
 海闊天空                                        信樂團
 那就這樣吧                               Power Station
 波斯猫                                           S.H.E
+愛上一個不回家的人                    Sandy Lam & Wong
 口是心非                                Zhang Yu Sheng
 我的未來不是夢                          Zhang Yu Sheng
 我期待                                Zhang Yu Sheng &
 最愛的人傷我最深 Zui Ai D             Zhang Yu Sheng &
-愛在蔓延時                                      F.I.R.
 ```
 
 <!-- spotify end -->
@@ -36,9 +36,9 @@
 <!-- early_bird start -->
 
 ```text
-🌞 Morning    92 commits  █████▉░░░░░░░░░░░░░░░  28.5%
-🌆 Daytime    69 commits  ████▍░░░░░░░░░░░░░░░░  21.4%
-🌃 Evening   131 commits  ████████▌░░░░░░░░░░░░  40.6%
+🌞 Morning    92 commits  █████▉░░░░░░░░░░░░░░░  28.4%
+🌆 Daytime    69 commits  ████▍░░░░░░░░░░░░░░░░  21.3%
+🌃 Evening   132 commits  ████████▌░░░░░░░░░░░░  40.7%
 🌙 Night      31 commits  ██░░░░░░░░░░░░░░░░░░░   9.6%
 ```
 
