@@ -24,9 +24,9 @@
 波斯猫                                           S.H.E
 愛上一個不回家的人                    Sandy Lam & Wong
 口是心非                                Zhang Yu Sheng
+人生的歌                                Huang Yee Ling
 我的未來不是夢                          Zhang Yu Sheng
 我期待                                Zhang Yu Sheng &
-最愛的人傷我最深 Zui Ai D             Zhang Yu Sheng &
 ```
 
 <!-- spotify end -->
