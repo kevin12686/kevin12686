@@ -1,10 +1,9 @@
 ## Hi, there 👋, I'm Kevin. Nice to meet you.
 
-- 🌱 I’m currently studying computer sicence at UTD.
-- ⚡ I'm currently a full stack web developer.
+- 🌱 I’m currently studying computer science at UTD.
+- ⚡ I'm currently a full-stack web developer.
 
 <a href="https://www.linkedin.com/in/kevin12686/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="https://www.instagram.com/kevin12686/"><img src="https://img.shields.io/badge/instagram-3f729b?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 
 ## Tech Stack
 
